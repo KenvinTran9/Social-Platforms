@@ -1,0 +1,41 @@
+run:
+  out_dir: "data/raw"
+  max_items_per_source: 10
+  dedupe_window_days: 14
+  languages: ["en", "vi"]   # [] = accept all
+
+topics:
+  - video editing
+  - small business
+  - productivity
+  - freelancing
+
+keywords:
+  include: ["struggle","pain","frustrated","need help","why is it so hard"]
+  exclude: ["giveaway","promo"]
+
+sources:
+  reddit:
+    enabled: true
+    subreddits: ["Entrepreneur","SaaS","Startups","SmallBusiness","Freelance"]
+    auth:
+      client_id: "${REDDIT_CLIENT_ID}"
+      client_secret: "${REDDIT_CLIENT_SECRET}"
+      user_agent: "idea-collector/0.1"
+  tiktok:
+    enabled: true
+    hashtags: ["freelancelife","startup","smallbusiness"]
+  facebook:
+    enabled: true
+    groups: ["freelance community","startup founders group"]
+  twitter:
+    enabled: true
+    queries:
+      - "\"why is it so hard\" OR \"I hate when\" OR frustrated (startup OR \"small business\" OR freelancing)"
+    auth:
+      bearer_token: "${TWITTER_BEARER_TOKEN}"
+  youtube:
+    enabled: true
+    search_terms: ["video editing workflow","small business accounting"]
+    auth:
+      api_key: "${YOUTUBE_API_KEY}"
