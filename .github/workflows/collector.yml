@@ -2,8 +2,8 @@ name: Run Collector
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # chạy mỗi 5 phút
-  workflow_dispatch:         # cho phép chạy thủ công
+    - cron: 0 */8 * * *
+  workflow_dispatch:        
 
 jobs:
   run-collector:
