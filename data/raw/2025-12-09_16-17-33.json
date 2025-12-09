@@ -1,0 +1,226 @@
+{
+  "metadata": {
+    "total_items": 20,
+    "sources": {
+      "youtube": 10,
+      "reddit": 10
+    },
+    "fetched_at": "2025-12-09T16:17:33.173160"
+  },
+  "data": {
+    "youtube": [
+      {
+        "videoId": "3MD9PgzBfbY",
+        "title": "My Simple YouTube Video Editing Workflow in Resolve",
+        "description": "Check out MotionVFX: http://tinyurl.com/GKMotionVFX ▷Use code \"GEORGE10\" for 10% off! In this one we're looking at how the ...",
+        "channelTitle": "George Kamenov",
+        "publishedAt": "2024-08-27T14:30:01Z",
+        "url": "https://www.youtube.com/watch?v=3MD9PgzBfbY",
+        "fetched_at": "2025-12-09T16:17:24.250177"
+      },
+      {
+        "videoId": "OIqjHD9XFHo",
+        "title": "Bookkeeping Sinhala | Small Business Bookkeeping Sri Lanka | Cash Logics",
+        "description": "Subscribe and keep in touch with us. Hit the bell icon get notified on our new uploads. Presenter & Director - Kelum Madhusanka ...",
+        "channelTitle": "Cash Logics",
+        "publishedAt": "2024-08-20T11:30:13Z",
+        "url": "https://www.youtube.com/watch?v=OIqjHD9XFHo",
+        "fetched_at": "2025-12-09T16:17:24.623195"
+      },
+      {
+        "videoId": "eC8wfWc3dVU",
+        "title": "Editing Workflow Hacks 💻✨#editing #videography #filmmaking #premierepro",
+        "description": "",
+        "channelTitle": "Gaku Lange",
+        "publishedAt": "2024-08-06T10:58:05Z",
+        "url": "https://www.youtube.com/watch?v=eC8wfWc3dVU",
+        "fetched_at": "2025-12-09T16:17:24.250190"
+      },
+      {
+        "videoId": "HdvTO9rvSm4",
+        "title": "Best YouTube Editing Workflow in 2024! - DaVinci Resolve Video Editing Tips!",
+        "description": "9 Nodes Workshop: https://www.groundcontrol.film/9-nodes-workshop — FREE Fusion Mini Course: ...",
+        "channelTitle": "Casey Faris",
+        "publishedAt": "2024-01-27T14:30:04Z",
+        "url": "https://www.youtube.com/watch?v=HdvTO9rvSm4",
+        "fetched_at": "2025-12-09T16:17:24.250193"
+      },
+      {
+        "videoId": "OyRkDL6DkBY",
+        "title": "3 step editing workflow",
+        "description": "Video editing Adobe Premiere Pro DaVinci Resolve Tutorial.",
+        "channelTitle": "RESO\\VED",
+        "publishedAt": "2023-05-16T23:58:21Z",
+        "url": "https://www.youtube.com/watch?v=OyRkDL6DkBY",
+        "fetched_at": "2025-12-09T16:17:24.250191"
+      },
+      {
+        "videoId": "gOchfGvTogk",
+        "title": "My simple video editing workflow | Make video editing easier!",
+        "description": "Transform your photography today: https://www.scottedwardsyoutube.com Video editing is a craft. It takes a lot of time to make ...",
+        "channelTitle": "Scott Edwards",
+        "publishedAt": "2022-10-27T14:00:33Z",
+        "url": "https://www.youtube.com/watch?v=gOchfGvTogk",
+        "fetched_at": "2025-12-09T16:17:24.250188"
+      },
+      {
+        "videoId": "pKpdibyljR4",
+        "title": "The BOOKKEEPING BASICS for BEGINNERS",
+        "description": "Bookkeeping is the recording of past financial data to make future business decisions. In this tutorial, you'll learn what ...",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2022-06-29T20:30:06Z",
+        "url": "https://www.youtube.com/watch?v=pKpdibyljR4",
+        "fetched_at": "2025-12-09T16:17:24.623190"
+      },
+      {
+        "videoId": "yFJKQJJ0yMU",
+        "title": "Small Business Accounting Explained in Four Minutes",
+        "description": "Keeping track of your money is a vital component of your new business. Accounting sounds like a daunting term - and there is a ...",
+        "channelTitle": "Xero Accounting Software",
+        "publishedAt": "2021-12-19T21:02:27Z",
+        "url": "https://www.youtube.com/watch?v=yFJKQJJ0yMU",
+        "fetched_at": "2025-12-09T16:17:24.623197"
+      },
+      {
+        "videoId": "fm3XDBw3oRg",
+        "title": "How to keep accounts for a small business | small business books keeping in sinhala",
+        "description": "Link for Excel Format.................. click on the link and go to file and select download ...",
+        "channelTitle": "Bis Talks",
+        "publishedAt": "2020-12-10T21:38:25Z",
+        "url": "https://www.youtube.com/watch?v=fm3XDBw3oRg",
+        "fetched_at": "2025-12-09T16:17:24.623193"
+      },
+      {
+        "videoId": "3KeG7hHzUy4",
+        "title": "Accounting Basics for Small Business Owners [By a CPA]",
+        "description": "Learn the accounting basics for small business from a CPA. Today, you will learn the role of accounting in small business.",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2020-10-12T11:00:02Z",
+        "url": "https://www.youtube.com/watch?v=3KeG7hHzUy4",
+        "fetched_at": "2025-12-09T16:17:24.623180"
+      }
+    ],
+    "reddit": [
+      {
+        "id": "1phlsw0",
+        "title": "Stripe is holding $8,000 of my money indefinitely. My post on r/stripe hit 16k views and was removed. Here are the receipts.",
+        "selftext": "I run a small business in Australia. Stripe is keeping $7,946 of my money permanently. When I posted about it on r/stripe, it hit 16,000 views within hours. Then the mods removed it. Screenshots attached.\n\nThis is what happened.\n\nA client paid me $5,500 USD for completed AI development work. Stripe refuses to release it. Their justification: a completely unrelated $50 dispute from a random person. That dispute is already resolved. The person got their refund weeks ago. Case closed.\n\nDespite that, Stripe is using this resolved $50 dispute to hold nearly $8,000 that has nothing to do with it.\n\nKey facts:\n\n• I passed all verification requirements. Identity, documents, compliance checks. Dashboard showed all tasks completed.\n\n• Stripe froze my account the day before the payout was scheduled. Not during any investigation. They waited until the last moment.\n\n• Stripe claimed they would refund money to customers within five days. My client confirmed they received nothing. Stripe kept the funds.\n\n• My client provided a signed statement confirming the payment was legitimate, the work was delivered, and no dispute will ever be filed. Stripe ignored it.\n\n• All communication from Stripe is a copy-paste response: “high risk.” No explanation, no evidence, no path to resolution.\n\nThe numbers:\n\nDisputed amount: $50\nAmount Stripe is keeping: $7,946\nRatio: 160 times the disputed amount\nThe dispute is from a different customer and is already resolved.\n\nWhat I’ve done:\n\n• Complaint filed with Stripe. Their final answer: “We’re keeping your money.”\n• Complaint filed with AFCA (Australian Financial Complaints Authority). Case number: 12-25-334332\n• Final Notice filed in SA Magistrates Court. Case number: FNL-25-010285\n• Report filed with ACCC for unconscionable conduct. Reference: accc-report:0098524\n• Posted on r/stripe. Removed after going semi-viral. Screenshots attached.\n\nI followed every rule. Verified identity. Provided documentation. Delivered the work. My client is happy. Stripe decided to keep the money anyway.\n\nIf Stripe can withhold funds arbitrarily, ignore evidence, and silence criticism, every small business is at risk.\n\nSharing this so others understand the danger before relying on Stripe.",
+        "subreddit": "smallbusiness",
+        "author": "Lanky_Constant1938",
+        "score": 811,
+        "num_comments": 213,
+        "created_utc": 1765222286.0,
+        "permalink": "https://www.reddit.com/r/smallbusiness/comments/1phlsw0/stripe_is_holding_8000_of_my_money_indefinitely/",
+        "fetched_at": "2025-12-09T16:17:30.320394"
+      },
+      {
+        "id": "1ph9o5r",
+        "title": "Cofounder rage quit, forked the repo, and emailed our customers 😭",
+        "selftext": "So yeah… my week hasn't started out great.\n\nMe and my cofounder (let’s call him \"Dave\", not his real name obv) started a B2B SaaS about 18 months ago. It’s been a grind but we actually hit some MRR that might get us semiprofitable soon.\n\nAnyway, last few weeks he’s been getting weird about \"ownership\". Keeps saying stuff like \"I feel like an employee in my own startup\". Which… idk, maybe sorta fair? He’s at 35% equity. But I’ve been the one doing all the fundraising, sales, ops, support, marketing, you name it.\n\nThis morning I wake up to 47 Slack messages. He rage quit last night, forked the entire repo to his personal GitHub, and sent an email to a few of our paying customers saying he’s the real founder and that he’s \"starting fresh without the baggage\". Then he deleted himself from our Slack.\n\nOur dev team is freaking out. Investors are texting me \"wtf happened?\" and I’m somewhere between panic and laughter at this point.\n\nAnyway, lawyers are now involved.. Has anyone else ever had a cofounder go nuclear like this? Is there any coming back from this, or is it just scorched earth and move on?\n\nPosting from a throwaway account here... sorry guys. I'm actually quite active on my regular account and I think I've seen a eerily similar story here a while back (an omen?) but I can't seem to find it anymore to see what the advice was.",
+        "subreddit": "SaaS",
+        "author": "Wonderful_Bet_4901",
+        "score": 760,
+        "num_comments": 309,
+        "created_utc": 1765191868.0,
+        "permalink": "https://www.reddit.com/r/SaaS/comments/1ph9o5r/cofounder_rage_quit_forked_the_repo_and_emailed/",
+        "fetched_at": "2025-12-09T16:17:27.090684"
+      },
+      {
+        "id": "1ph7xwz",
+        "title": "I HATE working with FAANG engineers in the early days of startups",
+        "selftext": "Over the past years, I have managed 100+ engineers. Some of them came from Google, Facebook, Microsoft. Others came from failed startups, 3-person teams, and garage companies.\n\n**FAANG engineers think in terms of optimization.**  \n**Startup engineers think in terms of survival.**\n\nThese are completely different skill sets.\n\nA FAANG-style engineer thinks: **we should add proper caching, set up monitoring, and plan for horizontal scaling.**\n\nA startup-style engineer thinks: **let’s ship the feature today and see if anyone even wants it.**\n\nLet's say the client needed a simple login system for their MVP.\n\nThe FAANG engineer will spend **two weeks** building OAuth integration, password encryption, session management, and rate limiting.\n\nThe startup engineer used Firebase Auth and finished in **two hours.**\n\nBoth solutions work.  \n**One helps you raise funding.**  \n**The other might burn your runway.**\n\nFAANG engineers focus on **tomorrow’s challenges.** \n\n* What if we get a million users? \n* How do we handle traffic spikes? \n* What is our disaster recovery plan?\n\nStartup engineers focus on **today’s challenges.** \n\n* Will anyone even sign up? \n* Can we ship before the runway ends? \n* What is the fastest way to test the idea?\n\n**Here is the rule.**\n\nBefore product-market fit, **you need people who know how to survive.**  \nAfter product-market fit, **you need people who know how to scale.**\n\nHiring the wrong type of engineer at the wrong stage can destroy your startup.\n\nA three-person team does not need Google-level infrastructure.  \nIt needs to stay alive long enough to find product-market fit.\n\n**Build quickly. Ship even faster. Optimize later.**\n\nP.S. **I still love FAANG engineers.** They are just not the right fit on day one of a startup.We have more than a hundred startup-native engineers ready to help your team.\n\nP.P.S. - AI assisted with own thoughts.",
+        "subreddit": "SaaS",
+        "author": "Cool_Thought3153",
+        "score": 504,
+        "num_comments": 177,
+        "created_utc": 1765185266.0,
+        "permalink": "https://www.reddit.com/r/SaaS/comments/1ph7xwz/i_hate_working_with_faang_engineers_in_the_early/",
+        "fetched_at": "2025-12-09T16:17:27.090700"
+      },
+      {
+        "id": "9imfv9",
+        "title": "Please Read This Before Posting or Commenting",
+        "selftext": "**Violating [the rules of this subreddit](https://old.reddit.com/r/freelance/about/rules) will cause your post/comment will be removed and you will be banned PERMANENTLY. This is your only warning!** If you are unsure about whether a potential post or comment is suitable, [contact the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Ffreelance) for guidance **before** posting it.\n\nIf you're asking a question, there's a good chance that it has already been answered! **[Read the wiki](/r/freelance/wiki/) and do a [search](https://www.reddit.com/r/freelance/search?q=&restrict_sr=on&sort=relevance&t=all) before submitting your post.**\n\nJust because your question involves freelancing does not mean that it is the best subreddit for it. Depending on your question, one of these other subreddits might be more appropriate:\n\n* /r/bigseo\n* /r/careerguidance\n* /r/copywriting\n* /r/DigitalNomad\n* /r/forhire\n* /r/freelanceUK\n* /r/freelanceWriters\n* /r/graphic_design\n* /r/jobs\n* /r/photography\n* /r/tax\n* /r/TranslationStudies\n* /r/UpWork\n* /r/videography\n* /r/webdev",
+        "subreddit": "freelance",
+        "author": "martey",
+        "score": 490,
+        "num_comments": 0,
+        "created_utc": 1537827417.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/9imfv9/please_read_this_before_posting_or_commenting/",
+        "fetched_at": "2025-12-09T16:17:32.171739"
+      },
+      {
+        "id": "1p65rry",
+        "title": "Client ghosted me twice… then used my whole proposal to “build the app himself with ChatGPT”",
+        "selftext": "Had a client I’d been talking to for almost two years.\nComplex mobile app, two sided, video editing, payments, creator map flow… the real deal.\n\nI spent hours writing a full proposal, documenting the exact APIs, tools, workflows, stack.. everything.\nMVP price was ~$17K.\n\nHe hesitated.\nGhosted.\nCame back.\nGhosted again.\nCame back asking about payment plans.\nThen disappeared.\n\nAfter 10 days, he texts me:\n\n“Bro I built the full app myself using ChatGPT + Lovable for $500.\nFull backend on Supabase, Ayrshare, Banuba, email login, maps, everything.\nWanna show you.”\n\nBro basically used my entire documentation as a blueprint.\n\nThen asked if I can help him hourly.\n\nI said no. Got too much on my plate and not trying to be anyone’s free CTO.\n\nJust curious if other freelancers are starting to see clients suddenly become “AI developers” overnight because ChatGPT spits out some boilerplate code.\nHow do you deal with these situations without losing time or patience?\n",
+        "subreddit": "freelance",
+        "author": "Southern-State-2488",
+        "score": 439,
+        "num_comments": 125,
+        "created_utc": 1764053727.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1p65rry/client_ghosted_me_twice_then_used_my_whole/",
+        "fetched_at": "2025-12-09T16:17:32.171772"
+      },
+      {
+        "id": "1phswqf",
+        "title": "My \"side feature\" generates 3x more revenue than my main product and now im confused",
+        "selftext": "I launched a project management tool targeting freelancers and small agencies. Spent a good amount of time building out the main features, task boards, time tracking, client portals, all that stuff. Had some money saved up which I burned through pretty quick on development and some basic ads.\n\nRecently im looking at my stripe dashboard trying to figure out why revenue jumped. Turns out 70% of my paying users barely touch the main product. They're all using this random invoice generator I added as an afterthought because I needed it for myself.\n\nThe invoice thing was super quick to build, really basic, but apparently freelancers are just desperate for something that doesnt look like ass and actually calculates taxes properly. Meanwhile my beautifully designed kanban boards that I spent forever perfecting? Crickets.\n\nNow im sitting here wondering if I should just pivot completely and go all in on invoicing/billing tools or keep pretending my PM features matter. Part of me feels like an idiot for not seeing this sooner but another part is like... at least somethings working?",
+        "subreddit": "Entrepreneur",
+        "author": "ideal_opposition",
+        "score": 343,
+        "num_comments": 65,
+        "created_utc": 1765239137.0,
+        "permalink": "https://www.reddit.com/r/Entrepreneur/comments/1phswqf/my_side_feature_generates_3x_more_revenue_than_my/",
+        "fetched_at": "2025-12-09T16:17:25.454581"
+      },
+      {
+        "id": "1pgllc1",
+        "title": "LPT: You are not supposed to have 40 hours/week of billable work each week",
+        "selftext": "I struggle with this too. Freelancers have to deal with much more marketing/sales stuff.\n\nOn top of that, tax bureaucracy as a freelancer is a ton of work compared to a regular employee. This is even worse in earlier years of this new career path.\n\nFreelancing is also more stressful than a regular job so we need more downtime and relaxtion hours than a regular employee\n\n\nI don't want to quote a specific number. But weekly billable hours for a freelancer should be:\n\n> 40 hours - Hours required for extra side work - Few more extra relaxation hours",
+        "subreddit": "freelance",
+        "author": "MysteryMan526",
+        "score": 116,
+        "num_comments": 28,
+        "created_utc": 1765122599.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1pgllc1/lpt_you_are_not_supposed_to_have_40_hoursweek_of/",
+        "fetched_at": "2025-12-09T16:17:32.171750"
+      },
+      {
+        "id": "1phs91q",
+        "title": "I started my business without a dime 3 years ago and managed to scale it to multi-6 figures/year. Sharing my insights here for anyone who needs to read this.",
+        "selftext": "Back when I was taking my first steps as an entrepreneur, most of the people in my environment warned me about the riskiness of running my own business, and how less than 10% of all startups survive their first year. \"It most likely won't succeed\", they told me, \"Odds are against you\", and every other platitude most of us here have heard for God knows how many times.\n\nThe one thing no one warned me about was the Pandora's box of hardships that were to be unsealed once I got over that first hill and made it out of the Startup Phase.\n\n# Early Game\n\nI started my company three years ago with a simple premise: helping other small companies in my niche field market their products creatively and efficiently. I had a pretty unique strategy that resonated well with my ICP, and my focus was on quality and genuineness, which clients quickly picked up on. I secured a few long-term jobs early on with a, I'd say, less than 1% chance as a fresh-from-college unknown that I was. But they saw something in me and gave me a chance, and I couldn't have been happier about it.\n\nOh yes, and my prices were low. Like *really* low - I charged around $1000 for a month of work on multiple platforms. At the time, that money was *wow* for me, but looking from today's perspective, a petty change for the businesses I was reaching out to.\n\nI also got recommendations from influential people in the field who believed in me and did their best to help. That was *the* lucky moment for my business, and probably the main reason I survived that first year. Cash was coming in, people were satisfied with my work, I soon added another person to the company, and it all made me think *“*Damn, I cracked it. This is it.*”*\n\nBut here’s the part no one tells you:\n\n**Early success blinds you.** You think the momentum will last forever. You think scaling is just “copy what works, add more people\" but that can't be further from the truth.\n\nAnother year passed without much change. For sales, I mostly relied on the uniqueness of my services and the creative, out-of-the-box approach that I \"patented\". It was easy to sell, especially for the price that I held at the time. For operations - we established some routines and recurring processes, created the first version of our one-pager website on Carrd, and added another person to the team.\n\nThe business was on a smooth sail - some months we made enough to comfortably survive, some to consider expanding further. By this time, we had made enough money to make some improvements on the official stuff - website, service deck, contracts, etc. We could pay for tools like ChatGPT Enterprise, Lovable AI, Notion Business, Slack, etc., hire designers and coders from Devoted Fusion and Devoted Studios, or just outsource some of the work we're not skilled at to the professionals.\n\nHowever, there was another trouble quietly brewing during this \"expansion\" period. As the company started growing, the business also started running into some issues, and it was all about to come crashing down on me.\n\n# Expansion Phase\n\nBefore we dive into the issues that I faced and how I overcame them, I'd like to note that my goal here is not to demotivate people from wandering down the entrepreneurial path; but rather help them face these obstacles ready and capable, because they *will* come. Let's dive into them now:\n\n* **My business was based on high-quality services. However, controlling the quality of the output became harder as I employed more people.**\n   * My solution: 3-4 months of 1:1, 1-2 hour-long training/teaching of the new employees before they start working without my monitoring. I retained the quality to, I'd say 70-80%, but training new people became especially time-consuming.\n* **Uniqueness of my approach** \\- the main thing that helped sell my campaigns easily became an issue when it came to finding talent. Uniqueness meant that finding highly specialized people was almost impossible, so I had to rely on other methods.\n   * My solution: Employ people who show high generalized creative and analytical skills, then teach them to do the exact work - instead of relying on employing the experts in the field who were too few and too expensive. Made it easier to find new talent, but more time consuming and required more dedicated training.\n* **I had to raise prices (otherwise I'd drown), and this brought 3 issues:**\n   * a) Selling became harder. $1000 for multi-platform work was a no-brainer for most people interested in my services. Change that to $2000+ per platform, and suddenly you'll find yourself looking at weeks of internal consideration by the prospects before they even give you a definite yes or no. Plus, you'll flat out sell less.\n   * b) If you're selling your work for much lower than the market average (even in my scenario with unique services, there *was* an estimated market average), barely anyone asks for case studies, numbers, or proof of work. I remember getting so used to the relaxing meetings where I'd sell in the first 15 minutes, and then spend the rest of the time just chatting with the new client about some unrelated stuff. Once you raise the prices, suddenly you'll find yourself spending 45 minutes explaining every itty bitty detail about the work you do and showing proof, testimonials, and recommendations. Oh, and prospects *will* reach out to the people in your testimonials, so don't even think about faking them.\n   * c) You're now competing with the bigger fish. One thing nobody taught you when you were starting was that the price brackets were real. The moment you raise your prices and cross into the next price bracket, even by a cent, you're competing with the more established, better organized, and better backed-up companies. As a small company with dirt low prices, you were like a puppy that everyone wanted to help out. Sure, they'll let you bring the newspaper every morning for a few pennies, and no, it's not a problem if it ends up a little wet. But now, you're a grown up dog with a few scars on your face and everyone's expecting real, hard-proven value from you. You'll have to bark at the mailman, bring the newspaper without a single drop on it, and be ready to play whenever that's expected from you. Oh, and before that, you'll have to convince everyone why it's better to adopt you rather than a highly-trained veteran who already knows every mailman by their scent from a mile away.\n* **Organization**\n   * By this time, you already need to hire an all-around HR who can handle hiring & onboarding processes during the hiring times, and people management during the times when you're not hiring. You also need to find the best tools to organize your work because there's too many people and too many projects to keep track of yourself. I tried multiple because one wasn't enough - Notion worked really well for compiling and organizing raw data, Google Sheets were awesome for keeping track of clients and campaigns because of their simplistic, very clear design, and ChatGPT helped with structuring and automating some parts of the operations.\n   * Legal, Financial, and Administrative advisors are a MUST. Find the best ones you can afford and ask for a long-term subscription where they'd help with any legal documents, financial advising, and administrative tasks when needed, but since you won't have them all the time, you'll pay a lower subscription price.\n* **Surviving your growth**\n   * As you can imagine, all of these raise your company's expenses a lot. It's not as simple as subtracting a few salaries and taxes from your total revenue now; **YOU NEED** financial optimization. Understanding how to do things cheaper, what to pay for and what to do yourself, and ultimately, minimizing the expenses while retaining the quality is crucial.\n   * I managed to save about $4000 on revamping my website and service deck by hiring designers from Devoted Fusion (they were also kind enough to lend me a programmer from their main company, Devoted Studios, who helped with improving and optimizeing the code on the website), figuring out the right prompting strategy with ChatGPT, to finally using all of that and create a website with Lovable AI instead of paying for one. It cost me about 20 hours of work in total (mind that I would have to spend at least 10 hours anyway compiling all the data for the website and doing the copywriting) to build a website from scratch. Just 10 hours of extra work to save $4000+. ChatGPT helped me with the strategy and the right prompts, and I hired a talented designer from Devoted Fusion who helped with the logo and the website's overall design. Then Lovable did all the manual lifting for me and put together a website that, after about 400 prompts, looked exactly the way I wanted it to.\n* **High-level decisions**\n   * Do you stay in the same industry and expand by adding different services/products to your deck, or commit to your main few services/products but expand to other industries? Do you employ AI tools/agents to cover and automatize some of the work, or rely on adding more employees? Is the industry you're part of sinking without a sign that it'll get better soon, or is it just starting to grow? And in regards to this - should you stick to the industry so once it starts growing you already have established reputation and renown; or you pivot to a different industry? Do you sacrifice your health yet again and push harder just that one more time to reach a goal? And if so, what's the threshold after which your health will be sacrtificed so many times that you'll have to take some time off?\n\n**All of these made me realize that, while it's often considered that the real testament of a company is how it survived the Startup Phase, the second part - Expansion - is actually the most important (and the most stressful) one**. My health deteriorated during this period under the sheer weight of all the responsibilities and the stress that was coming with them; and the worst part is - people barely mention that.\n\n**When you're just starting a company, you're excited, motivated, fresh, and probably coming from a more or less healthy spot**. These psychological and biological factors play a crucial role in your ability to handle responsibilities - you're more resistant to stress, less likely to blow up because of a minor issue that reappeared yet again, and overall more excited to do your work. 12-hour working days? You bet it. Weeks or even months during which your company is your main and only focus? Say no more.\n\nOn the other hand, **after 3 years, it's very likely that your motivation won't be as high as it used to be, you'll be more worn out both mentally and physically**. Daily stress won't just be a nuisance you signed up for when starting a company, but a ticking bomb in your head.\n\nHowever, there are also some beautiful things about entrepreneurship at this stage. First of all, **once you've reached that Expansion stage, you'll feel like a goddamn king of the world**. You officially made it, you managed to grow a successful and growing business, and you're making enough to live a comfortable life. Great job!\n\nYou've also developed dozens of very useful skills that will always be of value, and you've learned a few things about succeeding in life. People from your industry respect you, you have partners and friends who speak highly of you and your business, and generally, yo feel like you're doing the right thing... because you are!\n\n# Closing Insights\n\n**Entrepreneurship will cost you a lot**. More than most people can even imagine, and definitely more than anyone realizes when they're first starting. But it also gives a lot.\n\n**I am an entrepreneur**. I was born with entrepreneurship in my veins, I couldn't hold a regular job for more than two months, and couldn't ever imagine being stuck in an office for 40 years... or until I die, hopefully earlier than that. Sometimes, I question my decision and envy not being able to finish my work at 5 in the afternoon, and just forget about it until tomorrow morning. I envy not being able to have a coffee with my friends when I want, chit chat about random, daily happenings, and go back home to watch a movie. But then I realize that no hobby, no coffee with friends, and no movies could make me feel the way building my own business does. The life of an entrepreneur is built to look like a fairytale. It's not a fairytale for sure, even if you're successful, but it's a damn fun journey that you'll eternally fall in love with.",
+        "subreddit": "Entrepreneur",
+        "author": "RainbowFatDragon",
+        "score": 110,
+        "num_comments": 31,
+        "created_utc": 1765237425.0,
+        "permalink": "https://www.reddit.com/r/Entrepreneur/comments/1phs91q/i_started_my_business_without_a_dime_3_years_ago/",
+        "fetched_at": "2025-12-09T16:17:25.454590"
+      },
+      {
+        "id": "1p0pead",
+        "title": "Started in June and already have 2 clients",
+        "selftext": "Maybe it’s not much but I feel like it’s a great success given that I started with no portfolio and no network a few months ago. \nI have to say I got lucky getting those clients, but I think everyone deserves some luck sometimes 😅\nAt the moment it’s not quite enough for feeding my family alone but I hope eventually I’ll be able to do so.\nI just wanted to share this with you guys as I am very happy and excited to be here. I never thought it was possible for me to start like that. I mean I was working in a company a year ago and now I’m doing my own thing. It’s exciting and I have already learned so much. \n\nWishing you all the best for your journey being or becoming a freelancer. \n",
+        "subreddit": "freelance",
+        "author": "BrogrammerAbroad",
+        "score": 77,
+        "num_comments": 53,
+        "created_utc": 1763503301.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1p0pead/started_in_june_and_already_have_2_clients/",
+        "fetched_at": "2025-12-09T16:17:32.171794"
+      },
+      {
+        "id": "1pgtmsu",
+        "title": "What’s with stealth mode startup on linkedin “I will not promote”",
+        "selftext": "I see linkedin with full of people on Stealth mode. Why? Unless you are famous who cares? If you are that afraid of revealing your idea. Why even mention it as stealth? Just keep it to yourself until have courage to show it. \n\nAre people that paranoid of getting their idea stolen? Google knew about LLMs but didn’t build it until ChatGPT. Apple had billions to build AI but build a garbage Siri. \n\nCopy cats exist but if you are not loudest in room. Who cares? \n\nEdit: I have seen some VC who use stealth. \n\n\n\n\n\n",
+        "subreddit": "startups",
+        "author": "First_Accountant_402",
+        "score": 65,
+        "num_comments": 70,
+        "created_utc": 1765141644.0,
+        "permalink": "https://www.reddit.com/r/startups/comments/1pgtmsu/whats_with_stealth_mode_startup_on_linkedin_i/",
+        "fetched_at": "2025-12-09T16:17:28.743343"
+      }
+    ]
+  }
+}
