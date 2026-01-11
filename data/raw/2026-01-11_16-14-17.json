@@ -1,0 +1,226 @@
+{
+  "metadata": {
+    "total_items": 20,
+    "sources": {
+      "youtube": 10,
+      "reddit": 10
+    },
+    "fetched_at": "2026-01-11T16:14:17.919204"
+  },
+  "data": {
+    "youtube": [
+      {
+        "videoId": "REpmmKN7EWU",
+        "title": "7 Steps to Edit a Video in DaVinci Resolve (Start to Finish)",
+        "description": "FREE PRACTICE MEDIA & CHEAT SHEET: ...",
+        "channelTitle": "Casey Faris",
+        "publishedAt": "2026-01-09T13:30:37Z",
+        "url": "https://www.youtube.com/watch?v=REpmmKN7EWU",
+        "fetched_at": "2026-01-11T16:14:08.801242"
+      },
+      {
+        "videoId": "fkNEj5oB4n0",
+        "title": "Best Small Business Accounting Software: Free vs. Paid – What’s Really Worth It? (2025)",
+        "description": "Find the right accounting software: https://softwareconnect.com/go/small-business-accounting-software-bf011 Whether you're a ...",
+        "channelTitle": "Software Connect",
+        "publishedAt": "2025-03-05T19:30:05Z",
+        "url": "https://www.youtube.com/watch?v=fkNEj5oB4n0",
+        "fetched_at": "2026-01-11T16:14:09.224747"
+      },
+      {
+        "videoId": "3MD9PgzBfbY",
+        "title": "My Simple YouTube Video Editing Workflow in Resolve",
+        "description": "Check out MotionVFX: http://tinyurl.com/GKMotionVFX ▷Use code \"GEORGE10\" for 10% off! In this one we're looking at how the ...",
+        "channelTitle": "George Kamenov",
+        "publishedAt": "2024-08-27T14:30:01Z",
+        "url": "https://www.youtube.com/watch?v=3MD9PgzBfbY",
+        "fetched_at": "2026-01-11T16:14:08.801225"
+      },
+      {
+        "videoId": "eC8wfWc3dVU",
+        "title": "Editing Workflow Hacks 💻✨#editing #videography #filmmaking #premierepro",
+        "description": "",
+        "channelTitle": "Gaku Lange",
+        "publishedAt": "2024-08-06T10:58:05Z",
+        "url": "https://www.youtube.com/watch?v=eC8wfWc3dVU",
+        "fetched_at": "2026-01-11T16:14:08.801244"
+      },
+      {
+        "videoId": "Gua2Bo_G-J0",
+        "title": "The ACCOUNTING BASICS for BEGINNERS",
+        "description": "Accounting is the process of recording, organizing, understanding, reporting on, and analyzing financial information of a business.",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2023-08-24T20:30:01Z",
+        "url": "https://www.youtube.com/watch?v=Gua2Bo_G-J0",
+        "fetched_at": "2026-01-11T16:14:09.224751"
+      },
+      {
+        "videoId": "gOchfGvTogk",
+        "title": "My simple video editing workflow | Make video editing easier!",
+        "description": "Transform your photography today: https://www.scottedwardsyoutube.com Video editing is a craft. It takes a lot of time to make ...",
+        "channelTitle": "Scott Edwards",
+        "publishedAt": "2022-10-27T14:00:33Z",
+        "url": "https://www.youtube.com/watch?v=gOchfGvTogk",
+        "fetched_at": "2026-01-11T16:14:08.801237"
+      },
+      {
+        "videoId": "pKpdibyljR4",
+        "title": "The BOOKKEEPING BASICS for BEGINNERS",
+        "description": "Bookkeeping is the recording of past financial data to make future business decisions. In this tutorial, you'll learn what ...",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2022-06-29T20:30:06Z",
+        "url": "https://www.youtube.com/watch?v=pKpdibyljR4",
+        "fetched_at": "2026-01-11T16:14:09.224745"
+      },
+      {
+        "videoId": "xWv391G8Nyw",
+        "title": "Learn the Basics of Bookkeeping [FREE QuickBooks Training]",
+        "description": "Bookkeeping Basics plus Quickbooks Training! Sign up with Quickbooks using this link for a STEEP discount off the regular price!",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2022-01-28T16:45:02Z",
+        "url": "https://www.youtube.com/watch?v=xWv391G8Nyw",
+        "fetched_at": "2026-01-11T16:14:09.224749"
+      },
+      {
+        "videoId": "3KeG7hHzUy4",
+        "title": "Accounting Basics for Small Business Owners [By a CPA]",
+        "description": "Learn the accounting basics for small business from a CPA. Today, you will learn the role of accounting in small business.",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2020-10-12T11:00:02Z",
+        "url": "https://www.youtube.com/watch?v=3KeG7hHzUy4",
+        "fetched_at": "2026-01-11T16:14:09.224734"
+      },
+      {
+        "videoId": "Ve7C_0XpFmA",
+        "title": "How To EDIT From START To FINISH - EDITING WORKFLOW",
+        "description": "BACK TO SCHOOL SALE!!! NEW LIGHTROOM PRESETS ONLY $9.99! - https://goo.gl/YKAtkY Presets for your videos ONLY ...",
+        "channelTitle": "Matti Haapoja",
+        "publishedAt": "2017-08-29T15:51:01Z",
+        "url": "https://www.youtube.com/watch?v=Ve7C_0XpFmA",
+        "fetched_at": "2026-01-11T16:14:08.801240"
+      }
+    ],
+    "reddit": [
+      {
+        "id": "1q6omig",
+        "title": "Upwork newbie here, just ran straight-up malware from a “client” project. What the actual f***",
+        "selftext": "Burner account because I’m beyond embarrassed and absolutely pissed.\n\nI’m new to Upwork. First “client” I get sends me a Next.js project and says “just run it locally and see if it works.”\n\nThey sent **malware**.\n\nAnd not sloppy malware. This was *deliberately hidden*.\n\nThey buried heavily obfuscated JavaScript **at the very bottom of** `nextjs.config.js`, AFTER `module.exports`, under a massive wall of blank lines so you wouldn’t even scroll there. Like, this was 100% intentional.\n\nOnce I actually de-obfuscated it, here’s what it was capable of:\n\n\\- Full file system access\n\n\\- Detecting the user’s home directory\n\n\\- Dynamically constructing file paths\n\n\\- Reading any file it had permission to read\n\n\\- Base64-encoding file contents (to hide what’s being sent)\n\n\\- Sending that data out via POST requests to remote servers\n\nTranslation: **if you ran it, assume your machine was compromised.**\n\nIf you are new here:\n\n* NEVER run client code blindly\n* Obfuscated JS = malicious. There is no legit reason for it here.\n* If a client says “just test it locally,” stop and think\n\n  \nI’m posting this out of pure rage because I don’t want another new dev to learn this lesson the hard way like I did.",
+        "subreddit": "freelance",
+        "author": "Jaded-Journalist2470",
+        "score": 759,
+        "num_comments": 56,
+        "created_utc": 1767813175.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1q6omig/upwork_newbie_here_just_ran_straightup_malware/",
+        "fetched_at": "2026-01-11T16:14:16.917839"
+      },
+      {
+        "id": "9imfv9",
+        "title": "Please Read This Before Posting or Commenting",
+        "selftext": "**Violating [the rules of this subreddit](https://old.reddit.com/r/freelance/about/rules) will cause your post/comment will be removed and you will be banned PERMANENTLY. This is your only warning!** If you are unsure about whether a potential post or comment is suitable, [contact the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Ffreelance) for guidance **before** posting it.\n\nIf you're asking a question, there's a good chance that it has already been answered! **[Read the wiki](/r/freelance/wiki/) and do a [search](https://www.reddit.com/r/freelance/search?q=&restrict_sr=on&sort=relevance&t=all) before submitting your post.**\n\nJust because your question involves freelancing does not mean that it is the best subreddit for it. Depending on your question, one of these other subreddits might be more appropriate:\n\n* /r/bigseo\n* /r/careerguidance\n* /r/copywriting\n* /r/DigitalNomad\n* /r/forhire\n* /r/freelanceUK\n* /r/freelanceWriters\n* /r/graphic_design\n* /r/jobs\n* /r/photography\n* /r/tax\n* /r/TranslationStudies\n* /r/UpWork\n* /r/videography\n* /r/webdev",
+        "subreddit": "freelance",
+        "author": "martey",
+        "score": 494,
+        "num_comments": 0,
+        "created_utc": 1537827417.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/9imfv9/please_read_this_before_posting_or_commenting/",
+        "fetched_at": "2026-01-11T16:14:16.917828"
+      },
+      {
+        "id": "1p65rry",
+        "title": "Client ghosted me twice… then used my whole proposal to “build the app himself with ChatGPT”",
+        "selftext": "Had a client I’d been talking to for almost two years.\nComplex mobile app, two sided, video editing, payments, creator map flow… the real deal.\n\nI spent hours writing a full proposal, documenting the exact APIs, tools, workflows, stack.. everything.\nMVP price was ~$17K.\n\nHe hesitated.\nGhosted.\nCame back.\nGhosted again.\nCame back asking about payment plans.\nThen disappeared.\n\nAfter 10 days, he texts me:\n\n“Bro I built the full app myself using ChatGPT + Lovable for $500.\nFull backend on Supabase, Ayrshare, Banuba, email login, maps, everything.\nWanna show you.”\n\nBro basically used my entire documentation as a blueprint.\n\nThen asked if I can help him hourly.\n\nI said no. Got too much on my plate and not trying to be anyone’s free CTO.\n\nJust curious if other freelancers are starting to see clients suddenly become “AI developers” overnight because ChatGPT spits out some boilerplate code.\nHow do you deal with these situations without losing time or patience?\n",
+        "subreddit": "freelance",
+        "author": "Southern-State-2488",
+        "score": 449,
+        "num_comments": 133,
+        "created_utc": 1764053727.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1p65rry/client_ghosted_me_twice_then_used_my_whole/",
+        "fetched_at": "2026-01-11T16:14:16.917880"
+      },
+      {
+        "id": "1q9n9uo",
+        "title": "After travelling for 5 years and not working - Honestly don't know what to do. f#@%!!!",
+        "selftext": "Hey guys,\n\nI'm in such a weird situation. I'm 38M. I grew up in Toronto Canada. I had founded a few small businesses before and exited all of them. It was after COVID, I had money in the bank. I went out to live my dream - I travelled/surfed full-time. Did not give a fuck about anything.\n\nIt was the dream life. Now, 5 years later, I get hit with a huuuuge tax bill ($100k+) from a previous transaction (real estate). It's gonna wipe out a lot of my net worth, so I can't survive on SP500/BTC anymore as I did before. \n\nI now live in Mauritius (world-class surf/kitesurf spot) but I can't legally work here. Also, it's a shit market to work in. The population is 1.3M and people are poor. It's paradise leisurely but a nightmare economically. BYOM (Bring your own money). \n\nI'm only legally allowed to work in Canada or online. \n\nI need to pull income again and refill my net worth. \n\nNo idea where to start....\n\nDo I become a plumber? I basically need to restart my career...\n\nI can start my own business again but honestly don't know what field. I haven't been in Canada for 5 years and now I'm visiting. I feel lost. I have no network....I'm a surfer dude who just came back into the Matrix after a 5-year hiatus. ",
+        "subreddit": "Entrepreneur",
+        "author": "LegitimateDream4942",
+        "score": 239,
+        "num_comments": 205,
+        "created_utc": 1768098375.0,
+        "permalink": "https://www.reddit.com/r/Entrepreneur/comments/1q9n9uo/after_travelling_for_5_years_and_not_working/",
+        "fetched_at": "2026-01-11T16:14:09.888780"
+      },
+      {
+        "id": "1pgllc1",
+        "title": "LPT: You are not supposed to have 40 hours/week of billable work each week",
+        "selftext": "I struggle with this too. Freelancers have to deal with much more marketing/sales stuff.\n\nOn top of that, tax bureaucracy as a freelancer is a ton of work compared to a regular employee. This is even worse in earlier years of this new career path.\n\nFreelancing is also more stressful than a regular job so we need more downtime and relaxtion hours than a regular employee\n\n\nI don't want to quote a specific number. But weekly billable hours for a freelancer should be:\n\n> 40 hours - Hours required for extra side work - Few more extra relaxation hours",
+        "subreddit": "freelance",
+        "author": "MysteryMan526",
+        "score": 171,
+        "num_comments": 46,
+        "created_utc": 1765122599.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1pgllc1/lpt_you_are_not_supposed_to_have_40_hoursweek_of/",
+        "fetched_at": "2026-01-11T16:14:16.917858"
+      },
+      {
+        "id": "1pj2y4s",
+        "title": "My Client is asking me to make the payment of 150 USD upfront so they can release the payment. (I feel like it's an elaborate scam )",
+        "selftext": "So I worked a gig for 3,000 USD. (In the contract, I did agree to bear all the transfer charges.)  \nAnd once I submitted the project, I was asked to choose between bank transfer, PayPal, and crypto. I chose the route through bank transfer, and they have initiated the payment, but it is on hold.  \nI asked them to please deduct the amount from their side, but they say it's reserved for company personnel only \n\nI had been sent a lodgement receipt and asked to make the payment of 150 USD\n\nbefore my payment is processed. I am sure this isn't how it works, or please correct me\n\nPlease help me",
+        "subreddit": "freelance",
+        "author": "Maleficent_Low7831",
+        "score": 157,
+        "num_comments": 61,
+        "created_utc": 1765374342.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1pj2y4s/my_client_is_asking_me_to_make_the_payment_of_150/",
+        "fetched_at": "2026-01-11T16:14:16.917855"
+      },
+      {
+        "id": "1px5iot",
+        "title": "The moment a DM quietly stops being “just a question” and starts being unpaid work",
+        "selftext": "I’ve noticed something repeat over and over in freelance DMs.\n\nSomeone reaches out with a small question. You answer thoughtfully. They respond with appreciation. Then they follow up with another “quick thing.” Then another. At some point you realize you’re effectively consulting for free, but it feels awkward to interrupt because nothing explicitly changed.\n\nWhat took me a long time to see is that the shift isn’t emotional, it’s linguistic.\n\nEarly messages sound exploratory. Later messages start narrowing scope. They reference specific sections. They assume continuation. The person isn’t asking *if* you can help anymore, they’re implicitly assigning you work.\n\nOnce I started paying attention to the language instead of the vibe, setting boundaries stopped feeling as awkward for me. The conversation had already moved. I just hadn’t noticed.\n\nCurious if others have noticed the same thing or how you handle that transition without killing the relationship.",
+        "subreddit": "freelance",
+        "author": "MentalAdversity",
+        "score": 117,
+        "num_comments": 58,
+        "created_utc": 1766861794.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1px5iot/the_moment_a_dm_quietly_stops_being_just_a/",
+        "fetched_at": "2026-01-11T16:14:16.917842"
+      },
+      {
+        "id": "1q85wrc",
+        "title": "When did lying your ass off become a normal part of startup promo? I will not promote",
+        "selftext": "I'm specifically talking about: \n\n* \"I found this tool\" posts and comments, then you look at the person's profile and it's their tool\n* Fake testimonials and users numbers on landing pages. Literally saw a guy posting the other day that he'd only got 8 signups, landing page says \"join 1000+ users!\"\n* Fake MMR screenshots to prove how successful you are\n\nI'm all for \"fake it til you make it\" energy, but in the last few months it seems like more and more people are just obviously and badly lying to seem more successful than they are. I don't get it.\n\nPeople who are lying about their levels of success: has it actually been beneficial?",
+        "subreddit": "startups",
+        "author": "Just-a-torso",
+        "score": 94,
+        "num_comments": 72,
+        "created_utc": 1767958271.0,
+        "permalink": "https://www.reddit.com/r/startups/comments/1q85wrc/when_did_lying_your_ass_off_become_a_normal_part/",
+        "fetched_at": "2026-01-11T16:14:13.184154"
+      },
+      {
+        "id": "1pku5yi",
+        "title": "Lost potential clients because my Instagram looked \"inactive.\" Now I'm spending entire Sundays filming reels.",
+        "selftext": "I just spent my entire Sunday filming Instagram reels and I'm losing my mind.\n\nFreelance brand designer, three years in. Work is fine. But somehow I became a content creator along the way and I don't remember signing up for that.\n\nI spend 6-8 hours a week shooting reels for Instagram because apparently that's how you get discovered now. Writing LinkedIn posts about random design tips because the algorithm buries you if you don't post. Filming TikToks in my living room at night because that's the only time left after actual client work.\n\nNone of this makes me money. It's all \"visibility\" and \"building your brand.\" Fine, whatever. But I'm exhausted.\n\nTried hiring someone but quotes were $800-1200 a month. Tried posting less but inquiries dropped by half. Had two potential clients ghost me after checking my Instagram. One of them straight up said it looked \"dead.\"\n\nNow I'm working 50 hour weeks but only 35 are billable. I see other freelancers posting constantly looking put together. How? Either I'm broken at this or everyone's just hiding it better.\n\nStarting to think I should just get a regular job where I can actually log off.\n\nTrying out a few AI tools to cut down filming time. APOB for generating video content, Canva for captions, and Descript for audio. Early days but seems like it might save 2-3 hours a week. Output feels kind of generic though. Videos look a bit too polished in a fake way and captions need heavy editing. Not sure if this is actually solving anything or just trading one problem for another.\n\nAlso going to try batch filming this weekend. We'll see.\n\nStill feels like I'm just rearranging deck chairs on the Titanic here.",
+        "subreddit": "freelance",
+        "author": "Any-Farm-1033",
+        "score": 94,
+        "num_comments": 41,
+        "created_utc": 1765551959.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1pku5yi/lost_potential_clients_because_my_instagram/",
+        "fetched_at": "2026-01-11T16:14:16.917853"
+      },
+      {
+        "id": "1q9ornh",
+        "title": "Karen is single handedly trying to tear apart my family’s Buisness",
+        "selftext": "So my mom started a consignment store in her 20s about 35 years ago. Over those past 35 years we have grown more than we ever thought possible and accumulated over 20,000 consigners. We have been doing great and actually had are best year ever this year. We also boast a 4.8 on google reviews so I’m pretty proud of what my mom has built. Recently a women made a post on a local facebook group with about 26,000 members slamming our store, saying we are rude, didn’t take her clothes, etc. While we do love constructive criticism this post was full of lies and complaints that are all adressed in the contract are make every consigner sign before bringing anything in. The post blew up with tons of angry people complaining about how we were to picky and didn’t take there clothes. If anyone has been in the consignment business you would know how picky you have to be bc space is limited and extremely valuable. Anyways she denied signing any contract in her post which was completely false as we physically have a copy of her contract with the signature dating all the way back to 2014. On top of this she used credit on account multiple times meaning she knew she had an account in order to use the money in it. My question is how to handle the situation. Publicly out the woman with evidence of the lying or let it brush over. ",
+        "subreddit": "smallbusiness",
+        "author": "Last-Ad5032",
+        "score": 90,
+        "num_comments": 55,
+        "created_utc": 1768102578.0,
+        "permalink": "https://www.reddit.com/r/smallbusiness/comments/1q9ornh/karen_is_single_handedly_trying_to_tear_apart_my/",
+        "fetched_at": "2026-01-11T16:14:15.140048"
+      }
+    ]
+  }
+}
