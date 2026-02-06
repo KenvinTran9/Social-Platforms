@@ -1,0 +1,226 @@
+{
+  "metadata": {
+    "total_items": 20,
+    "sources": {
+      "youtube": 10,
+      "reddit": 10
+    },
+    "fetched_at": "2026-02-06T01:13:13.804744"
+  },
+  "data": {
+    "youtube": [
+      {
+        "videoId": "REpmmKN7EWU",
+        "title": "7 Steps to Edit a Video in DaVinci Resolve (Start to Finish)",
+        "description": "FREE PRACTICE MEDIA & CHEAT SHEET: ...",
+        "channelTitle": "Casey Faris",
+        "publishedAt": "2026-01-09T13:30:37Z",
+        "url": "https://www.youtube.com/watch?v=REpmmKN7EWU",
+        "fetched_at": "2026-02-06T01:13:04.981692"
+      },
+      {
+        "videoId": "fkNEj5oB4n0",
+        "title": "Best Small Business Accounting Software: Free vs. Paid – What’s Really Worth It? (2025)",
+        "description": "Find the right accounting software: https://softwareconnect.com/go/small-business-accounting-software-bf011 Whether you're a ...",
+        "channelTitle": "Software Connect",
+        "publishedAt": "2025-03-05T19:30:05Z",
+        "url": "https://www.youtube.com/watch?v=fkNEj5oB4n0",
+        "fetched_at": "2026-02-06T01:13:05.375745"
+      },
+      {
+        "videoId": "3MD9PgzBfbY",
+        "title": "My Simple YouTube Video Editing Workflow in Resolve",
+        "description": "Check out MotionVFX: http://tinyurl.com/GKMotionVFX ▷Use code \"GEORGE10\" for 10% off! In this one we're looking at how the ...",
+        "channelTitle": "George Kamenov",
+        "publishedAt": "2024-08-27T14:30:01Z",
+        "url": "https://www.youtube.com/watch?v=3MD9PgzBfbY",
+        "fetched_at": "2026-02-06T01:13:04.981676"
+      },
+      {
+        "videoId": "eC8wfWc3dVU",
+        "title": "Editing Workflow Hacks 💻✨#editing #videography #filmmaking #premierepro",
+        "description": "",
+        "channelTitle": "Gaku Lange",
+        "publishedAt": "2024-08-06T10:58:05Z",
+        "url": "https://www.youtube.com/watch?v=eC8wfWc3dVU",
+        "fetched_at": "2026-02-06T01:13:04.981693"
+      },
+      {
+        "videoId": "Gua2Bo_G-J0",
+        "title": "The ACCOUNTING BASICS for BEGINNERS",
+        "description": "Accounting is the process of recording, organizing, understanding, reporting on, and analyzing financial information of a business.",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2023-08-24T20:30:01Z",
+        "url": "https://www.youtube.com/watch?v=Gua2Bo_G-J0",
+        "fetched_at": "2026-02-06T01:13:05.375743"
+      },
+      {
+        "videoId": "gOchfGvTogk",
+        "title": "My simple video editing workflow | Make video editing easier!",
+        "description": "Transform your photography today: https://www.scottedwardsyoutube.com Video editing is a craft. It takes a lot of time to make ...",
+        "channelTitle": "Scott Edwards",
+        "publishedAt": "2022-10-27T14:00:33Z",
+        "url": "https://www.youtube.com/watch?v=gOchfGvTogk",
+        "fetched_at": "2026-02-06T01:13:04.981687"
+      },
+      {
+        "videoId": "pKpdibyljR4",
+        "title": "The BOOKKEEPING BASICS for BEGINNERS",
+        "description": "Bookkeeping is the recording of past financial data to make future business decisions. In this tutorial, you'll learn what ...",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2022-06-29T20:30:06Z",
+        "url": "https://www.youtube.com/watch?v=pKpdibyljR4",
+        "fetched_at": "2026-02-06T01:13:05.375740"
+      },
+      {
+        "videoId": "xWv391G8Nyw",
+        "title": "Learn the Basics of Bookkeeping [FREE QuickBooks Training]",
+        "description": "Bookkeeping Basics plus Quickbooks Training! Sign up with Quickbooks using this link for a STEEP discount off the regular price!",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2022-01-28T16:45:02Z",
+        "url": "https://www.youtube.com/watch?v=xWv391G8Nyw",
+        "fetched_at": "2026-02-06T01:13:05.375748"
+      },
+      {
+        "videoId": "3KeG7hHzUy4",
+        "title": "Accounting Basics for Small Business Owners [By a CPA]",
+        "description": "Learn the accounting basics for small business from a CPA. Today, you will learn the role of accounting in small business.",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2020-10-12T11:00:02Z",
+        "url": "https://www.youtube.com/watch?v=3KeG7hHzUy4",
+        "fetched_at": "2026-02-06T01:13:05.375727"
+      },
+      {
+        "videoId": "Ve7C_0XpFmA",
+        "title": "How To EDIT From START To FINISH - EDITING WORKFLOW",
+        "description": "BACK TO SCHOOL SALE!!! NEW LIGHTROOM PRESETS ONLY $9.99! - https://goo.gl/YKAtkY Presets for your videos ONLY ...",
+        "channelTitle": "Matti Haapoja",
+        "publishedAt": "2017-08-29T15:51:01Z",
+        "url": "https://www.youtube.com/watch?v=Ve7C_0XpFmA",
+        "fetched_at": "2026-02-06T01:13:04.981690"
+      }
+    ],
+    "reddit": [
+      {
+        "id": "1q6omig",
+        "title": "Upwork newbie here, just ran straight-up malware from a “client” project. What the actual f***",
+        "selftext": "Burner account because I’m beyond embarrassed and absolutely pissed.\n\nI’m new to Upwork. First “client” I get sends me a Next.js project and says “just run it locally and see if it works.”\n\nThey sent **malware**.\n\nAnd not sloppy malware. This was *deliberately hidden*.\n\nThey buried heavily obfuscated JavaScript **at the very bottom of** `nextjs.config.js`, AFTER `module.exports`, under a massive wall of blank lines so you wouldn’t even scroll there. Like, this was 100% intentional.\n\nOnce I actually de-obfuscated it, here’s what it was capable of:\n\n\\- Full file system access\n\n\\- Detecting the user’s home directory\n\n\\- Dynamically constructing file paths\n\n\\- Reading any file it had permission to read\n\n\\- Base64-encoding file contents (to hide what’s being sent)\n\n\\- Sending that data out via POST requests to remote servers\n\nTranslation: **if you ran it, assume your machine was compromised.**\n\nIf you are new here:\n\n* NEVER run client code blindly\n* Obfuscated JS = malicious. There is no legit reason for it here.\n* If a client says “just test it locally,” stop and think\n\n  \nI’m posting this out of pure rage because I don’t want another new dev to learn this lesson the hard way like I did.",
+        "subreddit": "freelance",
+        "author": "Jaded-Journalist2470",
+        "score": 956,
+        "num_comments": 86,
+        "created_utc": 1767813175.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1q6omig/upwork_newbie_here_just_ran_straightup_malware/",
+        "fetched_at": "2026-02-06T01:13:12.803418"
+      },
+      {
+        "id": "9imfv9",
+        "title": "Please Read This Before Posting or Commenting",
+        "selftext": "**Violating [the rules of this subreddit](https://old.reddit.com/r/freelance/about/rules) will cause your post/comment will be removed and you will be banned PERMANENTLY. This is your only warning!** If you are unsure about whether a potential post or comment is suitable, [contact the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Ffreelance) for guidance **before** posting it.\n\nIf you're asking a question, there's a good chance that it has already been answered! **[Read the wiki](/r/freelance/wiki/) and do a [search](https://www.reddit.com/r/freelance/search?q=&restrict_sr=on&sort=relevance&t=all) before submitting your post.**\n\nJust because your question involves freelancing does not mean that it is the best subreddit for it. Depending on your question, one of these other subreddits might be more appropriate:\n\n* /r/bigseo\n* /r/careerguidance\n* /r/copywriting\n* /r/DigitalNomad\n* /r/forhire\n* /r/freelanceUK\n* /r/freelanceWriters\n* /r/graphic_design\n* /r/jobs\n* /r/photography\n* /r/tax\n* /r/TranslationStudies\n* /r/UpWork\n* /r/videography\n* /r/webdev",
+        "subreddit": "freelance",
+        "author": "martey",
+        "score": 501,
+        "num_comments": 0,
+        "created_utc": 1537827417.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/9imfv9/please_read_this_before_posting_or_commenting/",
+        "fetched_at": "2026-02-06T01:13:12.803379"
+      },
+      {
+        "id": "1qwl84a",
+        "title": "Food truck cash management when half your customers still pay cash and banks make it impossible",
+        "selftext": "I run a food truck and about 40% of transactions are still cash despite having Square, people at festivals and street corners just prefer cash I guess. Problem is dealing with that cash is a nightmare, I can't mobile deposit it obviously, most ATMs don't accept deposits for business accounts, I have to physically go to a bank branch.\n\nMy bank branch closes at 4pm and I'm usually working until 7 or 8, so I end up carrying around hundreds or sometimes thousands in cash overnight which makes me nervous. I tried going to the branch on my day off but then I'm spending my only free time dealing with banking instead of resting or prepping for the next event.\n\nI looked into those smart ATMs that accept cash deposits but they're mostly for personal accounts, business account deposits require going inside to a teller. I asked my bank if they could just let me use the ATM for business deposits and they said it's against their policy, something about fraud prevention.\n\nSome food truck owners I know just spend the cash on supplies and inventory so they don't have to deposit it, but my accountant said that's a grey area for tax purposes and I should be depositing everything. I'm stuck between following the rules and wasting hours of my life going to bank branches during the only time they're open.\n\nHow are other cash based businesses handling this without losing their minds?",
+        "subreddit": "smallbusiness",
+        "author": "OrangeNo4335",
+        "score": 255,
+        "num_comments": 183,
+        "created_utc": 1770297975.0,
+        "permalink": "https://www.reddit.com/r/smallbusiness/comments/1qwl84a/food_truck_cash_management_when_half_your/",
+        "fetched_at": "2026-02-06T01:13:11.006998"
+      },
+      {
+        "id": "1qaobz3",
+        "title": "I scraped 200k+ Reddit posts to find out the best way to get your first freelance client. Here is what I found:",
+        "selftext": "Hi everyone,\n\nLike many of you, when I started looking for clients, I was overwhelmed by anecdotal advice: \"Just cold email,\" \"Use Upwork,\" \"Network in person.\" I wanted to know what actually works.\n\nSo, I built a scraper to analyze the archives of r/freelance, r/upwork, r/webdev, and several other freelance subreddits. I processed over 200,000 posts and comments, used AI to filter for relevant information, and normalized the data to find out exactly how people got their first client and how long it took.\n\nHere are the key findings from the data:\n\n* In-Person is King (Speed-wise): The median time to land a client via In-Person Cold Outreach was just 1.5 days. It seems the \"uncomfortable\" work of showing up physically builds trust faster than anything else.\n* The \"Cold\" Hierarchy: If you are doing cold outreach, the medium matters significantly: In-Person > Cold Calling > DMs > Cold Emailing. Cold emailing was the least effective and slowest of the direct methods in the dataset.\n* Free Work Works: Offering free work seems to be one of the fastest ways to convert to a paying client, likely because it removes the initial friction.\n\nOverall, the median time to find a first client was around 21 days, not bad at all!\n\nMethodology & Data Constraints:\n\nWhile this analysis provides valuable insights, it is important to acknowledge the constraints of the data:\n\n* Source Bias: Data is sourced from Reddit communities, which may skew towards specific types of freelancers and experiences.\n* Self-Reporting: Timelines are based on user recollection, which can be subjective.\n* Survivorship Bias: Successful freelancers are more likely to share their stories than those who did not find clients.\n* Sample Size: While 4,000+ leads were identified, only \\~1,000 contained explicit \"time to first client\" data.\n\nThe archives I processed were from 2024. I am currently processing 2025 data and adding more subreddits, which should double or triple the number of leads and provide more accurate results.\n\nFull data if you want to look at it yourself : [Google Sheets](https://docs.google.com/spreadsheets/d/1cLCiQWlPsE3TXA7QE8I-oXyvR7Y1wfUOvj1G8289RmI/edit?usp=sharing)\n\nI'm curious, does this match your experience? Did in-person outreach work faster for you than online methods?\n\n**EDIT:** Reverified some data today; the \"free work\" category had fewer datapoints than I thought, and the AI hallucinated a bit. Since it's \"free work,\" it didn't know whether it needed to find time until the first paying client or time until the first free client. I expect it to probably take a bit more time than 7 days and maybe **bring in** several clients at once.\n\nAlso tried to look if a lot of spam got through (i.e., people just creating posts to advertise a product) and honestly, not a lot; I only saw one so far.\n\n**->** Sadly, I can't update images. The conclusions still seem to be holding up at least—I hope it's not confirmation bias. I will let you know more for sure with the new data.",
+        "subreddit": "freelance",
+        "author": "Tryhard_314",
+        "score": 216,
+        "num_comments": 75,
+        "created_utc": 1768201888.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1qaobz3/i_scraped_200k_reddit_posts_to_find_out_the_best/",
+        "fetched_at": "2026-02-06T01:13:12.803416"
+      },
+      {
+        "id": "1qvttz3",
+        "title": "i stopped sending live links to clients and it’s been a game-changer",
+        "selftext": "so i made a new rule for my freelance gigs: no live staging links until the client’s paid at least half.   \n  \nwhy? because clients lose their minds over half-finished stuff. they’ll see a button that looks off on mobile and freak out, even though i haven’t even touched mobile yet. or they’ll start clicking around, find something that’s not done, and suddenly we’re talking about adding a whole new feature.   \n  \nmy fix? i send high-fidelity mockups instead. just screenshots of the finished sections, wrapped in a browser frame so it looks like a real site but isn’t actually clickable. it’s all static, so they can’t go digging for problems.   \n  \nfeedback dropped by half, and approvals are way faster. anyone else do this, or am i just being extra?",
+        "subreddit": "Entrepreneur",
+        "author": "Putrid_Candy_9829",
+        "score": 189,
+        "num_comments": 21,
+        "created_utc": 1770223943.0,
+        "permalink": "https://www.reddit.com/r/Entrepreneur/comments/1qvttz3/i_stopped_sending_live_links_to_clients_and_its/",
+        "fetched_at": "2026-02-06T01:13:06.089742"
+      },
+      {
+        "id": "1qwjmxm",
+        "title": "How did you start your first business and what tools helped most?",
+        "selftext": "I’m looking to start my first business and trying to learn from people with real experience: What were the first steps you took, what mistakes should beginners avoid, what tools or systems actually helped you early on?  \nIf you were starting from scratch today, what would you focus on first I wanna know?",
+        "subreddit": "smallbusiness",
+        "author": "Classic_Bed_1277",
+        "score": 170,
+        "num_comments": 39,
+        "created_utc": 1770293487.0,
+        "permalink": "https://www.reddit.com/r/smallbusiness/comments/1qwjmxm/how_did_you_start_your_first_business_and_what/",
+        "fetched_at": "2026-02-06T01:13:11.007000"
+      },
+      {
+        "id": "1pgllc1",
+        "title": "LPT: You are not supposed to have 40 hours/week of billable work each week",
+        "selftext": "I struggle with this too. Freelancers have to deal with much more marketing/sales stuff.\n\nOn top of that, tax bureaucracy as a freelancer is a ton of work compared to a regular employee. This is even worse in earlier years of this new career path.\n\nFreelancing is also more stressful than a regular job so we need more downtime and relaxtion hours than a regular employee\n\n\nI don't want to quote a specific number. But weekly billable hours for a freelancer should be:\n\n> 40 hours - Hours required for extra side work - Few more extra relaxation hours",
+        "subreddit": "freelance",
+        "author": "MysteryMan526",
+        "score": 170,
+        "num_comments": 51,
+        "created_utc": 1765122599.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1pgllc1/lpt_you_are_not_supposed_to_have_40_hoursweek_of/",
+        "fetched_at": "2026-02-06T01:13:12.803432"
+      },
+      {
+        "id": "1qwgstz",
+        "title": "The internet is experiencing its own Black Plague except the rats are AI bots",
+        "selftext": "So in 1347 rats hitched rides on merchant ships and brought the plague to Europe. Nobody noticed til it was too late because the rats looked like they belonged there.\n\nThat’s literally what’s happening to the internet right now. Bots everywhere, on every platform, and you can’t tell anymore because they all sound like that one overachieving kid in class who read the textbook twice.\n\nMedieval doctors wore bird masks and prescribed leeches. We have AI detection tools that are wrong half the time. Same energy honestly.\n\nThe plague ended when the rats ran out of people to infect. This one ends when AI runs out of human content to train on and starts eating its own output. We’re watching the internet develop mad cow disease in real time.",
+        "subreddit": "Entrepreneur",
+        "author": "Vouchy-MOD",
+        "score": 166,
+        "num_comments": 51,
+        "created_utc": 1770283747.0,
+        "permalink": "https://www.reddit.com/r/Entrepreneur/comments/1qwgstz/the_internet_is_experiencing_its_own_black_plague/",
+        "fetched_at": "2026-02-06T01:13:06.089715"
+      },
+      {
+        "id": "1pj2y4s",
+        "title": "My Client is asking me to make the payment of 150 USD upfront so they can release the payment. (I feel like it's an elaborate scam )",
+        "selftext": "So I worked a gig for 3,000 USD. (In the contract, I did agree to bear all the transfer charges.)  \nAnd once I submitted the project, I was asked to choose between bank transfer, PayPal, and crypto. I chose the route through bank transfer, and they have initiated the payment, but it is on hold.  \nI asked them to please deduct the amount from their side, but they say it's reserved for company personnel only \n\nI had been sent a lodgement receipt and asked to make the payment of 150 USD\n\nbefore my payment is processed. I am sure this isn't how it works, or please correct me\n\nPlease help me",
+        "subreddit": "freelance",
+        "author": "Maleficent_Low7831",
+        "score": 163,
+        "num_comments": 61,
+        "created_utc": 1765374342.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1pj2y4s/my_client_is_asking_me_to_make_the_payment_of_150/",
+        "fetched_at": "2026-02-06T01:13:12.803430"
+      },
+      {
+        "id": "1qverus",
+        "title": "Laid off, tried to build my own thing, now broke and questioning everything. Where am I going wrong? \"i will not promote\"",
+        "selftext": "I was laid off in October.\n\nAfter that, I applied to a lot of jobs, but barely heard back from recruiters. After months of silence, I stopped applying as aggressively and decided to finally act on an idea I’ve had for almost 5 years, to build something of my own and be my own boss.\n\nThat’s how my startup idea was born (still very early, mostly just me trying to make things work).\n\nSince then, I’ve tried everything I could think of:\n- applying for jobs\n- building a startup\n- posting on YouTube / Instagram (content cration)\n- learning, building, iterating\n\nAnd the result has been the same everywhere: almost zero response.\n\nNo users, no traction, no recruiter callbacks, no real encouragement.\n\nFriends and family don’t really support it (or maybe don’t believe in it). I don’t fully blame them, when there’s no visible progress, it’s hard for anyone to.\n\nNow I’m financially broke, mentally exhausted, and honestly demotivated. The stress has started affecting my marriage too, which hurts the most.\n\nI keep asking myself:\n- What am I doing wrong?\n- Am I approaching things the wrong way?\n- Is this just how it works before things click, or am I ignoring some obvious mistake?\n- How do you know when to persist vs when to pivot?\n\nI’m not posting this to promote anything or ask for sympathy.\n\nI genuinely want real feedback from people who’ve been through layoffs, failed startups, long job searches, or rebuilding phases.\n\nIf you’ve been in a similar place:\n- What helped you get unstuck?\n- What would you do differently if you were in my position?\n- Any hard truths I might need to hear?\n\nThanks for reading. Even writing this out feels heavy, but I figured honest questions are better than silent overthinking.",
+        "subreddit": "startups",
+        "author": "ekraahi",
+        "score": 110,
+        "num_comments": 96,
+        "created_utc": 1770179259.0,
+        "permalink": "https://www.reddit.com/r/startups/comments/1qverus/laid_off_tried_to_build_my_own_thing_now_broke/",
+        "fetched_at": "2026-02-06T01:13:09.530145"
+      }
+    ]
+  }
+}
