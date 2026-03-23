@@ -1,0 +1,226 @@
+{
+  "metadata": {
+    "total_items": 20,
+    "sources": {
+      "youtube": 10,
+      "reddit": 10
+    },
+    "fetched_at": "2026-03-23T16:47:05.903304"
+  },
+  "data": {
+    "youtube": [
+      {
+        "videoId": "x3TrUPSFyPU",
+        "title": "The Best Editing Workflow on the Internet",
+        "description": "GET THE SPEED EDITING SYSTEM: https://www.justinnjames.com/speed-editing-v4- #videoediting #adobepremiere ...",
+        "channelTitle": "Justin James",
+        "publishedAt": "2026-02-11T15:57:00Z",
+        "url": "https://www.youtube.com/watch?v=x3TrUPSFyPU",
+        "fetched_at": "2026-03-23T16:46:57.487673"
+      },
+      {
+        "videoId": "REpmmKN7EWU",
+        "title": "7 Steps to Edit a Video in DaVinci Resolve (Start to Finish)",
+        "description": "FREE PRACTICE MEDIA & CHEAT SHEET: ...",
+        "channelTitle": "Casey Faris",
+        "publishedAt": "2026-01-09T13:30:37Z",
+        "url": "https://www.youtube.com/watch?v=REpmmKN7EWU",
+        "fetched_at": "2026-03-23T16:46:57.487677"
+      },
+      {
+        "videoId": "Q1tCEvqakUo",
+        "title": "Fastest Editing Workflow in DaVinci Resolve! - Perfect for Tutorials and How To Vids!",
+        "description": "Get the FREE practice media here: ...",
+        "channelTitle": "Casey Faris",
+        "publishedAt": "2025-10-14T14:00:41Z",
+        "url": "https://www.youtube.com/watch?v=Q1tCEvqakUo",
+        "fetched_at": "2026-03-23T16:46:57.487705"
+      },
+      {
+        "videoId": "eNgD1kg3U14",
+        "title": "The MKBHD Method™ For Editing High Quality Videos",
+        "description": "Get a 30-day free trial of Epidemic Sound at https://share.epidemicsound.com/thestudioOCT25 The entire MKBHD post-production ...",
+        "channelTitle": "The Studio",
+        "publishedAt": "2025-10-12T14:00:56Z",
+        "url": "https://www.youtube.com/watch?v=eNgD1kg3U14",
+        "fetched_at": "2026-03-23T16:46:57.487713"
+      },
+      {
+        "videoId": "99ZdOuJMrao",
+        "title": "Blender Video Editing: Learn workflow, transitions, modifiers &amp; more!",
+        "description": "Blender video editing tutorial, including the basic workflow, transitions, keyframes, linking a dope sheet, transformations, modifiers ...",
+        "channelTitle": "ExplainingComputers",
+        "publishedAt": "2025-09-14T13:00:20Z",
+        "url": "https://www.youtube.com/watch?v=99ZdOuJMrao",
+        "fetched_at": "2026-03-23T16:46:57.487702"
+      },
+      {
+        "videoId": "9a04BsKv26M",
+        "title": "Top 5 Accounting Software for Small Business (2026 Guide)",
+        "description": "My top 5 Accounting Software for Small Businesses. My recommended accounting software for small to medium businesses is ...",
+        "channelTitle": "Stewart Gauld",
+        "publishedAt": "2025-08-27T11:30:07Z",
+        "url": "https://www.youtube.com/watch?v=9a04BsKv26M",
+        "fetched_at": "2026-03-23T16:46:57.834449"
+      },
+      {
+        "videoId": "7aNsVauFUKA",
+        "title": "How to Create Hyper-Realistic AI Videos from any footage with this new AI Workflow",
+        "description": "This experiment started simple - just me walking toward a door and acting out a concept I had. With the right tools and a few smart ...",
+        "channelTitle": "TechGuyver - Always be creating",
+        "publishedAt": "2025-07-27T06:18:51Z",
+        "url": "https://www.youtube.com/watch?v=7aNsVauFUKA",
+        "fetched_at": "2026-03-23T16:46:57.487708"
+      },
+      {
+        "videoId": "_XySZQrHPCE",
+        "title": "Steal This Easy Vlog Editing Workflow, It&#39;ll Simplify Everything",
+        "description": "Want an easy way to start making videos without overthinking? Join my free 30-Day Make the Damn Video Challenge ...",
+        "channelTitle": "Tamara Gabriel",
+        "publishedAt": "2025-07-18T11:18:22Z",
+        "url": "https://www.youtube.com/watch?v=_XySZQrHPCE",
+        "fetched_at": "2026-03-23T16:46:57.487691"
+      },
+      {
+        "videoId": "mjiT0g3mYgw",
+        "title": "9 Editing Tips To Save HOURS in DaVinci Resolve!",
+        "description": "9 Editing Tips in DaVinci Resolve you probably didn't know! In this DaVinci Resolve tutorial, I'm going to show you 9 powerful ...",
+        "channelTitle": "Sightseeing Stan",
+        "publishedAt": "2025-05-26T14:01:15Z",
+        "url": "https://www.youtube.com/watch?v=mjiT0g3mYgw",
+        "fetched_at": "2026-03-23T16:46:57.487703"
+      },
+      {
+        "videoId": "JEAkQLMxqtw",
+        "title": "How to Set Up Your Books as a New Business Owner",
+        "description": "Bookkeeping doesn't have to be scary—and getting it right from day one can save you major headaches down the road. In this ...",
+        "channelTitle": "Mark J Kohler",
+        "publishedAt": "2025-04-29T21:54:58Z",
+        "url": "https://www.youtube.com/watch?v=JEAkQLMxqtw",
+        "fetched_at": "2026-03-23T16:46:57.834450"
+      }
+    ],
+    "reddit": [
+      {
+        "id": "1rz15ui",
+        "title": "(i will not promote) PSA: Delve (YC W24 startup) caught running fake SOC 2 / ISO 27001 compliance reports, 494 companies affected",
+        "selftext": "I wanted to post this here because I haven't seen much discussion on Reddit about this yet, and people shopping for compliance automation tools need to know.\n\nWhat is Delve?\n\nDelve (delve.co) is a Y Combinator-backed startup that promises fast, cheap SOC 2, HIPAA, ISO 27001, and GDPR compliance. Founded by two 21-year-old MIT dropouts, they raised $32M at a $300M valuation. They claim 1,500+ customers.\n\nWhat happened?\n\nIn late 2025, someone found a publicly accessible Google Spreadsheet containing links to hundreds of confidential draft audit reports from Delve's pipeline. An anonymous investigator (\"DeepDelver\") published a detailed breakdown on Substack in February 2026. Here's what they found:\n\n**-** Pre-written audit conclusions. The \"Independent Service Auditor's Report\" and all test conclusions were already filled in before clients had even submitted their company descriptions or network diagrams. The auditor's conclusion existed before anything was actually audited.\n\n\\- Copy-paste templates. 493 out of 494 leaked SOC 2 reports (99.8%) had identical text, same grammatical errors, same nonsensical descriptions. Only the company name, logo, and signature were swapped. Didn't matter if you were a 5-person startup or a large enterprise.\n\n**-** Fabricated evidence. Delve auto-generated passing evidence for things like device security checks, background checks, and training, even for employees who never completed them. Board meeting minutes and risk assessments were pre-fabricated and available with a single click.\n\n**-** Fake \"US-based\" audit firms. Delve marketed their auditors as US CPA firms. The investigation traced the main SOC 2 auditor (Accorp) to Indian operations using virtual office addresses in the US. The ISO 27001 auditor (Gradient Certification) was a Wyoming shell entity with its president at the same Delhi address as the Indian parent company.\n\n**-** Skipped requirements. Major framework requirements were allegedly skipped entirely while telling clients they had 100% compliance.\n\nHow did Delve respond?\n\nWhen confronted, CEO Karun Kaushik emailed clients calling the allegations \"falsified claims\" from an \"AI-generated email\", despite the leaked reports containing real client signatures and confidential architecture diagrams. Classic deny-and-deflect.\n\nWhy this matters?\n\nIf your company used Delve for compliance certs, you may be exposed to:\n\n\\- Criminal liability under HIPAA for healthcare compliance\n\n\\- Fines up to 4% of global revenue under GDPR                                                                                              - Contract breaches with customers who relied on those certifications\n\nCompanies affected include Cluely, Lovable, Incorta, Bland, HockeyStack, Browser Use, and many others.\n\nHow to protect yourself\n\n\\- If you used Delve, get an independent audit immediately                                                                                - If a vendor shows you a SOC 2 or ISO cert, ask who the auditing firm was and verify them independently\n\n\\- Be skeptical of compliance tools promising full certification in days, legitimate SOC 2 Type 2 takes months\n\n\\- If it sounds too good to be true (fast + cheap + easy compliance), it probably is\n\nI'm posting this my friend’s startup was affected by this, and also Delve had reached out to us multiple times for sponsorship\\[we ignored\\].\n\nPlease share your experiences atleast we can save someone who are still on their stack.\n\nedit:\n\nthis post had \\~100 upvotes, someone (possibly delve) is running a campaign and getting this post downvotes.\n\nsecond edit :\n\nthey are buying bot upvotes and downgrading all the comments. (went from 500 to 80",
+        "subreddit": "startups",
+        "author": "emotional-yoda",
+        "score": 582,
+        "num_comments": 130,
+        "created_utc": 1774024515.0,
+        "permalink": "https://www.reddit.com/r/startups/comments/1rz15ui/i_will_not_promote_psa_delve_yc_w24_startup/",
+        "fetched_at": "2026-03-23T16:47:01.659913"
+      },
+      {
+        "id": "9imfv9",
+        "title": "Please Read This Before Posting or Commenting",
+        "selftext": "**Violating [the rules of this subreddit](https://old.reddit.com/r/freelance/about/rules) will cause your post/comment will be removed and you will be banned PERMANENTLY. This is your only warning!** If you are unsure about whether a potential post or comment is suitable, [contact the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Ffreelance) for guidance **before** posting it.\n\nIf you're asking a question, there's a good chance that it has already been answered! **[Read the wiki](/r/freelance/wiki/) and do a [search](https://www.reddit.com/r/freelance/search?q=&restrict_sr=on&sort=relevance&t=all) before submitting your post.**\n\nJust because your question involves freelancing does not mean that it is the best subreddit for it. Depending on your question, one of these other subreddits might be more appropriate:\n\n* /r/bigseo\n* /r/careerguidance\n* /r/copywriting\n* /r/DigitalNomad\n* /r/forhire\n* /r/freelanceUK\n* /r/freelanceWriters\n* /r/graphic_design\n* /r/jobs\n* /r/photography\n* /r/tax\n* /r/TranslationStudies\n* /r/UpWork\n* /r/videography\n* /r/webdev",
+        "subreddit": "freelance",
+        "author": "martey",
+        "score": 525,
+        "num_comments": 0,
+        "created_utc": 1537827417.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/9imfv9/please_read_this_before_posting_or_commenting/",
+        "fetched_at": "2026-03-23T16:47:04.901884"
+      },
+      {
+        "id": "1ra3gis",
+        "title": "Just got my first client!",
+        "selftext": "Hey guys, I just signed my first client at 200$ per month. I’ve decided not to share this news with those close to me until I start making significant money, but I had to tell someone! \n\nThe service is in the research/analytics space and should take about 5 hours to fulfill per month, so assuming 1 hour of outreach to get the client, I’ll be making 40$ per hour, which is not bad considering I’ve only ever had minimum wage jobs.\n\nIf anyone has any advice that would be great!",
+        "subreddit": "freelance",
+        "author": "Sexyfreakinllama",
+        "score": 407,
+        "num_comments": 135,
+        "created_utc": 1771612420.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1ra3gis/just_got_my_first_client/",
+        "fetched_at": "2026-03-23T16:47:04.901916"
+      },
+      {
+        "id": "1rgk3zv",
+        "title": "Just lost my biggest client",
+        "selftext": "I just got a message from my biggest client saying they'll be pausing work till further notice, I've been in the trade for long enough to know this means it's done. The client used to pay $2000 every month, may not be a big sum but it was life changing money for a middle class guy from a third world country like me. I know it's not the end of the world, just a bit sad its over. ",
+        "subreddit": "freelance",
+        "author": "Accomplished-River12",
+        "score": 175,
+        "num_comments": 81,
+        "created_utc": 1772229138.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1rgk3zv/just_lost_my_biggest_client/",
+        "fetched_at": "2026-03-23T16:47:04.901911"
+      },
+      {
+        "id": "1rh3dqp",
+        "title": "How I stopped working past 8 PM (without losing clients)",
+        "selftext": "at one point in my life I used to finish client work at like midnight. sometimes 1am.   \n  \ni kept telling myself it was just a busy period and it would calm down soon. that's what i said to my wife too. \"just a few more weeks and this project wraps up\" and then a new one would start and it'd be the same thing. this went on for like a year.  \n  \ni kept saying yes to everything because i was terrified that if i pushed back even once they'd fire me and just hire someone cheaper on upwork. so every \"urgent\" request at 9pm, i'd do it.  \n  \nmy wife was eating dinner alone most nights. not occasionally, like consistently. i'd say \"5 more minutes\" and then look up and it was 10pm. she stopped asking after a while. started just leaving a plate in the microwave for me. we barely talked during the week. that one kind of got to me.  \n  \ntried to fix it by being more disciplined. woke up earlier. worked on weekends to \"get ahead\". made to-do lists. tried like 4 different productivity apps. none of it actually changed anything.  \n  \nthen i got this idea from work (i have a corporate day job on top of the freelance stuff) - there was an audit happening and the auditors were just going through every single process and asking \"why do you do it this way\" and i thought, what if i did that to my own schedule.  \n  \nso i got a cheap notebook and tracked every hour for 7 days. i'd set an alarm for each hour and write what i was doing. that's it.  \n  \nit was embarrassing to be honest. \n\nlike actually writing it down made it real in a way that was uncomfortable. \n\non day 3 i added up the numbers and found out 60% of what i was calling \"productive time\" was just... not really work. research that turned into me reading completely unrelated stuff for 45 min. email i was checking every 15-20 minutes for literally no reason. tasks that felt important in the moment but weren't actually moving any projects forward. \"quick\" social media checks that were not quick.  \n  \nso i cut all of it. deleted some apps, moved my phone to another room when i was working, blocked a few sites during work hours, stopped checking email constantly and just did it twice a day.  \n  \nthen i did the part i was most scared about. i told my main clients i'm available until 8pm and anything after that i'll reply to first thing in the morning. sent that message on a tuesday night and then just sat there dreading the responses.  \n  \nmost of them just said ok. one of them got a bit annoyed, the type of client who expects you to respond instantly at all hours, but honestly they were already kind of a pain to work with. but i didn't lose anyone.  \n  \nwithin 2 weeks i was done before 8pm most nights. me and my wife started eating dinner together again. took a full saturday off for the first time in months and slept like a normal person.  \n  \nthe thing i keep thinking about is i spent a year assuming the problem was the amount of work. turned out it was where the time was actually going. i just hadn't looked.\n\nso if you're struggling with the same problem, i highly recommend measuring where your time goes... with full transparency.",
+        "subreddit": "freelance",
+        "author": "trimplin1",
+        "score": 166,
+        "num_comments": 79,
+        "created_utc": 1772287265.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1rh3dqp/how_i_stopped_working_past_8_pm_without_losing/",
+        "fetched_at": "2026-03-23T16:47:04.901907"
+      },
+      {
+        "id": "1s17ffi",
+        "title": "How do you tell a client their $5k app idea costs $50k without losing them?",
+        "selftext": "Run a dev agency in the US, 10+ years in, 30+ person in-house team. This conversation happens every single week.\n\nClient arrives with an app idea. In their head it costs $5,000. They show a quote from an overseas dev for $3,000. In reality the backend, admin panel, integrations, security and testing put the real number at $50,000 to $80,000 minimum.\n\nTried everything:\n\n* breaking quotes into line items so they see where every dollar goes\n* showing real examples of cheap builds that failed and cost double to fix\n* offering a smaller MVP first to lower the entry point\n* case studies of businesses that skipped proper development and paid for it later\n\nSome clients understand. Most go with the cheaper option. Eight months later they come back with a broken product and zero budget left to fix it (which is the most expensive way to learn this lesson).\n\nAm I wrong that 50% of clients have already mentally committed to the cheap quote before the first call even starts? Too high?\n\n* what actually changed your mind about dev costs before committing to a vendor\n* what would have made that conversation land differently",
+        "subreddit": "smallbusiness",
+        "author": "theideamakeragency",
+        "score": 163,
+        "num_comments": 87,
+        "created_utc": 1774240776.0,
+        "permalink": "https://www.reddit.com/r/smallbusiness/comments/1s17ffi/how_do_you_tell_a_client_their_5k_app_idea_costs/",
+        "fetched_at": "2026-03-23T16:47:03.105378"
+      },
+      {
+        "id": "1rirozj",
+        "title": "Client wants to switch from daily billing to hourly billing after receiving the invoice",
+        "selftext": "This involves working as a part-time freelance interior designer. We agreed on a daily rate since the client mentioned \"from 1/2 to 3/4 days per week.\" I sent her a quote after starting the project (I know...) which she didn't return signed (\"my administrative day is friday\" > \"I didn't have a chance to deal with it last friday\").\n\nWe've been working together for three weeks now, and I've never received a precise schedule by week, or even by day, so I make myself available all day, all week, to manage her projects.\n\nLast Friday I sent the february invoice, and I received a long email this afternoon saying that daily billing wasn't appropriate or \"fair\" since, \"according to her,\" some tasks could be completed in half a day. \n\nSo I'll redo the quote/invoice with an hourly rate, but I'm not sure if I should increase the rate a bit given the circumstances (no schedule, etc.) I also need to properly explain to her that I can't be available all day for only 2 hours of actual work",
+        "subreddit": "freelance",
+        "author": "LemonTart-12",
+        "score": 110,
+        "num_comments": 95,
+        "created_utc": 1772455052.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1rirozj/client_wants_to_switch_from_daily_billing_to/",
+        "fetched_at": "2026-03-23T16:47:04.901905"
+      },
+      {
+        "id": "1s0zjh8",
+        "title": "I live in a ~1 Million population metro that does not contain a single mini-golf course. Do I have any chance of acting on this without decent startup capital?",
+        "selftext": "For background context I run a service-based small business that brings in around 300k per year and my salary is about 60k. My wife makes 70k working a normal office job and we live in a LCOL state. With that said we do not have any cash on hand for a startup like this, but the idea has been eating away at me. I even found the perfect indoor facility right in the heart of the metro for 600k. I 10+ years experience of running a successful business and I have a passion for the industry. Is this just a fun daydream for me or is there a way for me to really seek out investors?",
+        "subreddit": "smallbusiness",
+        "author": "ypoomhcs",
+        "score": 94,
+        "num_comments": 93,
+        "created_utc": 1774218961.0,
+        "permalink": "https://www.reddit.com/r/smallbusiness/comments/1s0zjh8/i_live_in_a_1_million_population_metro_that_does/",
+        "fetched_at": "2026-03-23T16:47:03.105391"
+      },
+      {
+        "id": "1s1101v",
+        "title": "15K users, $200/mo revenue. How I finally stopped subsidizing free users on my weather app after 10 years.",
+        "selftext": "I'm a solo dev from Argentina. I've been building a weather/severe weather app called Contingencias for over 10 years. It started because I wanted to protect my car from hailstorms — I learned to read weather radar, built algorithms to detect hail-prone clouds from GOES-16 satellite data, and turned it into an app.\n\n\n\nThe problem:\n\n15,000 users. Only 200 paying subscribers. Monthly plan was $0.99, annual was $5. That's roughly $200/mo — nowhere near enough to cover server costs for processing satellite imagery in real-time, let alone live off it.\n\n\n\nThe realization:\n\nI looked at my analytics and noticed something obvious that I'd been ignoring: most of my free users only opened the app when a storm was coming. They'd check the radar, see if hail was heading their way, and close the app. That's it.                                    \n\nThe feature they actually cared about — the one that made them open the app — was the hail detection radar. And I was giving it away for free.\n\nMeanwhile, I was paying for GOES-16 satellite data processing, server infrastructure, and algorithm development. My most expensive feature was also my most popular free feature. I was essentially subsidizing the users who gave me the least.                                         \n\n\n\nWhat I changed:\n\nI restructured the entire pricing model:\n\n\\- Free tier: standard weather forecast, earthquake alerts, saved cities — everything you'd get from any weather app                                           \n\n\\- Premium tier: proprietary radar, hail detection alerts, extended earthquake range, air quality, agricultural tools — the stuff you can't get anywhere else\n\nAnd I raised prices:\n\n\\- Monthly: $0.99 → $2.99                                                                                                                                      \n\n\\- Annual: $5.00 → $19.99                                                                                                                                      \n\n\\- Added lifetime: $39.99                                                                                                                                                                  \n\n\n\nBasically: if it's commoditized weather data, it's free. If it's my proprietary tech that I spent 10 years building, it's paid.\n\n\n\nThe logic:                                                                                                                                                                      \n\nMy free users weren't converting because they were already getting the one thing they wanted for free. They had zero incentive to upgrade. By moving the core value proposition behind the paywall, every storm becomes a conversion event — the user opens the app, sees they need premium to access the radar, and now the decision is: \"is $2.99/mo worth protecting my car/crops?\"                  \n\nI'm still early in measuring the results of this change, but I'd rather have 1,000 users paying $2.99 than 15,000 users paying nothing.\n\n\n\nSome context on the product:                                                                                                                                  \n\n\\- Solo dev, bootstrapped, no funding\n\n\\- 4.7 stars on the App Store (500+ ratings)                                                                                                                   \n\n\\- Custom hail detection algorithm analyzing GOES-16 satellite data                                                                                            \n\n\\- Global earthquake monitoring, hurricane tracking, agricultural tools                                                                                        \n\n\\- Stack: Rails backend, iOS (SwiftUI), Android (Kotlin) coming soon                                                                                                                                                                                                                                                             \n\n\n\nHas anyone else gone through a similar \"stop being generous with your core feature\" moment? How did your users react? Would love to hear how others have handled this.",
+        "subreddit": "SaaS",
+        "author": "No_Big_3829",
+        "score": 90,
+        "num_comments": 68,
+        "created_utc": 1774222623.0,
+        "permalink": "https://www.reddit.com/r/SaaS/comments/1s1101v/15k_users_200mo_revenue_how_i_finally_stopped/",
+        "fetched_at": "2026-03-23T16:46:59.992934"
+      },
+      {
+        "id": "1s1b4lb",
+        "title": "Finished building my SaaS — marketing is where I’m lost",
+        "selftext": "Built my first SaaS recently, but honestly… I have no idea how to market it 😅  \n\nTried Reddit, but most subs don’t allow links. Still figuring out where/how to get initial users.  \n\nFor those who’ve done this before — how did you get your first 10–100 users?  \n\nAny advice would really help.",
+        "subreddit": "SaaS",
+        "author": "Ammar_07_",
+        "score": 86,
+        "num_comments": 96,
+        "created_utc": 1774254299.0,
+        "permalink": "https://www.reddit.com/r/SaaS/comments/1s1b4lb/finished_building_my_saas_marketing_is_where_im/",
+        "fetched_at": "2026-03-23T16:46:59.992907"
+      }
+    ]
+  }
+}
