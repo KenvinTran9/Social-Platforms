@@ -1,0 +1,226 @@
+{
+  "metadata": {
+    "total_items": 20,
+    "sources": {
+      "youtube": 10,
+      "reddit": 10
+    },
+    "fetched_at": "2026-03-23T01:21:01.299143"
+  },
+  "data": {
+    "youtube": [
+      {
+        "videoId": "x3TrUPSFyPU",
+        "title": "The Best Editing Workflow on the Internet",
+        "description": "GET THE SPEED EDITING SYSTEM: https://www.justinnjames.com/speed-editing-v4- #videoediting #adobepremiere ...",
+        "channelTitle": "Justin James",
+        "publishedAt": "2026-02-11T15:57:00Z",
+        "url": "https://www.youtube.com/watch?v=x3TrUPSFyPU",
+        "fetched_at": "2026-03-23T01:20:52.262911"
+      },
+      {
+        "videoId": "9a04BsKv26M",
+        "title": "Top 5 Accounting Software for Small Business (2026 Guide)",
+        "description": "My top 5 Accounting Software for Small Businesses. My recommended accounting software for small to medium businesses is ...",
+        "channelTitle": "Stewart Gauld",
+        "publishedAt": "2025-08-27T11:30:07Z",
+        "url": "https://www.youtube.com/watch?v=9a04BsKv26M",
+        "fetched_at": "2026-03-23T01:20:52.598805"
+      },
+      {
+        "videoId": "3MD9PgzBfbY",
+        "title": "My Simple YouTube Video Editing Workflow in Resolve",
+        "description": "Check out MotionVFX: http://tinyurl.com/GKMotionVFX ▷Use code \"GEORGE10\" for 10% off! In this one we're looking at how the ...",
+        "channelTitle": "George Kamenov",
+        "publishedAt": "2024-08-27T14:30:01Z",
+        "url": "https://www.youtube.com/watch?v=3MD9PgzBfbY",
+        "fetched_at": "2026-03-23T01:20:52.262909"
+      },
+      {
+        "videoId": "gOchfGvTogk",
+        "title": "My simple video editing workflow | Make video editing easier!",
+        "description": "Transform your photography today: https://www.scottedwardsyoutube.com Video editing is a craft. It takes a lot of time to make ...",
+        "channelTitle": "Scott Edwards",
+        "publishedAt": "2022-10-27T14:00:33Z",
+        "url": "https://www.youtube.com/watch?v=gOchfGvTogk",
+        "fetched_at": "2026-03-23T01:20:52.262887"
+      },
+      {
+        "videoId": "pKpdibyljR4",
+        "title": "The BOOKKEEPING BASICS for BEGINNERS",
+        "description": "Bookkeeping is the recording of past financial data to make future business decisions. In this tutorial, you'll learn what ...",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2022-06-29T20:30:06Z",
+        "url": "https://www.youtube.com/watch?v=pKpdibyljR4",
+        "fetched_at": "2026-03-23T01:20:52.598803"
+      },
+      {
+        "videoId": "N_el5FlXNiY",
+        "title": "Bookkeeping Basics &amp; Accounting 101 for Small Business Owners",
+        "description": "Knowing some bookkeeping basics is an important step in managing your business finances. Now while it may not be the most ...",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2022-05-13T16:15:00Z",
+        "url": "https://www.youtube.com/watch?v=N_el5FlXNiY",
+        "fetched_at": "2026-03-23T01:20:52.598806"
+      },
+      {
+        "videoId": "o5ENktjJ0Rc",
+        "title": "Video Editing Workflow | File Management",
+        "description": "Here is my video editing workflow when it comes to video project file management. Having a good file structure is extremely ...",
+        "channelTitle": "Andrik Langfield",
+        "publishedAt": "2021-06-10T15:00:20Z",
+        "url": "https://www.youtube.com/watch?v=o5ENktjJ0Rc",
+        "fetched_at": "2026-03-23T01:20:52.262907"
+      },
+      {
+        "videoId": "UgMB5ReZxhk",
+        "title": "Small Business EASY Bookkeeping How To! | Realistic Bookkeeping",
+        "description": "This video is dedicated to explaining a super simple method of small business bookkeeping! I use this method of record keeping ...",
+        "channelTitle": "Realistic Bookkeeping",
+        "publishedAt": "2020-12-29T19:00:17Z",
+        "url": "https://www.youtube.com/watch?v=UgMB5ReZxhk",
+        "fetched_at": "2026-03-23T01:20:52.598791"
+      },
+      {
+        "videoId": "3KeG7hHzUy4",
+        "title": "Accounting Basics for Small Business Owners [By a CPA]",
+        "description": "Learn the accounting basics for small business from a CPA. Today, you will learn the role of accounting in small business.",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2020-10-12T11:00:02Z",
+        "url": "https://www.youtube.com/watch?v=3KeG7hHzUy4",
+        "fetched_at": "2026-03-23T01:20:52.598801"
+      },
+      {
+        "videoId": "Ve7C_0XpFmA",
+        "title": "How To EDIT From START To FINISH - EDITING WORKFLOW",
+        "description": "BACK TO SCHOOL SALE!!! NEW LIGHTROOM PRESETS ONLY $9.99! - https://goo.gl/YKAtkY Presets for your videos ONLY ...",
+        "channelTitle": "Matti Haapoja",
+        "publishedAt": "2017-08-29T15:51:01Z",
+        "url": "https://www.youtube.com/watch?v=Ve7C_0XpFmA",
+        "fetched_at": "2026-03-23T01:20:52.262904"
+      }
+    ],
+    "reddit": [
+      {
+        "id": "1rz15ui",
+        "title": "(i will not promote) PSA: Delve (YC W24 startup) caught running fake SOC 2 / ISO 27001 compliance reports, 494 companies affected",
+        "selftext": "I wanted to post this here because I haven't seen much discussion on Reddit about this yet, and people shopping for compliance automation tools need to know.\n\nWhat is Delve?\n\nDelve (delve.co) is a Y Combinator-backed startup that promises fast, cheap SOC 2, HIPAA, ISO 27001, and GDPR compliance. Founded by two 21-year-old MIT dropouts, they raised $32M at a $300M valuation. They claim 1,500+ customers.\n\nWhat happened?\n\nIn late 2025, someone found a publicly accessible Google Spreadsheet containing links to hundreds of confidential draft audit reports from Delve's pipeline. An anonymous investigator (\"DeepDelver\") published a detailed breakdown on Substack in February 2026. Here's what they found:\n\n**-** Pre-written audit conclusions. The \"Independent Service Auditor's Report\" and all test conclusions were already filled in before clients had even submitted their company descriptions or network diagrams. The auditor's conclusion existed before anything was actually audited.\n\n\\- Copy-paste templates. 493 out of 494 leaked SOC 2 reports (99.8%) had identical text, same grammatical errors, same nonsensical descriptions. Only the company name, logo, and signature were swapped. Didn't matter if you were a 5-person startup or a large enterprise.\n\n**-** Fabricated evidence. Delve auto-generated passing evidence for things like device security checks, background checks, and training, even for employees who never completed them. Board meeting minutes and risk assessments were pre-fabricated and available with a single click.\n\n**-** Fake \"US-based\" audit firms. Delve marketed their auditors as US CPA firms. The investigation traced the main SOC 2 auditor (Accorp) to Indian operations using virtual office addresses in the US. The ISO 27001 auditor (Gradient Certification) was a Wyoming shell entity with its president at the same Delhi address as the Indian parent company.\n\n**-** Skipped requirements. Major framework requirements were allegedly skipped entirely while telling clients they had 100% compliance.\n\nHow did Delve respond?\n\nWhen confronted, CEO Karun Kaushik emailed clients calling the allegations \"falsified claims\" from an \"AI-generated email\", despite the leaked reports containing real client signatures and confidential architecture diagrams. Classic deny-and-deflect.\n\nWhy this matters?\n\nIf your company used Delve for compliance certs, you may be exposed to:\n\n\\- Criminal liability under HIPAA for healthcare compliance\n\n\\- Fines up to 4% of global revenue under GDPR                                                                                              - Contract breaches with customers who relied on those certifications\n\nCompanies affected include Cluely, Lovable, Incorta, Bland, HockeyStack, Browser Use, and many others.\n\nHow to protect yourself\n\n\\- If you used Delve, get an independent audit immediately                                                                                - If a vendor shows you a SOC 2 or ISO cert, ask who the auditing firm was and verify them independently\n\n\\- Be skeptical of compliance tools promising full certification in days, legitimate SOC 2 Type 2 takes months\n\n\\- If it sounds too good to be true (fast + cheap + easy compliance), it probably is\n\nI'm posting this my friend’s startup was affected by this, and also Delve had reached out to us multiple times for sponsorship\\[we ignored\\].\n\nPlease share your experiences atleast we can save someone who are still on their stack.\n\nedit:\n\nthis post had \\~100 upvotes, someone (possibly delve) is running a campaign and getting this post downvotes.\n\nsecond edit :\n\nthey are buying bot upvotes and downgrading all the comments. (went from 500 to 80",
+        "subreddit": "startups",
+        "author": "emotional-yoda",
+        "score": 553,
+        "num_comments": 125,
+        "created_utc": 1774024515.0,
+        "permalink": "https://www.reddit.com/r/startups/comments/1rz15ui/i_will_not_promote_psa_delve_yc_w24_startup/",
+        "fetched_at": "2026-03-23T01:20:56.733739"
+      },
+      {
+        "id": "9imfv9",
+        "title": "Please Read This Before Posting or Commenting",
+        "selftext": "**Violating [the rules of this subreddit](https://old.reddit.com/r/freelance/about/rules) will cause your post/comment will be removed and you will be banned PERMANENTLY. This is your only warning!** If you are unsure about whether a potential post or comment is suitable, [contact the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Ffreelance) for guidance **before** posting it.\n\nIf you're asking a question, there's a good chance that it has already been answered! **[Read the wiki](/r/freelance/wiki/) and do a [search](https://www.reddit.com/r/freelance/search?q=&restrict_sr=on&sort=relevance&t=all) before submitting your post.**\n\nJust because your question involves freelancing does not mean that it is the best subreddit for it. Depending on your question, one of these other subreddits might be more appropriate:\n\n* /r/bigseo\n* /r/careerguidance\n* /r/copywriting\n* /r/DigitalNomad\n* /r/forhire\n* /r/freelanceUK\n* /r/freelanceWriters\n* /r/graphic_design\n* /r/jobs\n* /r/photography\n* /r/tax\n* /r/TranslationStudies\n* /r/UpWork\n* /r/videography\n* /r/webdev",
+        "subreddit": "freelance",
+        "author": "martey",
+        "score": 521,
+        "num_comments": 0,
+        "created_utc": 1537827417.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/9imfv9/please_read_this_before_posting_or_commenting/",
+        "fetched_at": "2026-03-23T01:21:00.297845"
+      },
+      {
+        "id": "1ra3gis",
+        "title": "Just got my first client!",
+        "selftext": "Hey guys, I just signed my first client at 200$ per month. I’ve decided not to share this news with those close to me until I start making significant money, but I had to tell someone! \n\nThe service is in the research/analytics space and should take about 5 hours to fulfill per month, so assuming 1 hour of outreach to get the client, I’ll be making 40$ per hour, which is not bad considering I’ve only ever had minimum wage jobs.\n\nIf anyone has any advice that would be great!",
+        "subreddit": "freelance",
+        "author": "Sexyfreakinllama",
+        "score": 413,
+        "num_comments": 134,
+        "created_utc": 1771612420.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1ra3gis/just_got_my_first_client/",
+        "fetched_at": "2026-03-23T01:21:00.297880"
+      },
+      {
+        "id": "1s0ivht",
+        "title": "Took over a sinking family factory. 17 employees, no working capital, no sales pipeline. I need real advice.",
+        "selftext": "I’m 25. Two years ago my father got seriously ill and I left my job to come back and run the family food processing company in Brazil (tomato products, fruit derivatives). What I found: debt everywhere, no financial controls, no systems. The company is now in judicial recovery (Brazil’s Chapter 11), so creditors can’t collect, but we still need to operate and pay current obligations.\n\nWhere I am now:\n\n\t∙\t17 employees, all essential to run production. Can’t cut without losing the capacity to fulfill orders — and severance in Brazil is expensive enough to make layoffs a net loss.\n\n\t∙\tAlmost no active clients. Sales pipeline is dead.\n\n\t∙\tNo working capital to buy raw materials.\n\n\t∙\tMy one bright spot: tolling (contract manufacturing for other companies using our equipment). During harvest season it brings \\~5x our normal monthly revenue. But harvest is only 4-5 months/year. The other 7-8 months I’m bleeding cash.\n\n\t∙\tI have a technical/engineering background, not business. I’m learning everything at once (finance, production, HR, sales) while being the only person making decisions.\n\n\t∙\tMy father is recovering and still involved. He built this 10+ years ago. We don’t always agree on the path forward.\n\nThe core problem: No cash → can’t produce → can’t sell → no cash. Classic death spiral. The factory has capacity and people but nothing to feed it.\n\nWhat I’m asking: If you were here: factory with capacity, full crew, legal protection from creditors, one revenue stream that only works 5 months/year.\n\nwhat concrete moves would you make? I’m open to hearing “shut it down” if that’s the honest answer.",
+        "subreddit": "smallbusiness",
+        "author": "HazimeK",
+        "score": 172,
+        "num_comments": 152,
+        "created_utc": 1774177661.0,
+        "permalink": "https://www.reddit.com/r/smallbusiness/comments/1s0ivht/took_over_a_sinking_family_factory_17_employees/",
+        "fetched_at": "2026-03-23T01:20:58.339327"
+      },
+      {
+        "id": "1rgk3zv",
+        "title": "Just lost my biggest client",
+        "selftext": "I just got a message from my biggest client saying they'll be pausing work till further notice, I've been in the trade for long enough to know this means it's done. The client used to pay $2000 every month, may not be a big sum but it was life changing money for a middle class guy from a third world country like me. I know it's not the end of the world, just a bit sad its over. ",
+        "subreddit": "freelance",
+        "author": "Accomplished-River12",
+        "score": 172,
+        "num_comments": 80,
+        "created_utc": 1772229138.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1rgk3zv/just_lost_my_biggest_client/",
+        "fetched_at": "2026-03-23T01:21:00.297875"
+      },
+      {
+        "id": "1s08cuk",
+        "title": "I took over a coffee business through seller financing. Here’s exactly how I almost buried myself in 6 months.",
+        "selftext": "Last year I took over a coffee company through seller financing.\n\nI went into it poor.\n\nI believed I could stabilize it fast.\n\nI was wrong about the speed.\n\nHere’s where I miscalculated:\n\n• The valuation was based on stronger prior years, not the recent decline\n\n• The old owner had a mistaken federal withholding account taking 24% of our daily deposits. \n\n• I underestimated how fast cash flow can kill you\n\n• I kept too many employees on payroll operating at a loss while trying to prove we could pay a livable wage.\n\n• with my poor credit, the only capital I could find access to was bad term unsecured daily ach loans, and I allowed almost $400/day in withdrawals from bad financing before restructuring\n\n• I assumed my tax return timing with that federal withholding account return would line up with my recovery timeline so I could immediately pay off the loans. (two months after filing and it still hasn't been processed). \n\nThat combination buried me.\n\nI’m about $20k in debt from trying to keep payroll going while fixing operations.\n\nI had to take everyone off the schedule and let someone go. \n\nI haven't been able to pay the old owner this month.\n\nI had a law firm force a restructuring of the loans into biweekly, and with our diminished income from just myself working, i'm not sure I can make the first payment monday.\n\nI have to give gusto $3200 before I can reactivate payroll and give anyone hours again. \n\nThe business itself is actually very close to net-positive again. letting someone go dropped our labor from 80/90% to 35% of our average monthly income, and right now of course there's no payroll to fullfill, so by the end of next week, we'll be operating from a profitable place with the cafe if I can survive until then. The gap between almost fixed and fixed is so brutal though. It's daunting and scary having so many unsolved serious problems to fix. \n\nI learned a hard lesson:\n\nTrying to be the hero for everyone at once will sink you faster than being disciplined and temporarily unpopular.\n\nIf you’ve taken over a struggling business, what did you cut first? What did you wish you’d done sooner?\n\nI’m looking for perspective, not sympathy. ",
+        "subreddit": "smallbusiness",
+        "author": "imrichcoble",
+        "score": 167,
+        "num_comments": 65,
+        "created_utc": 1774141849.0,
+        "permalink": "https://www.reddit.com/r/smallbusiness/comments/1s08cuk/i_took_over_a_coffee_business_through_seller/",
+        "fetched_at": "2026-03-23T01:20:58.339340"
+      },
+      {
+        "id": "1rh3dqp",
+        "title": "How I stopped working past 8 PM (without losing clients)",
+        "selftext": "at one point in my life I used to finish client work at like midnight. sometimes 1am.   \n  \ni kept telling myself it was just a busy period and it would calm down soon. that's what i said to my wife too. \"just a few more weeks and this project wraps up\" and then a new one would start and it'd be the same thing. this went on for like a year.  \n  \ni kept saying yes to everything because i was terrified that if i pushed back even once they'd fire me and just hire someone cheaper on upwork. so every \"urgent\" request at 9pm, i'd do it.  \n  \nmy wife was eating dinner alone most nights. not occasionally, like consistently. i'd say \"5 more minutes\" and then look up and it was 10pm. she stopped asking after a while. started just leaving a plate in the microwave for me. we barely talked during the week. that one kind of got to me.  \n  \ntried to fix it by being more disciplined. woke up earlier. worked on weekends to \"get ahead\". made to-do lists. tried like 4 different productivity apps. none of it actually changed anything.  \n  \nthen i got this idea from work (i have a corporate day job on top of the freelance stuff) - there was an audit happening and the auditors were just going through every single process and asking \"why do you do it this way\" and i thought, what if i did that to my own schedule.  \n  \nso i got a cheap notebook and tracked every hour for 7 days. i'd set an alarm for each hour and write what i was doing. that's it.  \n  \nit was embarrassing to be honest. \n\nlike actually writing it down made it real in a way that was uncomfortable. \n\non day 3 i added up the numbers and found out 60% of what i was calling \"productive time\" was just... not really work. research that turned into me reading completely unrelated stuff for 45 min. email i was checking every 15-20 minutes for literally no reason. tasks that felt important in the moment but weren't actually moving any projects forward. \"quick\" social media checks that were not quick.  \n  \nso i cut all of it. deleted some apps, moved my phone to another room when i was working, blocked a few sites during work hours, stopped checking email constantly and just did it twice a day.  \n  \nthen i did the part i was most scared about. i told my main clients i'm available until 8pm and anything after that i'll reply to first thing in the morning. sent that message on a tuesday night and then just sat there dreading the responses.  \n  \nmost of them just said ok. one of them got a bit annoyed, the type of client who expects you to respond instantly at all hours, but honestly they were already kind of a pain to work with. but i didn't lose anyone.  \n  \nwithin 2 weeks i was done before 8pm most nights. me and my wife started eating dinner together again. took a full saturday off for the first time in months and slept like a normal person.  \n  \nthe thing i keep thinking about is i spent a year assuming the problem was the amount of work. turned out it was where the time was actually going. i just hadn't looked.\n\nso if you're struggling with the same problem, i highly recommend measuring where your time goes... with full transparency.",
+        "subreddit": "freelance",
+        "author": "trimplin1",
+        "score": 166,
+        "num_comments": 77,
+        "created_utc": 1772287265.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1rh3dqp/how_i_stopped_working_past_8_pm_without_losing/",
+        "fetched_at": "2026-03-23T01:21:00.297870"
+      },
+      {
+        "id": "1rirozj",
+        "title": "Client wants to switch from daily billing to hourly billing after receiving the invoice",
+        "selftext": "This involves working as a part-time freelance interior designer. We agreed on a daily rate since the client mentioned \"from 1/2 to 3/4 days per week.\" I sent her a quote after starting the project (I know...) which she didn't return signed (\"my administrative day is friday\" > \"I didn't have a chance to deal with it last friday\").\n\nWe've been working together for three weeks now, and I've never received a precise schedule by week, or even by day, so I make myself available all day, all week, to manage her projects.\n\nLast Friday I sent the february invoice, and I received a long email this afternoon saying that daily billing wasn't appropriate or \"fair\" since, \"according to her,\" some tasks could be completed in half a day. \n\nSo I'll redo the quote/invoice with an hourly rate, but I'm not sure if I should increase the rate a bit given the circumstances (no schedule, etc.) I also need to properly explain to her that I can't be available all day for only 2 hours of actual work",
+        "subreddit": "freelance",
+        "author": "LemonTart-12",
+        "score": 109,
+        "num_comments": 94,
+        "created_utc": 1772455052.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1rirozj/client_wants_to_switch_from_daily_billing_to/",
+        "fetched_at": "2026-03-23T01:21:00.297868"
+      },
+      {
+        "id": "1rysnbi",
+        "title": "Nothing outside of SaaS/AI?",
+        "selftext": "Have I gone crazy or is everyone building a SaaS or something with AI? \n\nWhere are the trucking, freight, real estate, medical, chemical, car dealers at? \n\nAre kids not into those anymore? Or is setting up Ai receptionist for the HVAC guy the new gold rush?",
+        "subreddit": "Entrepreneur",
+        "author": "NachoProblemBoy",
+        "score": 76,
+        "num_comments": 117,
+        "created_utc": 1774002587.0,
+        "permalink": "https://www.reddit.com/r/Entrepreneur/comments/1rysnbi/nothing_outside_of_saasai/",
+        "fetched_at": "2026-03-23T01:20:53.337830"
+      },
+      {
+        "id": "1re9ttz",
+        "title": "Client expects employee-like behavior",
+        "selftext": "My main client will call me anywhere from 1 to 5 times per day, sometimes send 20 texts in a single morning, and expects me to attend in person meetings and events with less than two weeks’ notice. This client does pay me well. But I’m starting to feel like their full time employee without any of the benefits. Tips? ",
+        "subreddit": "freelance",
+        "author": "Grand-Conclusion5027",
+        "score": 76,
+        "num_comments": 68,
+        "created_utc": 1772015871.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1re9ttz/client_expects_employeelike_behavior/",
+        "fetched_at": "2026-03-23T01:21:00.297877"
+      }
+    ]
+  }
+}
