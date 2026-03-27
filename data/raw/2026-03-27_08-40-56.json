@@ -1,0 +1,226 @@
+{
+  "metadata": {
+    "total_items": 20,
+    "sources": {
+      "youtube": 10,
+      "reddit": 10
+    },
+    "fetched_at": "2026-03-27T08:40:56.950094"
+  },
+  "data": {
+    "youtube": [
+      {
+        "videoId": "dCY9xejoWDU",
+        "title": "This Editing Workflow Saves Hours",
+        "description": "Learn more about the Simple Color Workflow here: ...",
+        "channelTitle": "Casey Faris",
+        "publishedAt": "2026-03-18T14:01:06Z",
+        "url": "https://www.youtube.com/watch?v=dCY9xejoWDU",
+        "fetched_at": "2026-03-27T08:40:47.979218"
+      },
+      {
+        "videoId": "9a04BsKv26M",
+        "title": "Top 5 Accounting Software for Small Business (2026 Guide)",
+        "description": "My top 5 Accounting Software for Small Businesses. My recommended accounting software for small to medium businesses is ...",
+        "channelTitle": "Stewart Gauld",
+        "publishedAt": "2025-08-27T11:30:07Z",
+        "url": "https://www.youtube.com/watch?v=9a04BsKv26M",
+        "fetched_at": "2026-03-27T08:40:48.340554"
+      },
+      {
+        "videoId": "JEAkQLMxqtw",
+        "title": "How to Set Up Your Books as a New Business Owner",
+        "description": "Bookkeeping doesn't have to be scary—and getting it right from day one can save you major headaches down the road. In this ...",
+        "channelTitle": "Mark J Kohler",
+        "publishedAt": "2025-04-29T21:54:58Z",
+        "url": "https://www.youtube.com/watch?v=JEAkQLMxqtw",
+        "fetched_at": "2026-03-27T08:40:48.340556"
+      },
+      {
+        "videoId": "eC8wfWc3dVU",
+        "title": "Editing Workflow Hacks 💻✨#editing #videography #filmmaking #premierepro",
+        "description": "",
+        "channelTitle": "Gaku Lange",
+        "publishedAt": "2024-08-06T10:58:05Z",
+        "url": "https://www.youtube.com/watch?v=eC8wfWc3dVU",
+        "fetched_at": "2026-03-27T08:40:47.979239"
+      },
+      {
+        "videoId": "gOchfGvTogk",
+        "title": "My simple video editing workflow | Make video editing easier!",
+        "description": "Transform your photography today: https://www.scottedwardsyoutube.com Video editing is a craft. It takes a lot of time to make ...",
+        "channelTitle": "Scott Edwards",
+        "publishedAt": "2022-10-27T14:00:33Z",
+        "url": "https://www.youtube.com/watch?v=gOchfGvTogk",
+        "fetched_at": "2026-03-27T08:40:47.979233"
+      },
+      {
+        "videoId": "pKpdibyljR4",
+        "title": "The BOOKKEEPING BASICS for BEGINNERS",
+        "description": "Bookkeeping is the recording of past financial data to make future business decisions. In this tutorial, you'll learn what ...",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2022-06-29T20:30:06Z",
+        "url": "https://www.youtube.com/watch?v=pKpdibyljR4",
+        "fetched_at": "2026-03-27T08:40:48.340552"
+      },
+      {
+        "videoId": "o5ENktjJ0Rc",
+        "title": "Video Editing Workflow | File Management",
+        "description": "Here is my video editing workflow when it comes to video project file management. Having a good file structure is extremely ...",
+        "channelTitle": "Andrik Langfield",
+        "publishedAt": "2021-06-10T15:00:20Z",
+        "url": "https://www.youtube.com/watch?v=o5ENktjJ0Rc",
+        "fetched_at": "2026-03-27T08:40:47.979237"
+      },
+      {
+        "videoId": "UgMB5ReZxhk",
+        "title": "Small Business EASY Bookkeeping How To! | Realistic Bookkeeping",
+        "description": "This video is dedicated to explaining a super simple method of small business bookkeeping! I use this method of record keeping ...",
+        "channelTitle": "Realistic Bookkeeping",
+        "publishedAt": "2020-12-29T19:00:17Z",
+        "url": "https://www.youtube.com/watch?v=UgMB5ReZxhk",
+        "fetched_at": "2026-03-27T08:40:48.340550"
+      },
+      {
+        "videoId": "3KeG7hHzUy4",
+        "title": "Accounting Basics for Small Business Owners [By a CPA]",
+        "description": "Learn the accounting basics for small business from a CPA. Today, you will learn the role of accounting in small business.",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2020-10-12T11:00:02Z",
+        "url": "https://www.youtube.com/watch?v=3KeG7hHzUy4",
+        "fetched_at": "2026-03-27T08:40:48.340538"
+      },
+      {
+        "videoId": "Ve7C_0XpFmA",
+        "title": "How To EDIT From START To FINISH - EDITING WORKFLOW",
+        "description": "BACK TO SCHOOL SALE!!! NEW LIGHTROOM PRESETS ONLY $9.99! - https://goo.gl/YKAtkY Presets for your videos ONLY ...",
+        "channelTitle": "Matti Haapoja",
+        "publishedAt": "2017-08-29T15:51:01Z",
+        "url": "https://www.youtube.com/watch?v=Ve7C_0XpFmA",
+        "fetched_at": "2026-03-27T08:40:47.979235"
+      }
+    ],
+    "reddit": [
+      {
+        "id": "1s41iv8",
+        "title": "I made an app that moans when you slap your MacBook. It made $5K in 3 days.",
+        "selftext": "Last week I posted a reel on IG (@tonnozfpv) reviewing a GitHub repo that make sounds when you slap your MacBook. And... It went viral.   \nComments were all \"WHERE IS THE APP\" \"I NEED THIS\" over and over.    \nSo I built it. Swift app, landing page, licensing, everything.   \n48 hours from zero to shipped. Threw it up for $5. \n\nSales started coming in, and never stopped!\n\n2 days ago I added a fighting game combo mode. You slap your laptop and a commentator screams \"DOUBLE SLAP!\" and \"ULTRA COMBO!\" while the screen flashes.   \n  \nAnd yesterday, finally, I added a USB moaner mode: self descriptive 😂\n\nAs of now, it made me $5K revenue in 3 days. \n\n2026 is so unhinged.\n\n[https://slapmac.com](https://slapmac.com)",
+        "subreddit": "SaaS",
+        "author": "tonnoz",
+        "score": 710,
+        "num_comments": 189,
+        "created_utc": 1774512820.0,
+        "permalink": "https://www.reddit.com/r/SaaS/comments/1s41iv8/i_made_an_app_that_moans_when_you_slap_your/",
+        "fetched_at": "2026-03-27T08:40:51.075109"
+      },
+      {
+        "id": "9imfv9",
+        "title": "Please Read This Before Posting or Commenting",
+        "selftext": "**Violating [the rules of this subreddit](https://old.reddit.com/r/freelance/about/rules) will cause your post/comment will be removed and you will be banned PERMANENTLY. This is your only warning!** If you are unsure about whether a potential post or comment is suitable, [contact the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Ffreelance) for guidance **before** posting it.\n\nIf you're asking a question, there's a good chance that it has already been answered! **[Read the wiki](/r/freelance/wiki/) and do a [search](https://www.reddit.com/r/freelance/search?q=&restrict_sr=on&sort=relevance&t=all) before submitting your post.**\n\nJust because your question involves freelancing does not mean that it is the best subreddit for it. Depending on your question, one of these other subreddits might be more appropriate:\n\n* /r/bigseo\n* /r/careerguidance\n* /r/copywriting\n* /r/DigitalNomad\n* /r/forhire\n* /r/freelanceUK\n* /r/freelanceWriters\n* /r/graphic_design\n* /r/jobs\n* /r/photography\n* /r/tax\n* /r/TranslationStudies\n* /r/UpWork\n* /r/videography\n* /r/webdev",
+        "subreddit": "freelance",
+        "author": "martey",
+        "score": 517,
+        "num_comments": 0,
+        "created_utc": 1537827417.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/9imfv9/please_read_this_before_posting_or_commenting/",
+        "fetched_at": "2026-03-27T08:40:55.948696"
+      },
+      {
+        "id": "1ra3gis",
+        "title": "Just got my first client!",
+        "selftext": "Hey guys, I just signed my first client at 200$ per month. I’ve decided not to share this news with those close to me until I start making significant money, but I had to tell someone! \n\nThe service is in the research/analytics space and should take about 5 hours to fulfill per month, so assuming 1 hour of outreach to get the client, I’ll be making 40$ per hour, which is not bad considering I’ve only ever had minimum wage jobs.\n\nIf anyone has any advice that would be great!",
+        "subreddit": "freelance",
+        "author": "Sexyfreakinllama",
+        "score": 414,
+        "num_comments": 137,
+        "created_utc": 1771612420.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1ra3gis/just_got_my_first_client/",
+        "fetched_at": "2026-03-27T08:40:55.948748"
+      },
+      {
+        "id": "1rgk3zv",
+        "title": "Just lost my biggest client",
+        "selftext": "I just got a message from my biggest client saying they'll be pausing work till further notice, I've been in the trade for long enough to know this means it's done. The client used to pay $2000 every month, may not be a big sum but it was life changing money for a middle class guy from a third world country like me. I know it's not the end of the world, just a bit sad its over. ",
+        "subreddit": "freelance",
+        "author": "Accomplished-River12",
+        "score": 172,
+        "num_comments": 82,
+        "created_utc": 1772229138.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1rgk3zv/just_lost_my_biggest_client/",
+        "fetched_at": "2026-03-27T08:40:55.948742"
+      },
+      {
+        "id": "1rh3dqp",
+        "title": "How I stopped working past 8 PM (without losing clients)",
+        "selftext": "at one point in my life I used to finish client work at like midnight. sometimes 1am.   \n  \ni kept telling myself it was just a busy period and it would calm down soon. that's what i said to my wife too. \"just a few more weeks and this project wraps up\" and then a new one would start and it'd be the same thing. this went on for like a year.  \n  \ni kept saying yes to everything because i was terrified that if i pushed back even once they'd fire me and just hire someone cheaper on upwork. so every \"urgent\" request at 9pm, i'd do it.  \n  \nmy wife was eating dinner alone most nights. not occasionally, like consistently. i'd say \"5 more minutes\" and then look up and it was 10pm. she stopped asking after a while. started just leaving a plate in the microwave for me. we barely talked during the week. that one kind of got to me.  \n  \ntried to fix it by being more disciplined. woke up earlier. worked on weekends to \"get ahead\". made to-do lists. tried like 4 different productivity apps. none of it actually changed anything.  \n  \nthen i got this idea from work (i have a corporate day job on top of the freelance stuff) - there was an audit happening and the auditors were just going through every single process and asking \"why do you do it this way\" and i thought, what if i did that to my own schedule.  \n  \nso i got a cheap notebook and tracked every hour for 7 days. i'd set an alarm for each hour and write what i was doing. that's it.  \n  \nit was embarrassing to be honest. \n\nlike actually writing it down made it real in a way that was uncomfortable. \n\non day 3 i added up the numbers and found out 60% of what i was calling \"productive time\" was just... not really work. research that turned into me reading completely unrelated stuff for 45 min. email i was checking every 15-20 minutes for literally no reason. tasks that felt important in the moment but weren't actually moving any projects forward. \"quick\" social media checks that were not quick.  \n  \nso i cut all of it. deleted some apps, moved my phone to another room when i was working, blocked a few sites during work hours, stopped checking email constantly and just did it twice a day.  \n  \nthen i did the part i was most scared about. i told my main clients i'm available until 8pm and anything after that i'll reply to first thing in the morning. sent that message on a tuesday night and then just sat there dreading the responses.  \n  \nmost of them just said ok. one of them got a bit annoyed, the type of client who expects you to respond instantly at all hours, but honestly they were already kind of a pain to work with. but i didn't lose anyone.  \n  \nwithin 2 weeks i was done before 8pm most nights. me and my wife started eating dinner together again. took a full saturday off for the first time in months and slept like a normal person.  \n  \nthe thing i keep thinking about is i spent a year assuming the problem was the amount of work. turned out it was where the time was actually going. i just hadn't looked.\n\nso if you're struggling with the same problem, i highly recommend measuring where your time goes... with full transparency.",
+        "subreddit": "freelance",
+        "author": "trimplin1",
+        "score": 170,
+        "num_comments": 83,
+        "created_utc": 1772287265.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1rh3dqp/how_i_stopped_working_past_8_pm_without_losing/",
+        "fetched_at": "2026-03-27T08:40:55.948731"
+      },
+      {
+        "id": "1s4ec6q",
+        "title": "\"I'm a 26 y/o college dropout who founded Bay Smokes, $100+ million revenue e-comm brand, AMA\"",
+        "selftext": "Will Goodall here, founder of [Bay Smokes](https://baysmokes.com/), the most popular THCa brand. I’m 27 years old and have spent the last seven years operating in federally legal hemp, selling over $100 million in compliant hemp products. You may have seen our viral collabs with Tory Lanez, Playboi Carti, 21 Savage, Lil Baby and more. I've spent millions on influencer social promotions and celebrity endorsement, and have personally donated more than $250,000 to efforts focused on keeping hemp legal at both the federal and state level.\n\nThe business started through our personal struggles. My girlfriend Katiana has been in 2 car accidents, both ejected and nearly died, and lives with chronic pain. When the 2018 Farm Bill passed I got her into CBD, because I used it to help concussion pain from the 12 concussions I had from highschool sports, and we decided to start a brand together making CBD tinctures. I was 19 at the time, living in Arizona with her, and we realized it was our shot. Slowly it evolved into what it is today offering hundreds of different hemp products from edibles, flower, extracts, and vapes.\n\nFor the next two years, we lived like nomads, driving up and down the West Coast and visiting over 100 farms and extractors to find the best product possible. When Delta-8 started buzzing in 2020, we launched Bay Smokes, knowing it was only the beginning of the cannabis company we ultimately wanted to build. Two years later, we finally rolled out THCA flower - the real deal we’d been waiting for. Now we’re proud to offer it nationwide and help push the legal cannabis space forward. Today, Bay Smokes is based in Charlotte, North Carolina, with nearly 100 employees and growing.\n\nWe’re all about keeping cannabis accessible, federally legal, and someday, globally legal too. Bay Smokes isn’t just a brand; it’s a fight to make sure this plant stays in reach for everyone. We’re pushing hard to keep the laws fair so entrepreneurs like us can have a place in this industry and consumers have the most options. The journey has been an epic one and hopefully we can keep it going with looming regulatory changes.\n\nThat being said, this community helped me a lot and I'd love to give back - ask me almost anything!\n\nShameless plug, I plan to post more content about my journey and lessons learned on my Instagram [@williamg4th](https://www.instagram.com/williamg4th) \\- thanks for following along!",
+        "subreddit": "Entrepreneur",
+        "author": "WillJGoodall",
+        "score": 111,
+        "num_comments": 114,
+        "created_utc": 1774546861.0,
+        "permalink": "https://www.reddit.com/r/Entrepreneur/comments/1s4ec6q/im_a_26_yo_college_dropout_who_founded_bay_smokes/",
+        "fetched_at": "2026-03-27T08:40:49.549721"
+      },
+      {
+        "id": "1rirozj",
+        "title": "Client wants to switch from daily billing to hourly billing after receiving the invoice",
+        "selftext": "This involves working as a part-time freelance interior designer. We agreed on a daily rate since the client mentioned \"from 1/2 to 3/4 days per week.\" I sent her a quote after starting the project (I know...) which she didn't return signed (\"my administrative day is friday\" > \"I didn't have a chance to deal with it last friday\").\n\nWe've been working together for three weeks now, and I've never received a precise schedule by week, or even by day, so I make myself available all day, all week, to manage her projects.\n\nLast Friday I sent the february invoice, and I received a long email this afternoon saying that daily billing wasn't appropriate or \"fair\" since, \"according to her,\" some tasks could be completed in half a day. \n\nSo I'll redo the quote/invoice with an hourly rate, but I'm not sure if I should increase the rate a bit given the circumstances (no schedule, etc.) I also need to properly explain to her that I can't be available all day for only 2 hours of actual work",
+        "subreddit": "freelance",
+        "author": "LemonTart-12",
+        "score": 111,
+        "num_comments": 97,
+        "created_utc": 1772455052.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1rirozj/client_wants_to_switch_from_daily_billing_to/",
+        "fetched_at": "2026-03-27T08:40:55.948729"
+      },
+      {
+        "id": "1s444ej",
+        "title": "Customer paying $49/month asked for a feature that would cost us $15K to build. For them specifically.",
+        "selftext": "The feature serves their workflow and nobody else's. They described it in detail. It's genuinely useful for their situation. It would take roughly three months of part-time engineering work to implement and maintain, generating approximately zero additional revenue from anyone else.\n\nAt $49/month they'd need to stay for 25 years to cover the development cost alone. The math is obviously wrong. But saying no to a specific request from a paying customer who took the time to articulate what they need never feels as clean as the math suggests it should.\n\nOffered to help them find a third-party tool that handles their specific need and integrate loosely with it. They were appreciative. The solution isn't as elegant as a native feature but it's honest about what we can afford to build at their price point. Sometimes the best product decision is admitting that someone else should solve this problem.",
+        "subreddit": "SaaS",
+        "author": "Just_Theory6515",
+        "score": 108,
+        "num_comments": 90,
+        "created_utc": 1774522238.0,
+        "permalink": "https://www.reddit.com/r/SaaS/comments/1s444ej/customer_paying_49month_asked_for_a_feature_that/",
+        "fetched_at": "2026-03-27T08:40:51.075136"
+      },
+      {
+        "id": "1s4briu",
+        "title": "We have exactly one investor. She put in $25K three years ago. Best money we ever took.",
+        "selftext": "Not because $25K changed our financial position dramatically. Because it came with a person who's been through three exits, understands our market deeply, and answers my calls within hours when I need perspective on a decision that's keeping me up at night.\n\nThe $25K bought her enough skin in the game to care about our success without enough ownership to influence our direction. She has about 4% equity. No board seat. No reporting requirements beyond a quarterly coffee where I share what's happening and she shares what she's seeing in the market.\n\nEvery founder I know who's raised larger rounds describes investor management as a significant time cost. Our arrangement costs me four hours per quarter in conversation time and produces strategic value that I couldn't buy at any consulting rate. The right investor at the right amount with the right expectations is the best form of capital a small SaaS can take. The wrong amount from the wrong investor at the wrong terms is the worst.",
+        "subreddit": "SaaS",
+        "author": "Defiant_Dentist5191",
+        "score": 104,
+        "num_comments": 22,
+        "created_utc": 1774541284.0,
+        "permalink": "https://www.reddit.com/r/SaaS/comments/1s4briu/we_have_exactly_one_investor_she_put_in_25k_three/",
+        "fetched_at": "2026-03-27T08:40:51.075115"
+      },
+      {
+        "id": "1s4t0bp",
+        "title": "What I learned about cash flow vs. revenue the hard way... (My small business failed)",
+        "selftext": "Revenue doesn't keep your business alive... cash flow does. And I learned that the hard way. Here's my advice so you don't end up spending the next 5 years paying off an SBA loan on a closed business (like I did):   \n  \nThink of your business like a bucket.  \n  \nRevenue is what you pour in the top. Cash flow is how fast it drains out the bottom through payroll, inventory, rent, vendors. Your job is to make sure the timing of money coming in lines up with the timing of money going out.  \n  \nMost business owners mix up cash flow problems with revenue problems.  \n  \nRevenue problem means the bucket is not filling. The business is not making enough money. Not enough deals in the pipeline.  \n  \nCash flow problem means the bucket is filling. You are making sales. But the money is not hitting your account fast enough to cover what is due.  \n  \nWhen I owned 2 Chronic Tacos stores, we were doing 2 to 3k a day in revenue. The bucket was filling. But I had to buy inventory in chunks. 10 thousand cups. Tons of meat. One week I would be up, then I would have to drop 15k on a restock and wait for the daily sales to catch back up.  \n  \nThat is a cash flow problem, not revenue.  \n  \nEarly stage businesses tend to die from cash flow timing problems. More mature businesses tend to run into revenue or margin problems. Which is how most of them die.  \n  \nAlways know which one you're solving for.",
+        "subreddit": "smallbusiness",
+        "author": "BobbyBizScout",
+        "score": 76,
+        "num_comments": 22,
+        "created_utc": 1774582018.0,
+        "permalink": "https://www.reddit.com/r/smallbusiness/comments/1s4t0bp/what_i_learned_about_cash_flow_vs_revenue_the/",
+        "fetched_at": "2026-03-27T08:40:54.207875"
+      }
+    ]
+  }
+}
