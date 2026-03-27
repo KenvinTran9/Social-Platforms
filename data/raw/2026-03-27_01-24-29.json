@@ -1,0 +1,226 @@
+{
+  "metadata": {
+    "total_items": 20,
+    "sources": {
+      "youtube": 10,
+      "reddit": 10
+    },
+    "fetched_at": "2026-03-27T01:24:29.805244"
+  },
+  "data": {
+    "youtube": [
+      {
+        "videoId": "dCY9xejoWDU",
+        "title": "This Editing Workflow Saves Hours",
+        "description": "Learn more about the Simple Color Workflow here: ...",
+        "channelTitle": "Casey Faris",
+        "publishedAt": "2026-03-18T14:01:06Z",
+        "url": "https://www.youtube.com/watch?v=dCY9xejoWDU",
+        "fetched_at": "2026-03-27T01:24:20.503718"
+      },
+      {
+        "videoId": "9a04BsKv26M",
+        "title": "Top 5 Accounting Software for Small Business (2026 Guide)",
+        "description": "My top 5 Accounting Software for Small Businesses. My recommended accounting software for small to medium businesses is ...",
+        "channelTitle": "Stewart Gauld",
+        "publishedAt": "2025-08-27T11:30:07Z",
+        "url": "https://www.youtube.com/watch?v=9a04BsKv26M",
+        "fetched_at": "2026-03-27T01:24:21.026638"
+      },
+      {
+        "videoId": "JEAkQLMxqtw",
+        "title": "How to Set Up Your Books as a New Business Owner",
+        "description": "Bookkeeping doesn't have to be scary—and getting it right from day one can save you major headaches down the road. In this ...",
+        "channelTitle": "Mark J Kohler",
+        "publishedAt": "2025-04-29T21:54:58Z",
+        "url": "https://www.youtube.com/watch?v=JEAkQLMxqtw",
+        "fetched_at": "2026-03-27T01:24:21.026640"
+      },
+      {
+        "videoId": "eC8wfWc3dVU",
+        "title": "Editing Workflow Hacks 💻✨#editing #videography #filmmaking #premierepro",
+        "description": "",
+        "channelTitle": "Gaku Lange",
+        "publishedAt": "2024-08-06T10:58:05Z",
+        "url": "https://www.youtube.com/watch?v=eC8wfWc3dVU",
+        "fetched_at": "2026-03-27T01:24:20.503735"
+      },
+      {
+        "videoId": "gOchfGvTogk",
+        "title": "My simple video editing workflow | Make video editing easier!",
+        "description": "Transform your photography today: https://www.scottedwardsyoutube.com Video editing is a craft. It takes a lot of time to make ...",
+        "channelTitle": "Scott Edwards",
+        "publishedAt": "2022-10-27T14:00:33Z",
+        "url": "https://www.youtube.com/watch?v=gOchfGvTogk",
+        "fetched_at": "2026-03-27T01:24:20.503730"
+      },
+      {
+        "videoId": "pKpdibyljR4",
+        "title": "The BOOKKEEPING BASICS for BEGINNERS",
+        "description": "Bookkeeping is the recording of past financial data to make future business decisions. In this tutorial, you'll learn what ...",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2022-06-29T20:30:06Z",
+        "url": "https://www.youtube.com/watch?v=pKpdibyljR4",
+        "fetched_at": "2026-03-27T01:24:21.026637"
+      },
+      {
+        "videoId": "o5ENktjJ0Rc",
+        "title": "Video Editing Workflow | File Management",
+        "description": "Here is my video editing workflow when it comes to video project file management. Having a good file structure is extremely ...",
+        "channelTitle": "Andrik Langfield",
+        "publishedAt": "2021-06-10T15:00:20Z",
+        "url": "https://www.youtube.com/watch?v=o5ENktjJ0Rc",
+        "fetched_at": "2026-03-27T01:24:20.503734"
+      },
+      {
+        "videoId": "UgMB5ReZxhk",
+        "title": "Small Business EASY Bookkeeping How To! | Realistic Bookkeeping",
+        "description": "This video is dedicated to explaining a super simple method of small business bookkeeping! I use this method of record keeping ...",
+        "channelTitle": "Realistic Bookkeeping",
+        "publishedAt": "2020-12-29T19:00:17Z",
+        "url": "https://www.youtube.com/watch?v=UgMB5ReZxhk",
+        "fetched_at": "2026-03-27T01:24:21.026624"
+      },
+      {
+        "videoId": "3KeG7hHzUy4",
+        "title": "Accounting Basics for Small Business Owners [By a CPA]",
+        "description": "Learn the accounting basics for small business from a CPA. Today, you will learn the role of accounting in small business.",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2020-10-12T11:00:02Z",
+        "url": "https://www.youtube.com/watch?v=3KeG7hHzUy4",
+        "fetched_at": "2026-03-27T01:24:21.026634"
+      },
+      {
+        "videoId": "Ve7C_0XpFmA",
+        "title": "How To EDIT From START To FINISH - EDITING WORKFLOW",
+        "description": "BACK TO SCHOOL SALE!!! NEW LIGHTROOM PRESETS ONLY $9.99! - https://goo.gl/YKAtkY Presets for your videos ONLY ...",
+        "channelTitle": "Matti Haapoja",
+        "publishedAt": "2017-08-29T15:51:01Z",
+        "url": "https://www.youtube.com/watch?v=Ve7C_0XpFmA",
+        "fetched_at": "2026-03-27T01:24:20.503732"
+      }
+    ],
+    "reddit": [
+      {
+        "id": "1s41iv8",
+        "title": "I made an app that moans when you slap your MacBook. It made $5K in 3 days.",
+        "selftext": "Last week I posted a reel on IG (@tonnozfpv) reviewing a GitHub repo that make sounds when you slap your MacBook. And... It went viral.   \nComments were all \"WHERE IS THE APP\" \"I NEED THIS\" over and over.    \nSo I built it. Swift app, landing page, licensing, everything.   \n48 hours from zero to shipped. Threw it up for $5. \n\nSales started coming in, and never stopped!\n\n2 days ago I added a fighting game combo mode. You slap your laptop and a commentator screams \"DOUBLE SLAP!\" and \"ULTRA COMBO!\" while the screen flashes.   \n  \nAnd yesterday, finally, I added a USB moaner mode: self descriptive 😂\n\nAs of now, it made me $5K revenue in 3 days. \n\n2026 is so unhinged.\n\n[https://slapmac.com](https://slapmac.com)",
+        "subreddit": "SaaS",
+        "author": "tonnoz",
+        "score": 587,
+        "num_comments": 167,
+        "created_utc": 1774512820.0,
+        "permalink": "https://www.reddit.com/r/SaaS/comments/1s41iv8/i_made_an_app_that_moans_when_you_slap_your/",
+        "fetched_at": "2026-03-27T01:24:23.434141"
+      },
+      {
+        "id": "9imfv9",
+        "title": "Please Read This Before Posting or Commenting",
+        "selftext": "**Violating [the rules of this subreddit](https://old.reddit.com/r/freelance/about/rules) will cause your post/comment will be removed and you will be banned PERMANENTLY. This is your only warning!** If you are unsure about whether a potential post or comment is suitable, [contact the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Ffreelance) for guidance **before** posting it.\n\nIf you're asking a question, there's a good chance that it has already been answered! **[Read the wiki](/r/freelance/wiki/) and do a [search](https://www.reddit.com/r/freelance/search?q=&restrict_sr=on&sort=relevance&t=all) before submitting your post.**\n\nJust because your question involves freelancing does not mean that it is the best subreddit for it. Depending on your question, one of these other subreddits might be more appropriate:\n\n* /r/bigseo\n* /r/careerguidance\n* /r/copywriting\n* /r/DigitalNomad\n* /r/forhire\n* /r/freelanceUK\n* /r/freelanceWriters\n* /r/graphic_design\n* /r/jobs\n* /r/photography\n* /r/tax\n* /r/TranslationStudies\n* /r/UpWork\n* /r/videography\n* /r/webdev",
+        "subreddit": "freelance",
+        "author": "martey",
+        "score": 524,
+        "num_comments": 0,
+        "created_utc": 1537827417.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/9imfv9/please_read_this_before_posting_or_commenting/",
+        "fetched_at": "2026-03-27T01:24:28.803875"
+      },
+      {
+        "id": "1ra3gis",
+        "title": "Just got my first client!",
+        "selftext": "Hey guys, I just signed my first client at 200$ per month. I’ve decided not to share this news with those close to me until I start making significant money, but I had to tell someone! \n\nThe service is in the research/analytics space and should take about 5 hours to fulfill per month, so assuming 1 hour of outreach to get the client, I’ll be making 40$ per hour, which is not bad considering I’ve only ever had minimum wage jobs.\n\nIf anyone has any advice that would be great!",
+        "subreddit": "freelance",
+        "author": "Sexyfreakinllama",
+        "score": 408,
+        "num_comments": 137,
+        "created_utc": 1771612420.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1ra3gis/just_got_my_first_client/",
+        "fetched_at": "2026-03-27T01:24:28.803918"
+      },
+      {
+        "id": "1rgk3zv",
+        "title": "Just lost my biggest client",
+        "selftext": "I just got a message from my biggest client saying they'll be pausing work till further notice, I've been in the trade for long enough to know this means it's done. The client used to pay $2000 every month, may not be a big sum but it was life changing money for a middle class guy from a third world country like me. I know it's not the end of the world, just a bit sad its over. ",
+        "subreddit": "freelance",
+        "author": "Accomplished-River12",
+        "score": 172,
+        "num_comments": 82,
+        "created_utc": 1772229138.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1rgk3zv/just_lost_my_biggest_client/",
+        "fetched_at": "2026-03-27T01:24:28.803909"
+      },
+      {
+        "id": "1rh3dqp",
+        "title": "How I stopped working past 8 PM (without losing clients)",
+        "selftext": "at one point in my life I used to finish client work at like midnight. sometimes 1am.   \n  \ni kept telling myself it was just a busy period and it would calm down soon. that's what i said to my wife too. \"just a few more weeks and this project wraps up\" and then a new one would start and it'd be the same thing. this went on for like a year.  \n  \ni kept saying yes to everything because i was terrified that if i pushed back even once they'd fire me and just hire someone cheaper on upwork. so every \"urgent\" request at 9pm, i'd do it.  \n  \nmy wife was eating dinner alone most nights. not occasionally, like consistently. i'd say \"5 more minutes\" and then look up and it was 10pm. she stopped asking after a while. started just leaving a plate in the microwave for me. we barely talked during the week. that one kind of got to me.  \n  \ntried to fix it by being more disciplined. woke up earlier. worked on weekends to \"get ahead\". made to-do lists. tried like 4 different productivity apps. none of it actually changed anything.  \n  \nthen i got this idea from work (i have a corporate day job on top of the freelance stuff) - there was an audit happening and the auditors were just going through every single process and asking \"why do you do it this way\" and i thought, what if i did that to my own schedule.  \n  \nso i got a cheap notebook and tracked every hour for 7 days. i'd set an alarm for each hour and write what i was doing. that's it.  \n  \nit was embarrassing to be honest. \n\nlike actually writing it down made it real in a way that was uncomfortable. \n\non day 3 i added up the numbers and found out 60% of what i was calling \"productive time\" was just... not really work. research that turned into me reading completely unrelated stuff for 45 min. email i was checking every 15-20 minutes for literally no reason. tasks that felt important in the moment but weren't actually moving any projects forward. \"quick\" social media checks that were not quick.  \n  \nso i cut all of it. deleted some apps, moved my phone to another room when i was working, blocked a few sites during work hours, stopped checking email constantly and just did it twice a day.  \n  \nthen i did the part i was most scared about. i told my main clients i'm available until 8pm and anything after that i'll reply to first thing in the morning. sent that message on a tuesday night and then just sat there dreading the responses.  \n  \nmost of them just said ok. one of them got a bit annoyed, the type of client who expects you to respond instantly at all hours, but honestly they were already kind of a pain to work with. but i didn't lose anyone.  \n  \nwithin 2 weeks i was done before 8pm most nights. me and my wife started eating dinner together again. took a full saturday off for the first time in months and slept like a normal person.  \n  \nthe thing i keep thinking about is i spent a year assuming the problem was the amount of work. turned out it was where the time was actually going. i just hadn't looked.\n\nso if you're struggling with the same problem, i highly recommend measuring where your time goes... with full transparency.",
+        "subreddit": "freelance",
+        "author": "trimplin1",
+        "score": 170,
+        "num_comments": 83,
+        "created_utc": 1772287265.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1rh3dqp/how_i_stopped_working_past_8_pm_without_losing/",
+        "fetched_at": "2026-03-27T01:24:28.803905"
+      },
+      {
+        "id": "1s3wch7",
+        "title": "Built our SaaS on AWS. Monthly bill: $2,400. Moved to Hetzner. Monthly bill: $180.",
+        "selftext": "The capabilities we actually use don't require AWS. We're not using Lambda or SQS or DynamoDB or any of the services that justify AWS pricing. We're running a web application with a database. The kind of workload that dedicated servers handle perfectly well at a fraction of the cost.\n\nThe $2,220 monthly savings is meaningful at our revenue level. That's a part-time contractor or a significant marketing budget. The migration took about two weeks including testing and the only operational difference is that I manage the server directly rather than through a managed service dashboard.\n\nThe cloud infrastructure default in SaaS is appropriate for companies with complex scaling needs and the engineering staff to manage distributed systems. For a small product serving hundreds of customers with predictable load, it's often dramatically overpriced for what you're using. The assumption that serious SaaS must run on AWS or GCP costs small founders real money every month.",
+        "subreddit": "SaaS",
+        "author": "Aggravating-Form2319",
+        "score": 131,
+        "num_comments": 49,
+        "created_utc": 1774495198.0,
+        "permalink": "https://www.reddit.com/r/SaaS/comments/1s3wch7/built_our_saas_on_aws_monthly_bill_2400_moved_to/",
+        "fetched_at": "2026-03-27T01:24:23.434157"
+      },
+      {
+        "id": "1rirozj",
+        "title": "Client wants to switch from daily billing to hourly billing after receiving the invoice",
+        "selftext": "This involves working as a part-time freelance interior designer. We agreed on a daily rate since the client mentioned \"from 1/2 to 3/4 days per week.\" I sent her a quote after starting the project (I know...) which she didn't return signed (\"my administrative day is friday\" > \"I didn't have a chance to deal with it last friday\").\n\nWe've been working together for three weeks now, and I've never received a precise schedule by week, or even by day, so I make myself available all day, all week, to manage her projects.\n\nLast Friday I sent the february invoice, and I received a long email this afternoon saying that daily billing wasn't appropriate or \"fair\" since, \"according to her,\" some tasks could be completed in half a day. \n\nSo I'll redo the quote/invoice with an hourly rate, but I'm not sure if I should increase the rate a bit given the circumstances (no schedule, etc.) I also need to properly explain to her that I can't be available all day for only 2 hours of actual work",
+        "subreddit": "freelance",
+        "author": "LemonTart-12",
+        "score": 109,
+        "num_comments": 97,
+        "created_utc": 1772455052.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1rirozj/client_wants_to_switch_from_daily_billing_to/",
+        "fetched_at": "2026-03-27T01:24:28.803901"
+      },
+      {
+        "id": "1s444ej",
+        "title": "Customer paying $49/month asked for a feature that would cost us $15K to build. For them specifically.",
+        "selftext": "The feature serves their workflow and nobody else's. They described it in detail. It's genuinely useful for their situation. It would take roughly three months of part-time engineering work to implement and maintain, generating approximately zero additional revenue from anyone else.\n\nAt $49/month they'd need to stay for 25 years to cover the development cost alone. The math is obviously wrong. But saying no to a specific request from a paying customer who took the time to articulate what they need never feels as clean as the math suggests it should.\n\nOffered to help them find a third-party tool that handles their specific need and integrate loosely with it. They were appreciative. The solution isn't as elegant as a native feature but it's honest about what we can afford to build at their price point. Sometimes the best product decision is admitting that someone else should solve this problem.",
+        "subreddit": "SaaS",
+        "author": "Just_Theory6515",
+        "score": 98,
+        "num_comments": 81,
+        "created_utc": 1774522238.0,
+        "permalink": "https://www.reddit.com/r/SaaS/comments/1s444ej/customer_paying_49month_asked_for_a_feature_that/",
+        "fetched_at": "2026-03-27T01:24:23.434145"
+      },
+      {
+        "id": "1re9ttz",
+        "title": "Client expects employee-like behavior",
+        "selftext": "My main client will call me anywhere from 1 to 5 times per day, sometimes send 20 texts in a single morning, and expects me to attend in person meetings and events with less than two weeks’ notice. This client does pay me well. But I’m starting to feel like their full time employee without any of the benefits. Tips? ",
+        "subreddit": "freelance",
+        "author": "Grand-Conclusion5027",
+        "score": 79,
+        "num_comments": 68,
+        "created_utc": 1772015871.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1re9ttz/client_expects_employeelike_behavior/",
+        "fetched_at": "2026-03-27T01:24:28.803911"
+      },
+      {
+        "id": "1s3ji91",
+        "title": "how do you deal with regret?",
+        "selftext": "i sold my last startup for a semi-retirement amount while being from a 3rd world country 3 years ago. during this time, a more experienced older founder from the US came in contact with me and tried multiple times to get me to work with him. (including flying to my country)\n\nhe was more of an idea/sales guy and wanted a technical person to join him. however i rebuffed his attempts multiple times because i wanted to enjoy the money i made from the acquisition.\n\ni ended up traveling the world for 1.5 years and moving countries. i however didn’t enjoy my travels for multiple reasons (being lonely, purposeless etc). and the last 1.5 years ive semi-seriously tried to bootstrap 3-4 projects and failed absolutely miserable in all of those and my savings keep getting depleted lol.\n\nin the meantime, the experienced founder failed at his first attempt but then joined an accelerator 1.5 years ago, came up with a  unique idea and his new startup recently reached unicorn status.\n\ni cant help but regret my decision to not work with him and its been occupying my brain for over a month now. has anyone gone through something similar? how did you come to terms with it?",
+        "subreddit": "Entrepreneur",
+        "author": "AppropriateHamster",
+        "score": 68,
+        "num_comments": 82,
+        "created_utc": 1774464433.0,
+        "permalink": "https://www.reddit.com/r/Entrepreneur/comments/1s3ji91/how_do_you_deal_with_regret/",
+        "fetched_at": "2026-03-27T01:24:21.727788"
+      }
+    ]
+  }
+}
