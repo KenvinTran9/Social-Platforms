@@ -1,0 +1,226 @@
+{
+  "metadata": {
+    "total_items": 20,
+    "sources": {
+      "youtube": 10,
+      "reddit": 10
+    },
+    "fetched_at": "2026-04-18T01:25:22.505820"
+  },
+  "data": {
+    "youtube": [
+      {
+        "videoId": "dCY9xejoWDU",
+        "title": "This Editing Workflow Saves Hours",
+        "description": "Learn more about the Simple Color Workflow here: ...",
+        "channelTitle": "Casey Faris",
+        "publishedAt": "2026-03-18T14:01:06Z",
+        "url": "https://www.youtube.com/watch?v=dCY9xejoWDU",
+        "fetched_at": "2026-04-18T01:25:13.304756"
+      },
+      {
+        "videoId": "x3TrUPSFyPU",
+        "title": "The Best Editing Workflow on the Internet",
+        "description": "GET THE SPEED EDITING SYSTEM: https://www.justinnjames.com/speed-editing-v4- #videoediting #adobepremiere ...",
+        "channelTitle": "Justin James",
+        "publishedAt": "2026-02-11T15:57:00Z",
+        "url": "https://www.youtube.com/watch?v=x3TrUPSFyPU",
+        "fetched_at": "2026-04-18T01:25:13.304774"
+      },
+      {
+        "videoId": "9a04BsKv26M",
+        "title": "Top 5 Accounting Software for Small Business (2026 Guide)",
+        "description": "My top 5 Accounting Software for Small Businesses. My recommended accounting software for small to medium businesses is ...",
+        "channelTitle": "Stewart Gauld",
+        "publishedAt": "2025-08-27T11:30:07Z",
+        "url": "https://www.youtube.com/watch?v=9a04BsKv26M",
+        "fetched_at": "2026-04-18T01:25:13.649379"
+      },
+      {
+        "videoId": "gOchfGvTogk",
+        "title": "My simple video editing workflow | Make video editing easier!",
+        "description": "Transform your photography today: https://www.scottedwardsyoutube.com Video editing is a craft. It takes a lot of time to make ...",
+        "channelTitle": "Scott Edwards",
+        "publishedAt": "2022-10-27T14:00:33Z",
+        "url": "https://www.youtube.com/watch?v=gOchfGvTogk",
+        "fetched_at": "2026-04-18T01:25:13.304770"
+      },
+      {
+        "videoId": "pKpdibyljR4",
+        "title": "The BOOKKEEPING BASICS for BEGINNERS",
+        "description": "Bookkeeping is the recording of past financial data to make future business decisions. In this tutorial, you'll learn what ...",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2022-06-29T20:30:06Z",
+        "url": "https://www.youtube.com/watch?v=pKpdibyljR4",
+        "fetched_at": "2026-04-18T01:25:13.649377"
+      },
+      {
+        "videoId": "EFAig6aSBYg",
+        "title": "🌿 FREE TEMPLATE for a simple, easy, FREE way to do BOOKKEEPING | Realistic Bookkeeping",
+        "description": "A good bookkeeping system does not need to be fancy or confusing, in fact one of the best and easiest way to start a good ...",
+        "channelTitle": "Realistic Bookkeeping",
+        "publishedAt": "2021-07-29T19:00:03Z",
+        "url": "https://www.youtube.com/watch?v=EFAig6aSBYg",
+        "fetched_at": "2026-04-18T01:25:13.649381"
+      },
+      {
+        "videoId": "o5ENktjJ0Rc",
+        "title": "Video Editing Workflow | File Management",
+        "description": "Here is my video editing workflow when it comes to video project file management. Having a good file structure is extremely ...",
+        "channelTitle": "Andrik Langfield",
+        "publishedAt": "2021-06-10T15:00:20Z",
+        "url": "https://www.youtube.com/watch?v=o5ENktjJ0Rc",
+        "fetched_at": "2026-04-18T01:25:13.304776"
+      },
+      {
+        "videoId": "UgMB5ReZxhk",
+        "title": "Small Business EASY Bookkeeping How To! | Realistic Bookkeeping",
+        "description": "This video is dedicated to explaining a super simple method of small business bookkeeping! I use this method of record keeping ...",
+        "channelTitle": "Realistic Bookkeeping",
+        "publishedAt": "2020-12-29T19:00:17Z",
+        "url": "https://www.youtube.com/watch?v=UgMB5ReZxhk",
+        "fetched_at": "2026-04-18T01:25:13.649364"
+      },
+      {
+        "videoId": "3KeG7hHzUy4",
+        "title": "Accounting Basics for Small Business Owners [By a CPA]",
+        "description": "Learn the accounting basics for small business from a CPA. Today, you will learn the role of accounting in small business.",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2020-10-12T11:00:02Z",
+        "url": "https://www.youtube.com/watch?v=3KeG7hHzUy4",
+        "fetched_at": "2026-04-18T01:25:13.649375"
+      },
+      {
+        "videoId": "Ve7C_0XpFmA",
+        "title": "How To EDIT From START To FINISH - EDITING WORKFLOW",
+        "description": "BACK TO SCHOOL SALE!!! NEW LIGHTROOM PRESETS ONLY $9.99! - https://goo.gl/YKAtkY Presets for your videos ONLY ...",
+        "channelTitle": "Matti Haapoja",
+        "publishedAt": "2017-08-29T15:51:01Z",
+        "url": "https://www.youtube.com/watch?v=Ve7C_0XpFmA",
+        "fetched_at": "2026-04-18T01:25:13.304772"
+      }
+    ],
+    "reddit": [
+      {
+        "id": "1sm90qa",
+        "title": "5 years in, we reached $5M ARR, fully bootstrapped",
+        "selftext": "Our form builder Tally just crossed $5M ARR, and as the tradition goes, I wrote a summary of what happened since our last update.\n\n[https://blog.tally.so/the-road-from-4m-to-5m-arr/](https://blog.tally.so/the-road-from-4m-to-5m-arr/)\n\n* We're still bootstrapped \n* Still a tiny team \n* Still growing organically  \n* Still obsessively listening to users\n\nWhat changed  \n  \n→ We dropped revenue targets, instead we’re optimizing for product quality  \n→ AI search is our #1 acquisition channel  \n→ A trusted community is becoming our moat  \n  \nWe're chasing a feeling: that every time you open Tally, it just works, and it's a little bit better than the last time you used it.  \n  \nTo our community: thanks for being part of this journey. Whether you've been here since the Product Hunt launch in 2021 or you just signed up last week, you're the reason we get to do this 🫰",
+        "subreddit": "SaaS",
+        "author": "Marie-Tally",
+        "score": 531,
+        "num_comments": 225,
+        "created_utc": 1776266169.0,
+        "permalink": "https://www.reddit.com/r/SaaS/comments/1sm90qa/5_years_in_we_reached_5m_arr_fully_bootstrapped/",
+        "fetched_at": "2026-04-18T01:25:16.204656"
+      },
+      {
+        "id": "9imfv9",
+        "title": "Please Read This Before Posting or Commenting",
+        "selftext": "**Violating [the rules of this subreddit](https://old.reddit.com/r/freelance/about/rules) will cause your post/comment will be removed and you will be banned PERMANENTLY. This is your only warning!** If you are unsure about whether a potential post or comment is suitable, [contact the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Ffreelance) for guidance **before** posting it.\n\nIf you're asking a question, there's a good chance that it has already been answered! **[Read the wiki](/r/freelance/wiki/) and do a [search](https://www.reddit.com/r/freelance/search?q=&restrict_sr=on&sort=relevance&t=all) before submitting your post.**\n\nJust because your question involves freelancing does not mean that it is the best subreddit for it. Depending on your question, one of these other subreddits might be more appropriate:\n\n* /r/bigseo\n* /r/careerguidance\n* /r/copywriting\n* /r/DigitalNomad\n* /r/forhire\n* /r/freelanceUK\n* /r/freelanceWriters\n* /r/graphic_design\n* /r/jobs\n* /r/photography\n* /r/tax\n* /r/TranslationStudies\n* /r/UpWork\n* /r/videography\n* /r/webdev",
+        "subreddit": "freelance",
+        "author": "martey",
+        "score": 531,
+        "num_comments": 0,
+        "created_utc": 1537827417.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/9imfv9/please_read_this_before_posting_or_commenting/",
+        "fetched_at": "2026-04-18T01:25:21.504471"
+      },
+      {
+        "id": "1sndwq7",
+        "title": "End of AI Slop",
+        "selftext": "Hi r/SaaS community,\n\nWe think conventional methods aren't working in fighting the current state of AI slop in this sub. I know you are fed up with all this so am I. You come here to get real advice, listen to real people, and get real feedback - instead you get AI comments, bot DMs, disguised as real users which doesn't help you in your SaaS journey.\n\nWe are implementing captcha and user vetting bot, some of your posts and comments will get a comment from our bot and you will have to respond to the captcha, it is going to be random and limited not to be disruptive while repeated failures to complete this check will restrict/ban bot accounts and get reported. This minor discomfort will result in much better communication and substantially remove AI bots.\n\nMod team",
+        "subreddit": "SaaS",
+        "author": "Dubinko",
+        "score": 216,
+        "num_comments": 59,
+        "created_utc": 1776368047.0,
+        "permalink": "https://www.reddit.com/r/SaaS/comments/1sndwq7/end_of_ai_slop/",
+        "fetched_at": "2026-04-18T01:25:16.204581"
+      },
+      {
+        "id": "1snmold",
+        "title": "I effed up. What should I do",
+        "selftext": "So I bought a pizza franchise from someone I know the first two months I made money but since January it tanked during the winter really hard and I have been losing about 5 to 10k a month. I have been getting loans and paying my employees off a credit card. I can't afford this anymore \n\nI am going to put it up for sale, but I am afraid no one is going to want it. I asked the franchise if they can stop charging me fees for a month since they are $1000 a week. They just ghosted me. \n\n  \nI put 10% down and they let me do sellers financing.  I have no idea what to do. \n\n  \nHelp? \n\n  \n",
+        "subreddit": "smallbusiness",
+        "author": "Aufshnitt",
+        "score": 187,
+        "num_comments": 158,
+        "created_utc": 1776389077.0,
+        "permalink": "https://www.reddit.com/r/smallbusiness/comments/1snmold/i_effed_up_what_should_i_do/",
+        "fetched_at": "2026-04-18T01:25:19.577394"
+      },
+      {
+        "id": "1rgk3zv",
+        "title": "Just lost my biggest client",
+        "selftext": "I just got a message from my biggest client saying they'll be pausing work till further notice, I've been in the trade for long enough to know this means it's done. The client used to pay $2000 every month, may not be a big sum but it was life changing money for a middle class guy from a third world country like me. I know it's not the end of the world, just a bit sad its over. ",
+        "subreddit": "freelance",
+        "author": "Accomplished-River12",
+        "score": 181,
+        "num_comments": 87,
+        "created_utc": 1772229138.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1rgk3zv/just_lost_my_biggest_client/",
+        "fetched_at": "2026-04-18T01:25:21.504526"
+      },
+      {
+        "id": "1rh3dqp",
+        "title": "How I stopped working past 8 PM (without losing clients)",
+        "selftext": "at one point in my life I used to finish client work at like midnight. sometimes 1am.   \n  \ni kept telling myself it was just a busy period and it would calm down soon. that's what i said to my wife too. \"just a few more weeks and this project wraps up\" and then a new one would start and it'd be the same thing. this went on for like a year.  \n  \ni kept saying yes to everything because i was terrified that if i pushed back even once they'd fire me and just hire someone cheaper on upwork. so every \"urgent\" request at 9pm, i'd do it.  \n  \nmy wife was eating dinner alone most nights. not occasionally, like consistently. i'd say \"5 more minutes\" and then look up and it was 10pm. she stopped asking after a while. started just leaving a plate in the microwave for me. we barely talked during the week. that one kind of got to me.  \n  \ntried to fix it by being more disciplined. woke up earlier. worked on weekends to \"get ahead\". made to-do lists. tried like 4 different productivity apps. none of it actually changed anything.  \n  \nthen i got this idea from work (i have a corporate day job on top of the freelance stuff) - there was an audit happening and the auditors were just going through every single process and asking \"why do you do it this way\" and i thought, what if i did that to my own schedule.  \n  \nso i got a cheap notebook and tracked every hour for 7 days. i'd set an alarm for each hour and write what i was doing. that's it.  \n  \nit was embarrassing to be honest. \n\nlike actually writing it down made it real in a way that was uncomfortable. \n\non day 3 i added up the numbers and found out 60% of what i was calling \"productive time\" was just... not really work. research that turned into me reading completely unrelated stuff for 45 min. email i was checking every 15-20 minutes for literally no reason. tasks that felt important in the moment but weren't actually moving any projects forward. \"quick\" social media checks that were not quick.  \n  \nso i cut all of it. deleted some apps, moved my phone to another room when i was working, blocked a few sites during work hours, stopped checking email constantly and just did it twice a day.  \n  \nthen i did the part i was most scared about. i told my main clients i'm available until 8pm and anything after that i'll reply to first thing in the morning. sent that message on a tuesday night and then just sat there dreading the responses.  \n  \nmost of them just said ok. one of them got a bit annoyed, the type of client who expects you to respond instantly at all hours, but honestly they were already kind of a pain to work with. but i didn't lose anyone.  \n  \nwithin 2 weeks i was done before 8pm most nights. me and my wife started eating dinner together again. took a full saturday off for the first time in months and slept like a normal person.  \n  \nthe thing i keep thinking about is i spent a year assuming the problem was the amount of work. turned out it was where the time was actually going. i just hadn't looked.\n\nso if you're struggling with the same problem, i highly recommend measuring where your time goes... with full transparency.",
+        "subreddit": "freelance",
+        "author": "trimplin1",
+        "score": 179,
+        "num_comments": 96,
+        "created_utc": 1772287265.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1rh3dqp/how_i_stopped_working_past_8_pm_without_losing/",
+        "fetched_at": "2026-04-18T01:25:21.504523"
+      },
+      {
+        "id": "1slno92",
+        "title": "New Rule against Self-Promo",
+        "selftext": "Hi Folks,\n\nWe continue fighting spam and bots on this sub, as things are worse than we initially thought we have to implement a tighter rule against Spam/Self-Promo/Ads.\n\nPromoting projects you're part of is fine occasionally, but accounts that exist mainly to promote will be removed.\n\n* Self-promotion is limited to **once per 60 days**\n* This includes posts, comment plugs, and links (and mentions) to your own product\n* Alt accounts promoting the **same product count as the same user**\n\nViolation of this rule will result in ban, removal of all your submissions, and blacklist of your url/product in automod.",
+        "subreddit": "SaaS",
+        "author": "Dubinko",
+        "score": 149,
+        "num_comments": 68,
+        "created_utc": 1776205590.0,
+        "permalink": "https://www.reddit.com/r/SaaS/comments/1slno92/new_rule_against_selfpromo/",
+        "fetched_at": "2026-04-18T01:25:16.204592"
+      },
+      {
+        "id": "1smstxy",
+        "title": "I’m afraid that someone might steal my idea if I ask people for feedback.",
+        "selftext": "Hi,  \nI have an idea to build an application in the stock/investor niche. It will initially be specific to my country until it’s validated. I want to make a post asking for feedback on this product and to learn more about the problems people face in this space. However, I’m worried that posting it on a subreddit might lead someone else to build the idea before I do.\n\n  \nNOTE -> I have not yet built the application too. Just asking from potential customer before building.   \n",
+        "subreddit": "SaaS",
+        "author": "Fickle_Degree_2728",
+        "score": 119,
+        "num_comments": 285,
+        "created_utc": 1776312418.0,
+        "permalink": "https://www.reddit.com/r/SaaS/comments/1smstxy/im_afraid_that_someone_might_steal_my_idea_if_i/",
+        "fetched_at": "2026-04-18T01:25:16.204650"
+      },
+      {
+        "id": "1rirozj",
+        "title": "Client wants to switch from daily billing to hourly billing after receiving the invoice",
+        "selftext": "This involves working as a part-time freelance interior designer. We agreed on a daily rate since the client mentioned \"from 1/2 to 3/4 days per week.\" I sent her a quote after starting the project (I know...) which she didn't return signed (\"my administrative day is friday\" > \"I didn't have a chance to deal with it last friday\").\n\nWe've been working together for three weeks now, and I've never received a precise schedule by week, or even by day, so I make myself available all day, all week, to manage her projects.\n\nLast Friday I sent the february invoice, and I received a long email this afternoon saying that daily billing wasn't appropriate or \"fair\" since, \"according to her,\" some tasks could be completed in half a day. \n\nSo I'll redo the quote/invoice with an hourly rate, but I'm not sure if I should increase the rate a bit given the circumstances (no schedule, etc.) I also need to properly explain to her that I can't be available all day for only 2 hours of actual work",
+        "subreddit": "freelance",
+        "author": "LemonTart-12",
+        "score": 117,
+        "num_comments": 108,
+        "created_utc": 1772455052.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1rirozj/client_wants_to_switch_from_daily_billing_to/",
+        "fetched_at": "2026-04-18T01:25:21.504521"
+      },
+      {
+        "id": "1snchax",
+        "title": "anthropic just made it possible to build AI workers in plain english",
+        "selftext": "anthropic released something recently called managed agents and I think the business side of the internet is missing out on it. All the coverage is from developers saying its not a big deal, which I get, they already build this stuff in code. For anyone who doesn't write code though this changes things\n\nYou describe what you want an AI worker to do in plain english and anthropic builds and hosts the whole thing for you in their cloud, without anything to maintain. And it costs eight cents an hour of runtime. I tried it yesterday and had a working agent in under four minutes\n\nI tested it on content briefs because thats a workflow I know inside out. You take a keyword, go through the top google results, pull out the structure, figure out word counts, write an outline, hand it to a writer. Takes about 45 minutes if you're being thorough. I've done hundreds of these over the years so I figured I'd know right away if the output was any good\n\nWent into the console, described what I wanted in one sentence, and it built the agent for me. Wrote the system prompt, picked the tools, everything. Connected it to notion with one click and press create\n\nGave it a real keyword and it spun up its own computer, ran a bunch of web searches, read through the top results, and dropped a full brief into my notion workspace\n\nThe output isn't perfect. But its 80-90% there, and the difference between \"needs a full rewrite\" and \"needs a ten minute edit\" is huge when you're doing these at volume. A hundred of these a week would run you about two bucks\n\nThats just content briefs. But think about lead research, you give it a list of companies and it looks each one up and writes personalized outreach. Customer support, reads incoming tickets, drafts replies, flags the ones that need a real person. Competitor monitoring, checks pricing pages once a week and pings you when something changes. Any workflow where someone on your team is doing the same steps in the same order every time\n\nOne thing I will say. I've seen people get burned by agents that look like they're working great. The output is well formatted, numbers look reasonable, and nobody bothers checking because it all looks so clean. Then three weeks later someone realizes the data was wrong the whole time. If you try this, compare the output to what you'd produce yourself for at least a week before you trust it, line by line\n\nAnyway just wanted to share because I think this is one of those things where the people who need to know about it aren't hearing about it yet. Notion already runs this same infrastructure in production so its not some beta experiment",
+        "subreddit": "Entrepreneur",
+        "author": "W_E_B_D_E_V",
+        "score": 92,
+        "num_comments": 76,
+        "created_utc": 1776365037.0,
+        "permalink": "https://www.reddit.com/r/Entrepreneur/comments/1snchax/anthropic_just_made_it_possible_to_build_ai/",
+        "fetched_at": "2026-04-18T01:25:14.428407"
+      }
+    ]
+  }
+}
