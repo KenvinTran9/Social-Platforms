@@ -1,0 +1,226 @@
+{
+  "metadata": {
+    "total_items": 20,
+    "sources": {
+      "youtube": 10,
+      "reddit": 10
+    },
+    "fetched_at": "2026-06-06T09:54:31.035227"
+  },
+  "data": {
+    "youtube": [
+      {
+        "videoId": "RwynWBXuRaA",
+        "title": "I Fully Automated Video Editing With AI (here’s how)",
+        "description": "AI Video Editing Just Became REAL (fully automated workflow) Prompt Pack: ...",
+        "channelTitle": "Mira AI",
+        "publishedAt": "2026-06-04T17:02:20Z",
+        "url": "https://www.youtube.com/watch?v=RwynWBXuRaA",
+        "fetched_at": "2026-06-06T09:54:22.961821"
+      },
+      {
+        "videoId": "dCY9xejoWDU",
+        "title": "This Editing Workflow Saves Hours",
+        "description": "GROUND CONTROL FILM SCHOOL: https://www.skool.com/gcfs/about ^^ Most creators WASTE their life learning the wrong ...",
+        "channelTitle": "Casey Faris",
+        "publishedAt": "2026-03-18T14:01:06Z",
+        "url": "https://www.youtube.com/watch?v=dCY9xejoWDU",
+        "fetched_at": "2026-06-06T09:54:22.961801"
+      },
+      {
+        "videoId": "x3TrUPSFyPU",
+        "title": "The Best Editing Workflow on the Internet",
+        "description": "GET THE SPEED EDITING SYSTEM: https://www.justinnjames.com/speed-editing-v4- #videoediting #adobepremiere ...",
+        "channelTitle": "Justin James",
+        "publishedAt": "2026-02-11T15:57:00Z",
+        "url": "https://www.youtube.com/watch?v=x3TrUPSFyPU",
+        "fetched_at": "2026-06-06T09:54:22.961820"
+      },
+      {
+        "videoId": "9a04BsKv26M",
+        "title": "Top 5 Accounting Software for Small Business (2026 Guide)",
+        "description": "My top 5 Accounting Software for Small Businesses. My recommended accounting software for small to medium businesses is ...",
+        "channelTitle": "Stewart Gauld",
+        "publishedAt": "2025-08-27T11:30:07Z",
+        "url": "https://www.youtube.com/watch?v=9a04BsKv26M",
+        "fetched_at": "2026-06-06T09:54:23.291340"
+      },
+      {
+        "videoId": "Kb_x8MxKQ5w",
+        "title": "What is the best accounting software for small businesses in 2026?",
+        "description": "What is the best accounting software for small businesses in 2026? In this video, I am walking through 3 of my favourite ...",
+        "channelTitle": "Jamie Trull",
+        "publishedAt": "2024-12-04T18:00:12Z",
+        "url": "https://www.youtube.com/watch?v=Kb_x8MxKQ5w",
+        "fetched_at": "2026-06-06T09:54:23.291342"
+      },
+      {
+        "videoId": "gOchfGvTogk",
+        "title": "My simple video editing workflow | Make video editing easier!",
+        "description": "Transform your photography today: https://www.scottedwardsyoutube.com Video editing is a craft. It takes a lot of time to make ...",
+        "channelTitle": "Scott Edwards",
+        "publishedAt": "2022-10-27T14:00:33Z",
+        "url": "https://www.youtube.com/watch?v=gOchfGvTogk",
+        "fetched_at": "2026-06-06T09:54:22.961816"
+      },
+      {
+        "videoId": "pKpdibyljR4",
+        "title": "The BOOKKEEPING BASICS for BEGINNERS",
+        "description": "Bookkeeping is the recording of past financial data to make future business decisions. In this tutorial, you'll learn what ...",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2022-06-29T20:30:06Z",
+        "url": "https://www.youtube.com/watch?v=pKpdibyljR4",
+        "fetched_at": "2026-06-06T09:54:23.291323"
+      },
+      {
+        "videoId": "UgMB5ReZxhk",
+        "title": "Small Business EASY Bookkeeping How To! | Realistic Bookkeeping",
+        "description": "This video is dedicated to explaining a super simple method of small business bookkeeping! I use this method of record keeping ...",
+        "channelTitle": "Realistic Bookkeeping",
+        "publishedAt": "2020-12-29T19:00:17Z",
+        "url": "https://www.youtube.com/watch?v=UgMB5ReZxhk",
+        "fetched_at": "2026-06-06T09:54:23.291336"
+      },
+      {
+        "videoId": "3KeG7hHzUy4",
+        "title": "Accounting Basics for Small Business Owners [By a CPA]",
+        "description": "Learn the accounting basics for small business from a CPA. Today, you will learn the role of accounting in small business.",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2020-10-12T11:00:02Z",
+        "url": "https://www.youtube.com/watch?v=3KeG7hHzUy4",
+        "fetched_at": "2026-06-06T09:54:23.291339"
+      },
+      {
+        "videoId": "Ve7C_0XpFmA",
+        "title": "How To EDIT From START To FINISH - EDITING WORKFLOW",
+        "description": "BACK TO SCHOOL SALE!!! NEW LIGHTROOM PRESETS ONLY $9.99! - https://goo.gl/YKAtkY Presets for your videos ONLY ...",
+        "channelTitle": "Matti Haapoja",
+        "publishedAt": "2017-08-29T15:51:01Z",
+        "url": "https://www.youtube.com/watch?v=Ve7C_0XpFmA",
+        "fetched_at": "2026-06-06T09:54:22.961818"
+      }
+    ],
+    "reddit": [
+      {
+        "id": "1twro01",
+        "title": "Google just killed my ~$1M ARR startup because a hacker abused THEIR API design. 100k users locked out, 1M+ photos frozen, and they billed me for it. i will not promote.",
+        "selftext": "I run a live app with \\~100k users, over 1 million customer photos, and around $1M ARR.\n\nFor the last 72 hours it's basically been dead because of a Google Cloud suspension.\n\nHere's what happened.\n\nMy app uses Google Maps. Like every mobile developer, I have to ship a Maps API key inside the app because that's literally how Google tells you to do it. Their docs even say these keys aren't secrets.\n\nWhat I didn't know is that if Gemini gets enabled in the same Google Cloud project, apparently that same key can be used to authenticate Gemini requests too.\n\nSomeone pulled the Maps key out of my app (again, exactly where Google requires it to be), and used it to run Gemini calls. Thousands of dollars worth. About $4,200.\n\nI've never used Gemini. Never signed up for it. Didn't even know that key could access it.\n\nI also thought I had spending limits setup. Turns out Google had auto-raised my billing tier at some point, so the charges just kept going.\n\nThen it got worse.\n\nGoogle suspended the entire project for \"abusive activity consistent with hijacking\".\n\nRead that again.\n\nA third party abuses a key that Google tells me to put in my app, runs up charges on services I never used, and Google's response is to lock ME out of everything.\n\nThe $4,200 sucks, but honestly that's not even the main problem.\n\nEverything was in that project. The app. The APIs. Over a million customer photos belonging to 100k users.\n\nThe second the project got suspended, users couldn't access their photos anymore. I lost access to the console. Couldn't rotate keys. Couldn't move data. Couldn't fix anything. All I could do was submit an appeal and wait.\n\nNothing was stolen. The key couldn't access storage.\n\nBut it didn't matter.\n\nBecause Google tied everything together under one project, a billing/abuse issue basically took my entire company offline.\n\nThe biggest lesson from this whole mess:\n\nA single Google Cloud suspension can freeze your app, APIs, and access to your own user data all at once.\n\nI trusted Google Cloud with my customers photos. A vulnerability I didn't create, didn't know existed, and couldn't reasonably predict ended up taking my business offline.\n\nStill waiting for a human response from Google.",
+        "subreddit": "startups",
+        "author": "Big_Manufacturer_585",
+        "score": 718,
+        "num_comments": 166,
+        "created_utc": 1780588320.0,
+        "permalink": "https://www.reddit.com/r/startups/comments/1twro01/google_just_killed_my_1m_arr_startup_because_a/",
+        "fetched_at": "2026-06-06T09:54:26.921641"
+      },
+      {
+        "id": "9imfv9",
+        "title": "Please Read This Before Posting or Commenting",
+        "selftext": "**Violating [the rules of this subreddit](https://old.reddit.com/r/freelance/about/rules) will cause your post/comment will be removed and you will be banned PERMANENTLY. This is your only warning!** If you are unsure about whether a potential post or comment is suitable, [contact the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Ffreelance) for guidance **before** posting it.\n\nIf you're asking a question, there's a good chance that it has already been answered! **[Read the wiki](/r/freelance/wiki/) and do a [search](https://www.reddit.com/r/freelance/search?q=&restrict_sr=on&sort=relevance&t=all) before submitting your post.**\n\nJust because your question involves freelancing does not mean that it is the best subreddit for it. Depending on your question, one of these other subreddits might be more appropriate:\n\n* /r/bigseo\n* /r/careerguidance\n* /r/copywriting\n* /r/DigitalNomad\n* /r/forhire\n* /r/freelanceUK\n* /r/freelanceWriters\n* /r/graphic_design\n* /r/jobs\n* /r/photography\n* /r/tax\n* /r/TranslationStudies\n* /r/UpWork\n* /r/videography\n* /r/webdev",
+        "subreddit": "freelance",
+        "author": "martey",
+        "score": 535,
+        "num_comments": 0,
+        "created_utc": 1537827417.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/9imfv9/please_read_this_before_posting_or_commenting/",
+        "fetched_at": "2026-06-06T09:54:30.033780"
+      },
+      {
+        "id": "1txoay9",
+        "title": "This sub in one graph",
+        "selftext": "",
+        "subreddit": "SaaS",
+        "author": "Striking-Split-1747",
+        "score": 166,
+        "num_comments": 32,
+        "created_utc": 1780673525.0,
+        "permalink": "https://www.reddit.com/r/SaaS/comments/1txoay9/this_sub_in_one_graph/",
+        "fetched_at": "2026-06-06T09:54:25.376809"
+      },
+      {
+        "id": "1txpz10",
+        "title": "Why does every guy who starts his own business suddenly forget what it's like to be an employee?",
+        "selftext": "I won't go into every single detail because it'd be a wall of text, but my boss used to be in the same role as me before he started his own company 4 years ago. The way he speaks to me sometimes, the things he asks of me after hours and on my personal time... you'd think the guy never worked for anyone in his life.\n\nHere's the thing. I know his character. I've known him a long time. If he were in my shoes right now, he would never accept this. Not in a million years. And yet here he is, demanding it from me. It's like owning a business just... corrupts people somehow.\n\nAnyway, yesterday I stood my ground. Without any warning, I parked the company vehicle in front of his house, took a taxi home, and texted him: \"I'll come pick it up once you're willing to speak to me properly and ready to see my side of things. Oh and you can cancel any future invitations for company parties or meetings. I have plans.\"\n\nHeard nothing for 5+ hours. Then he sent me this huge text listing everything he's \"done\" for me since I started. Like that changes how he's allowed to treat me. Yeah great, you bought me some gear. That means you can treat me like shit? I don't think so.\n\nHis wall of text ended with \"it's all a misunderstanding.\"\n\nI haven't replied yet. Letting him soak a little.",
+        "subreddit": "smallbusiness",
+        "author": "Glum-Dark281",
+        "score": 154,
+        "num_comments": 92,
+        "created_utc": 1780677099.0,
+        "permalink": "https://www.reddit.com/r/smallbusiness/comments/1txpz10/why_does_every_guy_who_starts_his_own_business/",
+        "fetched_at": "2026-06-06T09:54:28.412505"
+      },
+      {
+        "id": "1txq8b2",
+        "title": "Left a $120k job to freelance. Lost my only client 6 weeks ago. feel dead inside.",
+        "selftext": "Lost the freelance role about 6 weeks ago. Restructure apparently lol. I did everything right but I guess in this economy that doesn't matter. \n\nI can't tell my family. They'll just do the \"we told you so\" thing and I can't handle that right now. My mum texts asking how work is and I just say its good. I dont really have anyone to share this with and i dont want to because it makes me feel worthless.   \n  \nEvery morning I wake up and it's a struggle. I stay in bed like an hour longer than I should. Not even sleeping. Just lying there.\n\nHere's what's messing with my head. I spent the last few months learning cold email, LinkedIn outreach (sorry, yes i add to the noise, but my noise booked meetings too), deliverability etc.. And I got pretty good. But now I'm sitting here wondering, is any of this even valuable anymore?  \n  \nDo owners believe they can replicate my work and book meetings themselves? Use claude or gpt to grow their brand. There was a lot of thought i put into this that got me good results, but it kinda feels like its been reduced to nothing. Idk, im feeling really down. \n\nHas anyone felt this level of doubt before? Im reading self help books again to keep me going. It works sometimes, but i have to admit, its really hard. ",
+        "subreddit": "Entrepreneur",
+        "author": "Spare_Worldliness_64",
+        "score": 135,
+        "num_comments": 92,
+        "created_utc": 1780677656.0,
+        "permalink": "https://www.reddit.com/r/Entrepreneur/comments/1txq8b2/left_a_120k_job_to_freelance_lost_my_only_client/",
+        "fetched_at": "2026-06-06T09:54:23.926060"
+      },
+      {
+        "id": "1tvildd",
+        "title": "What's the most impressive AI automation running in your business today?",
+        "selftext": "I recently heard about a founder who built an AI system that monitors podcasts and interviews from CEOs at target companies. Whenever a CEO appears on a podcast, the AI transcribes the episode, extracts strategic initiatives, hiring plans, expansion goals, budget priorities, and anything else that might be relevant for sales.\n\nThe interesting part is that it automatically updates the CRM and rewrites outreach messaging based on what the CEO actually said. So if a CEO mentions they're focused on reducing customer support costs this year, the sales team reaches out with messaging specifically around support efficiency rather than a generic pitch. It feels like a pretty massive information advantage compared to traditional prospecting.\n\nSo curious, what's the most impressive AI automation running in your business today?",
+        "subreddit": "Entrepreneur",
+        "author": "dewharmony03",
+        "score": 109,
+        "num_comments": 121,
+        "created_utc": 1780473560.0,
+        "permalink": "https://www.reddit.com/r/Entrepreneur/comments/1tvildd/whats_the_most_impressive_ai_automation_running/",
+        "fetched_at": "2026-06-06T09:54:23.926095"
+      },
+      {
+        "id": "1t764e6",
+        "title": "I want to shut down my freelance business",
+        "selftext": "I'm a freelance graphic designer, but I'm still really new to working for people professionally. I recently had a gig go really bad, as I had completed my end and got paid, only to have the client call me this morning demanding a refund because the files were not right. She literally had another graphic designer with her claiming I had no idea what I was doing and that I was nowhere close to what they needed. I gave them a full refund, but I feel like crap. I'm worried they'll review me poorly. I've been scammed, ghosted, and now this. I feel like I have one out of every 50 clients actually be good.",
+        "subreddit": "freelance",
+        "author": "Prudent-Acadia2250",
+        "score": 105,
+        "num_comments": 106,
+        "created_utc": 1778242393.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1t764e6/i_want_to_shut_down_my_freelance_business/",
+        "fetched_at": "2026-06-06T09:54:30.033835"
+      },
+      {
+        "id": "1tuomtd",
+        "title": "The only number that predicted whether a side business would work for me. learned it after losing money on 6 of them",
+        "selftext": "Ran the actual numbers on every side thing i tried over 2 years. not vanity metrics, real dollars in and out, hours logged. once I lined them all up next to each other one number jumped out that predicted everything, and its not the one this sub usually talks about.\n\nits not revenue. its not margin. its revenue per hour of YOUR time, measured after the thing is built.\n\nlet me show why it matters with real numbers.\n\nPrint on demand made me about 2200 over 8 months. sounds fine until you count the 300 hours on designs and listings. thats 7 bucks an hour. i was working below minimum wage to feel like an entrepreneur.\n\nDropshipping: 2400 spent on ads, 900 back, plus 200 hours. Negative on both money and time. the margins everyone posts about are real for maybe 2 percent of people and a lie for the rest.\n\nthen the etsy digital products. specific ones, not generic. One took me maybe 5 hours to make and its pulled steady money for over a year with almost no maintenance. the revenue per hour on that, once it's built, is in a completely different universe than everything else i tried.\n\nHere's the insight that actually changed how i pick what to work on. most side businesses fail not because they dont make money, but because they make money at a terrible hourly rate that collapses the second you stop grinding. a thing that makes 2000 a month but eats 40 hours a week isnt a business, its a job you gave yourself, usually a worse paying one.\n\nthe question that saved me from wasting more years: once this thing is built, how many dollars does it make per hour of my ongoing time? if the answer is high, it scales without killing you. If its low, no amount of \"scaling\" fixes it, you just buy yourself a worse job.\n\nEveryone here optimizes for revenue. optimize for revenue per hour of your own time after build. its the number that tells you if youre building an asset or a trap.\n\nwhat's your highest one been? mine was specific digital products which i did not see coming..",
+        "subreddit": "Entrepreneur",
+        "author": "Existing-Ice221",
+        "score": 101,
+        "num_comments": 93,
+        "created_utc": 1780401195.0,
+        "permalink": "https://www.reddit.com/r/Entrepreneur/comments/1tuomtd/the_only_number_that_predicted_whether_a_side/",
+        "fetched_at": "2026-06-06T09:54:23.926105"
+      },
+      {
+        "id": "1sxer6j",
+        "title": "Client paid me $1500 then disappeared… do I follow up or just leave it?",
+        "selftext": "&#x200B;\n\nI need outside opinions because I feel weird about this\n\nSo I’m a social media manager/strategist. Last December a girl I kinda know (we’ve interacted a lot online, same industry, she’s more senior than me, has her own agency) reached out to me for services\n\nShe signed up for a 3 month package ($1500 total), paid upfront, everything was clear. I started the first month, sent ideas, did my part\n\nThen she kinda disappeared\n\nAbout a month in, she messaged saying her kid is going through mental health stuff and she hasn’t been able to focus on work. Totally valid, I told her to prioritize her family.\n\nBut now it’s been months. Like… a while. And nothing since.\n\nNo approvals, no feedback, no “pause,” no “continue,” nothing\n\nAnd I’m stuck in this awkward spot:\n\nI don’t want to keep messaging and feel like I’m bothering her during a hard time\n\nI don’t want her to feel like I took her money and did nothing\n\nI also don’t know if she secretly didn’t like the work and is avoiding the convo\n\nAnd I’m not used to this situation because usually clients are the opposite (very on top of me lol)\n\nPart of me is like: just leave it, she can come back anytime and use the package\n\nPart of me is like: this is $1500… should I be more proactive? Offer a refund? Set a boundary? Pause officially?\n\nIt’s also tricky because I know her, so it’s not purely transactional\n\nWhat would you do in this situation?\n\nFollow up again?\n\nLeave it alone?\n\nOffer partial refund?\n\nOr set a “use it by X date” type boundary?\n\nI don’t want to handle this in a way that feels insensitive, but I also don’t want this to stay in limbo forever",
+        "subreddit": "freelance",
+        "author": "igetyourbrand",
+        "score": 93,
+        "num_comments": 124,
+        "created_utc": 1777319779.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1sxer6j/client_paid_me_1500_then_disappeared_do_i_follow/",
+        "fetched_at": "2026-06-06T09:54:30.033848"
+      },
+      {
+        "id": "1tbl7ag",
+        "title": "People from Third World countries, stop making this mistake in your professional practice",
+        "selftext": "I see independent professionals—I denounce the term \"freelancer\"—make this grave mistake again and again. They believe they are \"not good enough\" to work with international clients.  \n  \nIf you ask, \"Why do you think that?\" they say, \"I am an Indian,\" or, \"I am a Pakistani,\" or \"I am...\" some other sub-continental flavor. I held this misconception for the longest time, too. I thought the international market would judge me for my skin color. But that's all it was—a misconception.   \n  \nOver the past five years, I've ghostwritten for clients from the USA, Canada, UK, Romania, Japan, and all over. I've ghostwritten for CEOs, Startup Founders, Life Coaches, Small-Time Business Owners, Podcasters, Oncologists, a PhD Professor, Agency Owners, and Digital Nomads. Their only concern was the value I offered.   \n  \nI truly believe we are in the Second Age of Exploration. The trade routes are open. No one cares about your skin or the way you speak; they only care about what you bring to the table. So I say pillage, plunder, and loot as you please. The world is your oyster.",
+        "subreddit": "freelance",
+        "author": "AlphaWolf132",
+        "score": 73,
+        "num_comments": 52,
+        "created_utc": 1778635867.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1tbl7ag/people_from_third_world_countries_stop_making/",
+        "fetched_at": "2026-06-06T09:54:30.033832"
+      }
+    ]
+  }
+}
