@@ -1,0 +1,226 @@
+{
+  "metadata": {
+    "total_items": 20,
+    "sources": {
+      "youtube": 10,
+      "reddit": 10
+    },
+    "fetched_at": "2026-09-04T02:04:51.907542"
+  },
+  "data": {
+    "youtube": [
+      {
+        "videoId": "JKJJsMUv6Mc",
+        "title": "The ONLY Workflow You Need To Edit 10X Faster",
+        "description": "Join The Editing Lair Program https://www.vfxmalice.com/editinglair?video=JKJJsMUv6Mc Download your FREE outreach ...",
+        "channelTitle": "Malice (Sayeef Ahmed)",
+        "publishedAt": "2026-07-11T20:29:37Z",
+        "url": "https://www.youtube.com/watch?v=JKJJsMUv6Mc",
+        "fetched_at": "2026-09-04T02:04:43.171940"
+      },
+      {
+        "videoId": "dCY9xejoWDU",
+        "title": "This Editing Workflow Saves Hours",
+        "description": "APPLY FOR COACHING FROM ME: https://tally.so/r/pbpOMP?utm_source=YTDesc-Old - Join our FREE RESOLVE COMMUNITY ...",
+        "channelTitle": "Casey Faris",
+        "publishedAt": "2026-03-18T14:01:06Z",
+        "url": "https://www.youtube.com/watch?v=dCY9xejoWDU",
+        "fetched_at": "2026-09-04T02:04:43.171938"
+      },
+      {
+        "videoId": "x3TrUPSFyPU",
+        "title": "The Best Editing Workflow on the Internet",
+        "description": "GET THE SPEED EDITING SYSTEM: https://www.justinnjames.com/speed-editing-v4- Work with me: ...",
+        "channelTitle": "Justin James",
+        "publishedAt": "2026-02-11T15:57:00Z",
+        "url": "https://www.youtube.com/watch?v=x3TrUPSFyPU",
+        "fetched_at": "2026-09-04T02:04:43.171942"
+      },
+      {
+        "videoId": "aaAZ7qSpD4A",
+        "title": "Small Business Accounting: The Ultimate Checklist",
+        "description": "Download the FREE Checklist Here: https://claracfo.com/responsibility If you've ever been frustrated by dropped balls or confusion ...",
+        "channelTitle": "Financial Tech Lab by Clara CFO Group",
+        "publishedAt": "2025-06-30T23:00:02Z",
+        "url": "https://www.youtube.com/watch?v=aaAZ7qSpD4A",
+        "fetched_at": "2026-09-04T02:04:43.623140"
+      },
+      {
+        "videoId": "954L0eVIdaE",
+        "title": "How I Would Learn Video Editing (If I Could Start Over)",
+        "description": "If I could go back in time and learn video editing, I would do a lot of things differently. In this video, I walk you through an entire ...",
+        "channelTitle": "Gavin Herman",
+        "publishedAt": "2025-01-22T22:00:10Z",
+        "url": "https://www.youtube.com/watch?v=954L0eVIdaE",
+        "fetched_at": "2026-09-04T02:04:43.171944"
+      },
+      {
+        "videoId": "Gua2Bo_G-J0",
+        "title": "The ACCOUNTING BASICS for BEGINNERS",
+        "description": "Accounting is the process of recording, organizing, understanding, reporting on, and analyzing financial information of a business.",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2023-08-24T20:30:01Z",
+        "url": "https://www.youtube.com/watch?v=Gua2Bo_G-J0",
+        "fetched_at": "2026-09-04T02:04:43.623136"
+      },
+      {
+        "videoId": "gOchfGvTogk",
+        "title": "My simple video editing workflow | Make video editing easier!",
+        "description": "Transform your photography today: https://www.scottedwardsyoutube.com Video editing is a craft. It takes a lot of time to make ...",
+        "channelTitle": "Scott Edwards",
+        "publishedAt": "2022-10-27T14:00:33Z",
+        "url": "https://www.youtube.com/watch?v=gOchfGvTogk",
+        "fetched_at": "2026-09-04T02:04:43.171926"
+      },
+      {
+        "videoId": "pKpdibyljR4",
+        "title": "The BOOKKEEPING BASICS for BEGINNERS",
+        "description": "Bookkeeping is the recording of past financial data to make future business decisions. In this tutorial, you'll learn what ...",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2022-06-29T20:30:06Z",
+        "url": "https://www.youtube.com/watch?v=pKpdibyljR4",
+        "fetched_at": "2026-09-04T02:04:43.623122"
+      },
+      {
+        "videoId": "xWv391G8Nyw",
+        "title": "Learn the Basics of Bookkeeping [FREE QuickBooks Training]",
+        "description": "Bookkeeping Basics plus Quickbooks Training! Sign up with Quickbooks using this link for a STEEP discount off the regular price!",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2022-01-28T16:45:02Z",
+        "url": "https://www.youtube.com/watch?v=xWv391G8Nyw",
+        "fetched_at": "2026-09-04T02:04:43.623138"
+      },
+      {
+        "videoId": "3KeG7hHzUy4",
+        "title": "Accounting Basics for Small Business Owners [By a CPA]",
+        "description": "Learn the accounting basics for small business from a CPA. Today, you will learn the role of accounting in small business.",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2020-10-12T11:00:02Z",
+        "url": "https://www.youtube.com/watch?v=3KeG7hHzUy4",
+        "fetched_at": "2026-09-04T02:04:43.623133"
+      }
+    ],
+    "reddit": [
+      {
+        "id": "1w5qg2s",
+        "title": "The single biggest shift coming to SaaS",
+        "selftext": "Almost every B2B SaaS company rn is scrambling to build their own proprietary AI assistant inside their web app where they want users to log in, click their sidebar and talk to their custom bot.\n\nBut if you've noticed the buyers have changed a lot in last few months and how they work today and nobody wants to switch between 15 different walled garden browser tabs to talk to 15 different agents. People want to stay in Claude Code, Codex, or their terminal and have their central agent interact with your product via APIs, MCPs, or plain execution hooks.\n\nand I think this changes two massive things for SaaS founders going forward:\n\n1st, Product UI is becoming secondary so if a customer can't invoke your core capability directly through their existing agent or workflow, they'll pick a competitor whose API is easier to hook into or simply script a lightweight internal tool themselves.\n\n2nd, GTM & outbound have to change with the pitching another standalone tool with its own UI is facing massive fatigue. Outbound only works when you reach out based on live timing triggers (like stack migrations or active workflow bottlenecks) where teams are actively struggling with multiple works.\n\nand instead of using AI to generate cold email copy, people getting traction are using reasoning models upstream to qualify those exact live signals and timing triggers and that's why we're also hosting a free 30min live breakdown tomorrow on setting up [**signal-based outbound workflows with Claude**](https://luma.com/ahxuu0xm) if you want to see how to structure those trigger filters.",
+        "subreddit": "SaaS",
+        "author": "sibraan_",
+        "score": 810,
+        "num_comments": 85,
+        "created_utc": 1788390810.0,
+        "permalink": "https://www.reddit.com/r/SaaS/comments/1w5qg2s/the_single_biggest_shift_coming_to_saas/",
+        "fetched_at": "2026-09-04T02:04:45.930328"
+      },
+      {
+        "id": "9imfv9",
+        "title": "Please Read This Before Posting or Commenting",
+        "selftext": "**Violating [the rules of this subreddit](https://old.reddit.com/r/freelance/about/rules) will cause your post/comment will be removed and you will be banned PERMANENTLY. This is your only warning!** If you are unsure about whether a potential post or comment is suitable, [contact the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Ffreelance) for guidance **before** posting it.\n\nIf you're asking a question, there's a good chance that it has already been answered! **[Read the wiki](/r/freelance/wiki/) and do a [search](https://www.reddit.com/r/freelance/search?q=&restrict_sr=on&sort=relevance&t=all) before submitting your post.**\n\nJust because your question involves freelancing does not mean that it is the best subreddit for it. Depending on your question, one of these other subreddits might be more appropriate:\n\n* /r/bigseo\n* /r/careerguidance\n* /r/copywriting\n* /r/DigitalNomad\n* /r/forhire\n* /r/freelanceUK\n* /r/freelanceWriters\n* /r/graphic_design\n* /r/jobs\n* /r/photography\n* /r/tax\n* /r/TranslationStudies\n* /r/UpWork\n* /r/videography\n* /r/webdev",
+        "subreddit": "freelance",
+        "author": "martey",
+        "score": 549,
+        "num_comments": 0,
+        "created_utc": 1537827417.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/9imfv9/please_read_this_before_posting_or_commenting/",
+        "fetched_at": "2026-09-04T02:04:50.906159"
+      },
+      {
+        "id": "1u0z4vz",
+        "title": "New rule banning a SaaS product category: No Promotional or Advertising SaaS",
+        "selftext": "Hello SaaSers, \n\n  \nToday we are announcing a new rule against content dedicated to an entire Software as a Service product category on the sub: **Promotional or Advertising SaaS.**\n\n\n\nWe as moderators and regular users have been suffering from the constant influx of promotional content, spam, ads, and all sorts of campaigns that flood this and many other subs, pushing down organic, relevant content and driving us away from our common interests and hobbies. \n\n\n\nWe have identified an ever-increasing number of SaaS products made specifically for promotional or advertising purposes, targeting users on Reddit and other public platforms using various levels of automation. Most of them are focused on the content creator’s or advertiser’s needs, with little or no regard for the communities being bombarded.\n\n\n\n**Today we say ENOUGH!** r/SaaS is not going to help them grow anymore. Even though they may offer a valid, legal and requested feature set, we believe they don't represent the direction that public forums should be headed towards. Our communities shouldn't be giant billboards and the future of the internet shouldn't be an arms race between people trying to have real conversations and tools designed to interrupt, imitate, and monetize them.\n\n\n\nFrom now on, r/SaaS is not going to allow promotion, recommendation, launch announcements, feedback requests, recruiting, or user acquisition for SaaS products made for advertising, promotional outreach, lead/opportunity detection, or ad/content generation.\n\n\n\nThis includes software tools that generate, suggest, schedule, detect opportunities, automate, or coordinate promotional posts, comments, DMs, replies, or campaigns on Reddit or other platforms.\n\n\n\nViolations may result in a permanent ban for the user who posted or commented and the tool name and URL may be blacklisted.\n\n\n\nWe know this will be an unpopular decision for a small subset of our fellow SaaSers but we are working to bring our sub back from the marketplace-like state it has become, to a more healthy community with valuable content and engagement.\n\n\n\n**To the** r/SaaS **developers affected by this rule:** we cannot wish success to products built to make public spaces louder, more automated and less human. But we do hope you build something better, something that earns attention instead of extracting it, and improves the internet instead of turning every community into an acquisition channel.\n\n\n\nWe hope to hear your opinions on this new rule and to receive your reports on the now forbidden content (the content posted before this announcement will be mostly kept, unless it violates another rule).\n\n\n\nThe r/SaaS Mods",
+        "subreddit": "SaaS",
+        "author": "ergonet",
+        "score": 545,
+        "num_comments": 285,
+        "created_utc": 1780993847.0,
+        "permalink": "https://www.reddit.com/r/SaaS/comments/1u0z4vz/new_rule_banning_a_saas_product_category_no/",
+        "fetched_at": "2026-09-04T02:04:45.930323"
+      },
+      {
+        "id": "1v9xccr",
+        "title": "There is a secret third thing you can do to get clients as a freelancer",
+        "selftext": "My inbox, these subreddits, the entire internet are flooded by one quintessential question: **how do I get my first client?**\n\nThe common answers are common. Post more, be better, have a better portfolio, join a cult, and so on. I've never seen around here, or anywhere if I'm being honest, what I'm about to say. My intuition says it's because this is a delicate thing to suggest, but I'll do my best to frame it properly.\n\nDonate your design/web/copy/etc skills. There are thousands of charities, non-profits or causes that almost always need a creative to help them. It's almost impossible to like something and not be a cause fighting for it somewhere. Animals, children, trees you name it. Reach out, offer your services, expect nothing in return.\n\nA bit of backstory. A few years ago, one of my friends asked me if I have some spare time to help an association that's organizing a local festival to raise money for a new kindergarten for underprivileged kids. I said yes and ended up developing their landing page and some help with designing their social media visuals. It was fun, met a lot of cool people from multiple industries and did a lot of good along the way. And to get to the point: that experience still brings me paid work today. The owner wanted extra work after the festival, then recommended me to a friend, ended up redesigning their entire ecommerce, rebranding - word of mouth compounded. Chances are you’ll meet extraordinary people.\n\nIs there a catch? Yes. You need to be genuine. I know the rent is due, subscriptions scream and living might be hard sometimes, but this is no instant money grab. It's just a way to get more exposure for your services and not waste time otherwise wasted with waiting for a client to drop in your inbox. You'll have real projects to present, with real measured impact (these organisations measure everything because they have annual reports, etc) and maybe you made some people/animals/plants happy along the way.\n\nPick a charity, introduce yourself and if you're a good fit, donate as many hours of your time as you feel you can. Make sure you are clear on your boundaries, because the line between volunteering and exploitation is thin.",
+        "subreddit": "freelance",
+        "author": "vali_tronaru",
+        "score": 302,
+        "num_comments": 66,
+        "created_utc": 1785334268.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1v9xccr/there_is_a_secret_third_thing_you_can_do_to_get/",
+        "fetched_at": "2026-09-04T02:04:50.906209"
+      },
+      {
+        "id": "1w63mm4",
+        "title": "New hire (friend of my best employee) lied to me in her first week. Fire her or give one chance?",
+        "selftext": "I run a small business. Recently hired a young woman, a close friend of my best employee. That's the main reason I gave her a shot.\n\nHer first week:\n\n* Day 2, her first day working alone: cameras show her leaving the office for 30 minutes without telling anyone\n* Later that day she was about to leave again, saw me arriving, and pretended she had just come back. Sat at her desk with her coat on\n* Took a 45 minute break when we agreed on 30\n* First time working from home: she estimated 4 hours for the task, then billed me 8\n* Called of\n\nf for (Reddit keeps breaking this sentence for some reason)\n\n* work 3 hours before she had to come in because her mothers illness has gotten a bit worse. This one I totally understand and don’t mind at all but it is stacking up a bit with the other things.\n\nI haven't confronted her yet. Only dropped a hint that we have cameras.\n\nPart of me says she never got a real chance to correct herself, so talk first and then decide. She also has experience in our field that I can use.\n\nThe other part says this is week ONE. If she's testing limits and lying now, it only gets worse. And honestly I really don't have the energy to babysit a grown adult.\n\nThe friendship with my best employee makes it messy. I don't think I will lose her over this but she may feel some way.\n\nWould you fire her straight away or give one warning? What would you do?\n\nEdit: she is a part-timer",
+        "subreddit": "smallbusiness",
+        "author": "Yes_Excitement369",
+        "score": 299,
+        "num_comments": 258,
+        "created_utc": 1788431588.0,
+        "permalink": "https://www.reddit.com/r/smallbusiness/comments/1w63mm4/new_hire_friend_of_my_best_employee_lied_to_me_in/",
+        "fetched_at": "2026-09-04T02:04:49.172449"
+      },
+      {
+        "id": "1w5l3yj",
+        "title": "My family’s 35-year-old general store is slowly dying after we lost our customers’ trust. How can we rebuild it?",
+        "selftext": "(used ChatGPT to fix grammer)\n\nHey everyone, I’m 17 and I need some genuine advice about my family’s business.\n\nMy grandfather started our general store in our village on May 27, 1991. It started extremely small — initially we basically sold candies and a few basic items. Over the years, we shifted to a better location, and today our store is in the main market area near the village dairy.\n\nThere are basically two major general stores in that market area, including ours. The other store is closer to the dairy, so they naturally have a small location/convenience advantage. However, our biggest advantage has always been our pricing. We try to sell almost everything at the lowest possible price, and in many cases there is a noticeable price difference compared with the other store.\n\nFor years, this worked really well. Around 5–6 years ago, my father, my brother and I would all be handling customers, and the store had a strong customer base. My father also generated significant revenue from the business over the years.\n\nUnfortunately, things started going downhill when my father began focusing more on a PAN-card-related investment scheme instead of the store. He also recommended the scheme to some of our regular customers.\n\nThe scheme eventually turned out to be a scam.\n\nThe biggest damage wasn't just financial — it was the loss of trust. Customers who had trusted our family for years started associating the failed scheme with our store. Some people who had invested in the scheme even took goods from our store on credit roughly equivalent to what they had invested and then stopped contacting us.\n\nMeanwhile, my father’s attention had shifted away from the store, and the business itself stopped getting the same level of attention it used to.\n\nNow, compared with 5–6 years ago, customer traffic has dropped significantly. There are times when only one person is managing the store.\n\nWhat makes this especially frustrating is that our prices are still among the lowest in the area. We already have the location, experience, suppliers, and decades of history. But low prices haven't been enough to bring back the trust we lost.\n\nMy father and grandfather still want to continue the family business, and honestly, I don't want to see something my grandfather started in 1991 disappear.\n\nI'm thinking about helping modernize the store and rebuild it from the ground up — better inventory management, proper billing, WhatsApp orders, delivery, better product display, stricter credit policies, offers, etc.\n\nBut I don't want to blindly spend money or make random changes.\n\nIf you were in my position, what would you do to revive a 35-year-old family general store that has lost a significant amount of customer trust?\n\nI'd especially appreciate advice from people who have actually run a retail/grocery business.\n\nTL;DR: My grandfather started our village general store in 1991. We have historically had some of the lowest prices and a prime market location, but the other major store is closer to the dairy. A PAN-card investment scheme that my father recommended turned out to be a scam, seriously damaging the trust our customers had in our family. Our business has declined significantly since then. My father and grandfather want to continue the business, and I want to help rebuild it. Looking for practical advice on recovering customers, rebuilding trust, and modernizing the store without wasting money.",
+        "subreddit": "smallbusiness",
+        "author": "Silent_Contact_3927",
+        "score": 280,
+        "num_comments": 111,
+        "created_utc": 1788378721.0,
+        "permalink": "https://www.reddit.com/r/smallbusiness/comments/1w5l3yj/my_familys_35yearold_general_store_is_slowly/",
+        "fetched_at": "2026-09-04T02:04:49.172472"
+      },
+      {
+        "id": "1vy1khu",
+        "title": "AI has completely changed freelance work and honestly, I’m struggling with it",
+        "selftext": "Hey community i have been freelancing for a while, and lately i have been feeling pretty discouraged.\n\nIt feels like a lot of the work that used to be available to freelancers is either being replaced by AI or clients are expecting one person to do what used to take several people in less time and for less money.\n\nEspecially in tech, I’m seeing more and more clients asking, “Can’t AI just do this?”\n\nAnd I get it. I use AI too. It’s an amazing tool, and I don’t think it’s going away. But there’s a difference between using AI to make your work better and watching the demand for your actual work slowly disappear.\n\nWhat worries me most is that it doesn’t seem to be only affecting beginners anymore. Even experienced freelancers with years of skills and a solid portfolio seem to be feeling the pressure.\n\nMaybe I’m just going through a rough period, but I genuinely feel like the freelance market has changed dramatically.\n\nI’m curious if other freelancers here are experiencing the same thing.\n\nHas AI noticeably reduced the amount of work you’re getting? Are clients asking you to use AI instead of hiring you? Or has your business actually benefited from it?\n\nI’d especially like to hear from people in tech, development, design, writing, data, etc.\n\nWould be good to know I’m not the only one feeling this way..",
+        "subreddit": "freelance",
+        "author": "DubieDub",
+        "score": 252,
+        "num_comments": 166,
+        "created_utc": 1787668419.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1vy1khu/ai_has_completely_changed_freelance_work_and/",
+        "fetched_at": "2026-09-04T02:04:50.906188"
+      },
+      {
+        "id": "1v3j8w7",
+        "title": "My top 5 rules for long term client relationships (8 years freelancing)",
+        "selftext": "Good relationships mean repeat business. Repeat business means room to grow. My top 5:\n\n**1. Be flexible when the client asks for more and you didn't see it coming.**\n\nIf it's not in the scope, it's an opportunity to improve your onboarding process for the next client. Find some middle ground if there is any, and try to deliver. Most clients won't have major wants, they're just not branding, development or design professionals, so they're figuring things out with you along the way. This is the start of your collaboration. Be useful, be thoughtful, be empathetic, and they might find a long term partner in you.\n\n**2. Don't suddenly change your process.**\n\nI'm freelancing but I also manage a team of collaborators, and I see this often. Creatives tend to suddenly change the way they send files, the way they prepare files for print, the software they design websites in. For you the change feels gradual. For me it's a different link with a different file and a \"what happened?\". If I have to decipher your process every week, it becomes a problem. Make changes if you need to, they're normal, but announce them. Let me know what changed and why, in advance.\n\n**3. Answer fast.**\n\nMost people need some kind of confirmation that you saw the email or message and you're on it. It doesn't mean you have to be on it immediately. It doesn't even mean you need to give an estimate on the spot. Sometimes an emoji reaction to the message is enough. I know you saw it, I trust you got it, talk soon. Not receiving any answer for an extended period of time creates unnecessary stress because I don’t know if we can make the deadline.\n\n**4. Be honest about your capabilities.**\n\nSaying \"YES SURE\" because you need the money and then delivering garbage in 3x the expected time is just unemployment with extra steps. Be honest. Saying no, or being upfront about what you can deliver, saves everyone time and headaches. Very often you're not the sole creative they have and they'll just ask someone else. That doesn't mean the business with you is over. It's just a task.\n\n**5. Communicate often.**\n\nYou're stuck? Let me help. You feel the task will take longer than expected? Let me know. You need more budget because you butchered the estimate? I'll try to help.\n\nI'm an 8+ year freelancer from Romania and these rules never failed me. I have 10+ active clients, the most recent one is around 9 months, the others are all 2+ years, with the longest relationship at around 6 years. They usually work.\n\nWe're human, deeply flawed, with a garbage sense of time. But we have an extraordinary mind for creativity, and we're capable of great things when we collaborate. Let's go.",
+        "subreddit": "freelance",
+        "author": "vali_tronaru",
+        "score": 168,
+        "num_comments": 56,
+        "created_utc": 1784733723.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1v3j8w7/my_top_5_rules_for_long_term_client_relationships/",
+        "fetched_at": "2026-09-04T02:04:50.906217"
+      },
+      {
+        "id": "1w60dph",
+        "title": "I write one sentence in my phone after every client call. Nothing else I do pays back this well. What is your one-sentence habit?",
+        "selftext": "This is what I do. One sentence in the contact's notes field, before I put the phone down.\n\n*\"Wants the garden, hates the commute, decides with his wife on Sundays.\"*\n\nThat's the whole thing. Ten seconds. I've been doing it about two years and it has changed more about how I work than anything else I tried.\n\nWhat it's actually for: when someone rings you back three weeks later, you get roughly ten seconds to sound like you remember them. Not polite. Remembered. Everybody can feel the difference and nobody ever mentions it out loud. They just quietly go somewhere else and you never find out why.\n\nBefore this, my version was \"hey, remind me where we got to?\" Clients forgive that once. The second time something cools off and it does not come back.\n\nI got it wrong three ways before it worked.\n\nFirst one was writing the note later. I saved them all for the end of the day, and by 6pm I had eleven calls stacked up in my head, so what came out was mush. \"Interested, follow up.\" Write it while your hand is still on the phone or don't bother at all.\n\nThen writing too much. I set up a proper CRM once and filled in every field like a good boy. Never read a single one of them again, because there was too much to scan while a phone is ringing at you. One sentence is about the limit of what a person can take in inside those ten seconds.\n\nThe third one is the one that actually matters. I was writing facts instead of stakes. \"Looking for a 3-bed\" is worthless, it's on the listing anyway. \"Needs to move before the school year or the whole thing falls apart\" is the sentence that wins the call. Write down what they are afraid of, not what they asked you for.\n\nThe general version, whatever business you're in: memory isn't really the problem. Everyone writes things down somewhere. The problem is that what you wrote isn't in front of your eyes at the ten seconds when it would be worth something.\n\nAnyway. What's your one-sentence habit? I'll take any of them, including the stupid ones.",
+        "subreddit": "smallbusiness",
+        "author": "miklosjobbagy",
+        "score": 160,
+        "num_comments": 25,
+        "created_utc": 1788420304.0,
+        "permalink": "https://www.reddit.com/r/smallbusiness/comments/1w60dph/i_write_one_sentence_in_my_phone_after_every/",
+        "fetched_at": "2026-09-04T02:04:49.172454"
+      },
+      {
+        "id": "1vojfyi",
+        "title": "raised my rate for the first time in two years, client said yes instantly, now i feel weird about it",
+        "selftext": "I bumped my rate on a returning client for a new project, first real increase in about two years, and I spent way too long staring at the number before I sent it, rewrote the email a few times pulling out all the justifications so it wouldn't read as defensive, then they replied within the hour with basically sure sounds good when can you start, no pushback at all, which should feel like a win but mostly just made me realize the old number was under the entire time. ngl I don't even have a real method for setting it, I pick a number that feels a little scary, feel bad about it, send it anyway, and that's the whole system. How do people actually set the next number without it just being a guess.",
+        "subreddit": "freelance",
+        "author": "No-Veterinarian7542",
+        "score": 123,
+        "num_comments": 61,
+        "created_utc": 1786741328.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1vojfyi/raised_my_rate_for_the_first_time_in_two_years/",
+        "fetched_at": "2026-09-04T02:04:50.906200"
+      }
+    ]
+  }
+}
