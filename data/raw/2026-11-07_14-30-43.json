@@ -1,0 +1,226 @@
+{
+  "metadata": {
+    "total_items": 20,
+    "sources": {
+      "youtube": 10,
+      "reddit": 10
+    },
+    "fetched_at": "2026-11-07T14:30:43.736485"
+  },
+  "data": {
+    "youtube": [
+      {
+        "videoId": "EDZDp6HvkjU",
+        "title": "My Complete Editing Workflow With an AI Video Editor (invideo editor)",
+        "description": "invideo editor trimmed two raw takes (54 seconds) into a 45.4-second first cut I can still edit. Try invideo editor free: ...",
+        "channelTitle": "Future AI",
+        "publishedAt": "2026-09-29T17:15:20Z",
+        "url": "https://www.youtube.com/watch?v=EDZDp6HvkjU",
+        "fetched_at": "2026-11-07T14:30:34.283316"
+      },
+      {
+        "videoId": "BSzacXI_rbU",
+        "title": "EDIT 10x FASTER: The Ultimate Video Editing Workflow (2026)",
+        "description": "EDIT 10x FASTER: The Ultimate Video Editing Workflow (2026) In this video, I'm sharing my personal video editing workflow and ...",
+        "channelTitle": "Sam YT",
+        "publishedAt": "2026-09-05T11:30:01Z",
+        "url": "https://www.youtube.com/watch?v=BSzacXI_rbU",
+        "fetched_at": "2026-11-07T14:30:34.283313"
+      },
+      {
+        "videoId": "dCY9xejoWDU",
+        "title": "This Editing Workflow Saves Hours",
+        "description": "APPLY FOR COACHING FROM ME: https://tally.so/r/pbpOMP?utm_source=YTD-dCY9xejoWDU - Join our FREE RESOLVE ...",
+        "channelTitle": "Casey Faris",
+        "publishedAt": "2026-03-18T14:01:06Z",
+        "url": "https://www.youtube.com/watch?v=dCY9xejoWDU",
+        "fetched_at": "2026-11-07T14:30:34.283317"
+      },
+      {
+        "videoId": "9a04BsKv26M",
+        "title": "Top 5 Accounting Software for Small Business (2026 Guide)",
+        "description": "My top 5 Accounting Software for Small Businesses. My recommended accounting software for small to medium businesses is ...",
+        "channelTitle": "Stewart Gauld",
+        "publishedAt": "2025-08-27T11:30:07Z",
+        "url": "https://www.youtube.com/watch?v=9a04BsKv26M",
+        "fetched_at": "2026-11-07T14:30:34.644513"
+      },
+      {
+        "videoId": "aaAZ7qSpD4A",
+        "title": "Small Business Accounting: The Ultimate Checklist",
+        "description": "Download the FREE Checklist Here: https://claracfo.com/responsibility If you've ever been frustrated by dropped balls or confusion ...",
+        "channelTitle": "Financial Tech Lab by Clara CFO Group",
+        "publishedAt": "2025-06-30T23:00:02Z",
+        "url": "https://www.youtube.com/watch?v=aaAZ7qSpD4A",
+        "fetched_at": "2026-11-07T14:30:34.644512"
+      },
+      {
+        "videoId": "954L0eVIdaE",
+        "title": "How I Would Learn Video Editing (If I Could Start Over)",
+        "description": "If I could go back in time and learn video editing, I would do a lot of things differently. In this video, I walk you through an entire ...",
+        "channelTitle": "Gavin Herman",
+        "publishedAt": "2025-01-22T22:00:10Z",
+        "url": "https://www.youtube.com/watch?v=954L0eVIdaE",
+        "fetched_at": "2026-11-07T14:30:34.283319"
+      },
+      {
+        "videoId": "LgOiQeYkuAA",
+        "title": "How to Choose the Best Accountant for Your Small Business",
+        "description": "Deciding to hire an accountant is a significant step forward for any business owner. But with so many options out there, how do ...",
+        "channelTitle": "CSI Accounting",
+        "publishedAt": "2024-03-21T17:50:03Z",
+        "url": "https://www.youtube.com/watch?v=LgOiQeYkuAA",
+        "fetched_at": "2026-11-07T14:30:34.644511"
+      },
+      {
+        "videoId": "gOchfGvTogk",
+        "title": "My simple video editing workflow | Make video editing easier!",
+        "description": "Transform your photography today: https://www.scottedwardsyoutube.com Video editing is a craft. It takes a lot of time to make ...",
+        "channelTitle": "Scott Edwards",
+        "publishedAt": "2022-10-27T14:00:33Z",
+        "url": "https://www.youtube.com/watch?v=gOchfGvTogk",
+        "fetched_at": "2026-11-07T14:30:34.283301"
+      },
+      {
+        "videoId": "pKpdibyljR4",
+        "title": "The BOOKKEEPING BASICS for BEGINNERS",
+        "description": "Bookkeeping is the recording of past financial data to make future business decisions. In this tutorial, you'll learn what ...",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2022-06-29T20:30:06Z",
+        "url": "https://www.youtube.com/watch?v=pKpdibyljR4",
+        "fetched_at": "2026-11-07T14:30:34.644497"
+      },
+      {
+        "videoId": "3KeG7hHzUy4",
+        "title": "Accounting Basics for Small Business Owners [By a CPA]",
+        "description": "Learn the accounting basics for small business from a CPA. Today, you will learn the role of accounting in small business.",
+        "channelTitle": "LYFE Accounting",
+        "publishedAt": "2020-10-12T11:00:02Z",
+        "url": "https://www.youtube.com/watch?v=3KeG7hHzUy4",
+        "fetched_at": "2026-11-07T14:30:34.644509"
+      }
+    ],
+    "reddit": [
+      {
+        "id": "1xpsdoh",
+        "title": "“SaaS is dead”",
+        "selftext": "",
+        "subreddit": "SaaS",
+        "author": "Rare_Guide_9830",
+        "score": 629,
+        "num_comments": 39,
+        "created_utc": 1794010247.0,
+        "permalink": "https://www.reddit.com/r/SaaS/comments/1xpsdoh/saas_is_dead/",
+        "fetched_at": "2026-11-07T14:30:37.309691"
+      },
+      {
+        "id": "1u0z4vz",
+        "title": "New rule banning a SaaS product category: No Promotional or Advertising SaaS",
+        "selftext": "Hello SaaSers, \n\n  \nToday we are announcing a new rule against content dedicated to an entire Software as a Service product category on the sub: **Promotional or Advertising SaaS.**\n\n\n\nWe as moderators and regular users have been suffering from the constant influx of promotional content, spam, ads, and all sorts of campaigns that flood this and many other subs, pushing down organic, relevant content and driving us away from our common interests and hobbies. \n\n\n\nWe have identified an ever-increasing number of SaaS products made specifically for promotional or advertising purposes, targeting users on Reddit and other public platforms using various levels of automation. Most of them are focused on the content creator’s or advertiser’s needs, with little or no regard for the communities being bombarded.\n\n\n\n**Today we say ENOUGH!** r/SaaS is not going to help them grow anymore. Even though they may offer a valid, legal and requested feature set, we believe they don't represent the direction that public forums should be headed towards. Our communities shouldn't be giant billboards and the future of the internet shouldn't be an arms race between people trying to have real conversations and tools designed to interrupt, imitate, and monetize them.\n\n\n\nFrom now on, r/SaaS is not going to allow promotion, recommendation, launch announcements, feedback requests, recruiting, or user acquisition for SaaS products made for advertising, promotional outreach, lead/opportunity detection, or ad/content generation.\n\n\n\nThis includes software tools that generate, suggest, schedule, detect opportunities, automate, or coordinate promotional posts, comments, DMs, replies, or campaigns on Reddit or other platforms.\n\n\n\nViolations may result in a permanent ban for the user who posted or commented and the tool name and URL may be blacklisted.\n\n\n\nWe know this will be an unpopular decision for a small subset of our fellow SaaSers but we are working to bring our sub back from the marketplace-like state it has become, to a more healthy community with valuable content and engagement.\n\n\n\n**To the** r/SaaS **developers affected by this rule:** we cannot wish success to products built to make public spaces louder, more automated and less human. But we do hope you build something better, something that earns attention instead of extracting it, and improves the internet instead of turning every community into an acquisition channel.\n\n\n\nWe hope to hear your opinions on this new rule and to receive your reports on the now forbidden content (the content posted before this announcement will be mostly kept, unless it violates another rule).\n\n\n\nThe r/SaaS Mods",
+        "subreddit": "SaaS",
+        "author": "ergonet",
+        "score": 573,
+        "num_comments": 331,
+        "created_utc": 1780993847.0,
+        "permalink": "https://www.reddit.com/r/SaaS/comments/1u0z4vz/new_rule_banning_a_saas_product_category_no/",
+        "fetched_at": "2026-11-07T14:30:37.309675"
+      },
+      {
+        "id": "9imfv9",
+        "title": "Please Read This Before Posting or Commenting",
+        "selftext": "**Violating [the rules of this subreddit](https://old.reddit.com/r/freelance/about/rules) will cause your post/comment will be removed and you will be banned PERMANENTLY. This is your only warning!** If you are unsure about whether a potential post or comment is suitable, [contact the moderators](https://www.reddit.com/message/compose?to=%2Fr%2Ffreelance) for guidance **before** posting it.\n\nIf you're asking a question, there's a good chance that it has already been answered! **[Read the wiki](/r/freelance/wiki/) and do a [search](https://www.reddit.com/r/freelance/search?q=&restrict_sr=on&sort=relevance&t=all) before submitting your post.**\n\nJust because your question involves freelancing does not mean that it is the best subreddit for it. Depending on your question, one of these other subreddits might be more appropriate:\n\n* /r/bigseo\n* /r/careerguidance\n* /r/copywriting\n* /r/DigitalNomad\n* /r/forhire\n* /r/freelanceUK\n* /r/freelanceWriters\n* /r/graphic_design\n* /r/jobs\n* /r/photography\n* /r/tax\n* /r/TranslationStudies\n* /r/UpWork\n* /r/videography\n* /r/webdev",
+        "subreddit": "freelance",
+        "author": "martey",
+        "score": 549,
+        "num_comments": 0,
+        "created_utc": 1537827417.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/9imfv9/please_read_this_before_posting_or_commenting/",
+        "fetched_at": "2026-11-07T14:30:42.735107"
+      },
+      {
+        "id": "1wlam42",
+        "title": "Why do clients demand work immediately like they will die if not delivered urgently, but make the payments 2 months later ? Like our lives don’t depend on it ? So tired of this bullshit",
+        "selftext": "All this when they call you at the 11th hour btw ",
+        "subreddit": "freelance",
+        "author": "minor_weather_98",
+        "score": 315,
+        "num_comments": 111,
+        "created_utc": 1789890017.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1wlam42/why_do_clients_demand_work_immediately_like_they/",
+        "fetched_at": "2026-11-07T14:30:42.735154"
+      },
+      {
+        "id": "1xkpm9i",
+        "title": "Making good money but lost my drive.",
+        "selftext": "I've always been quite disciplined, but this last month has been brutal.\n\nI'm 23 and I make about 12-15k/month making YouTube videos. Not AI slop or shorts, fully original long-form content. My videos do extra-ordinarily well and I genuinely believe I have potential to get very rich and successful via this avenue. It's not great money compared to many of the others here (yet) but it feels very good to make more than anyone in my family with so much flexibility and freedom.\n\nBut over this last month, I have had 0 motivation to work on these videos. I've tried to. I've made like 4-5 videos halfway through before scrapping them because I lose all motivation.\n\nI am seriously disciplined and motivated on EVERYTHING else in my life, though this does feel like a lack of discipline.\n\nI've also been distracting myself with a completely separate project that definitely has a lot of potential to make me a lot of money (feel insanely motivated and passionate about it, working on it 24/7), but I know that I need to stay focused on YouTube and what is actually paying the bills.\n\nHas anyone else experienced this? Losing motivation for a business that's already successful while feeling incredibly passionate about something new?\n\nHow did you handle it? Did you force yourself to stay focused on what was already working? How do you force yourself without hating your life?\n\nedit: thanks everyone for the advice. I'm going to try to toughen up a little lol. I had to work really hard to get here and now maybe I'm getting soft",
+        "subreddit": "Entrepreneur",
+        "author": "opihinalu",
+        "score": 266,
+        "num_comments": 249,
+        "created_utc": 1793492772.0,
+        "permalink": "https://www.reddit.com/r/Entrepreneur/comments/1xkpm9i/making_good_money_but_lost_my_drive/",
+        "fetched_at": "2026-11-07T14:30:35.476901"
+      },
+      {
+        "id": "1wjvyxi",
+        "title": "I cried on a client call today",
+        "selftext": "I’m a freelance web designer and developer working on a website project for a clients. I always set my conditions before starting.\n\nThe thing is, I’m wearing a lot of hats on this project. I’m not only doing the design/development — I’m also doing copywriting, photo editing, product uploads, content organization, etc. Basically, I’m covering several roles that would normally be split between different people in an agency.\n\nThe project itself is actually going well. \n\nBut some tasks are taking much longer than expected.\n\nFor example, they asked me to upload a large number of products. From their perspective, I think it sounds like “download the photo and upload it.”\n\nBut for every image I’m downloading it, cropping it, resizing it, changing the format, adapting it to the store requirements, uploading it, assigning the color, etc. And there are hundreds of images.\n\nI brought this up during a call because I wanted them to understand **this was taking so much time**. Expecting understanding for my hard work.\n\nInstead the client responded:\n\n“You can’t complain, because when you complain it makes us feel bad as clients. I keep getting complaint after complaint from you.”\n\nThat really threw me off. I had never complained before this??? \n\nThen we got into additional work. They asked me to write/upload product descriptions, which were explicitly excluded from the original proposal. When I said that would be additional work, they said:\n\n“But with what we’re already paying you, how can you charge extra?”\n\nAt that point I started crying.\n\nI cry pretty easily, but I really didn’t want to cry in front of a client. \n\nI’ve already added several things that weren’t originally included — a quiz, a size calculator, a map, etc. — without charging extra because I thought they would make the final product better.\n\nSo from my perspective, I’m actually very flexible with **what** we do. \n\nThey then said “you are not being flexible”. I feel like I’ve been extremely flexible.\n\nAnd that’s what I can’t figure out: **if the scope is clear and they know additional work costs extra, why does charging for that work become a personal issue?**\n\nAfter I started crying they turned nicer and in the SAME conversation, they basically said:\n\n“Okay, if you’re charging for additional things, just tell us how much and we’ll pay you.”\n\nThe weirdest part is that they actually told me they don’t want me to leave the project and want me to keep helping them for the next few months.\n\nObviously, I like getting paid.\n\nBut this conversation has made me question whether I want to continue working with them. \n\nAfter the call, I sent them an email summarizing everything and reiterating the scope and my boundaries. I also made it clear that I value the relationship and want the project to succeed.\n\nNow I’m wondering how other freelancers handle this.\n\n**Have you ever had a client who understood the scope and agreed to the terms, but still made you feel guilty when you charged for additional work?**\n\nHow do you communicate that something is taking a lot of time without it sounding like you’re complaining?\n\nAnd if you were in my position, would you continue working with them — perhaps at a significantly higher rate — or take this as a sign to move on?\n\n",
+        "subreddit": "freelance",
+        "author": "SherbertStriking2830",
+        "score": 146,
+        "num_comments": 139,
+        "created_utc": 1789751122.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1wjvyxi/i_cried_on_a_client_call_today/",
+        "fetched_at": "2026-11-07T14:30:42.735155"
+      },
+      {
+        "id": "1x3z60b",
+        "title": "Discovered a client executed my proposal with a cheaper freelancer. How do you protect your blueprints/ideas?",
+        "selftext": ">Hey everyone,  \nI run a small design and development agency, and I just ran into a deeply frustrating situation.  \nA potential client approached us for a project, asking for a detailed proposal. To show our competence, we spent 2 days crafting a solid breakdown—including technical architecture, creative concepts, and scope. After receiving the document and having an initial call, the client completely ghosted us.  \nYesterday, I saw that their project officially launched. It was built EXACTLY on top of our blueprint and structure. It’s obvious they just took our comprehensive proposal and hired someone cheaper to execute it line by line.  \nI feel completely burned. Sending a standard PDF or Notion link feels like giving away free consulting and intellectual property.  \nHow do you guys handle this during the pitching phase? Do you heavily blur your blueprints, omit technical details entirely, or use some specific tools to share documents with restricted access?  \nWould love to hear how you protect your hard work from being stolen. Thanks!",
+        "subreddit": "freelance",
+        "author": "Express-Maize-4157",
+        "score": 129,
+        "num_comments": 129,
+        "created_utc": 1791803843.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1x3z60b/discovered_a_client_executed_my_proposal_with_a/",
+        "fetched_at": "2026-11-07T14:30:42.735136"
+      },
+      {
+        "id": "1wsfwt0",
+        "title": "Former client came back eight months after we wrapped asking me to \"fix\" what ChatGPT says about them, for free",
+        "selftext": "freelance marketer here, content and SEO for small DTC brands mostly. had a skincare client on retainer for about a year, we wrapped last summer, final invoice paid, handover sent, all good. hadn't heard from her since.\n\nthen two weeks ago she emails me a screenshot a customer sent her. the customer asked ChatGPT for a serum for sensitive skin, got two competitors recommended, and when they asked about her brand specifically it quoted a price that's been wrong for over a year. her whole message was \"this is still showing the old pricing from when you did our SEO, can you sort it.\"\n\nmy first reaction was honestly irritation, because I haven't touched anything of hers in eight months. but I also had no idea what was actually going on so I went and looked. ran the site through Pallas, then typed in the questions her customers would actually ask to see it for myself. old price, yes. a product she discontinued after I left still being listed. and on Gemini she doesn't come up at all for sensitive skin, which is literally their whole thing, even though the site still ranks fine on Google. so not a website problem, more that there's a year of stale info floating around in old posts, the product feed, a couple of marketplace listings, and none of it is stuff I set up.\n\nI wrote back and said the engagement ended in the summer, what I delivered was correct at the time, and everything wrong here comes from changes made after that. happy to quote it as a new project. her reply was basically \"but you set all this up so it's kind of on you.\" I'll admit I sat on that for a day because part of me did feel a bit responsible, it was my SEO, it's my name attached in her head. but the more I thought about it the more it felt like being asked to come back and repaint a house because they bought new furniture.\n\nsent the quote. she hasn't said yes, hasn't said no, it's been quiet for a week. wouldn't be surprised if she just finds someone cheaper, and honestly that's fine.\n\nwhat it did change is my handover doc. there's now a paragraph saying anything that happens to the brand's info after we stop working together is not covered, including how they show up in ChatGPT or wherever. and for the clients I'm still working with, checking this is now a separate line in the retainer, priced on its own, because I'd rather find a wrong price myself than get it forwarded to me by an angry customer of theirs.\n\nanyone else had an old client come back expecting you to cover things that changed long after you left.",
+        "subreddit": "freelance",
+        "author": "Expert1-Tonight",
+        "score": 115,
+        "num_comments": 49,
+        "created_utc": 1790605185.0,
+        "permalink": "https://www.reddit.com/r/freelance/comments/1wsfwt0/former_client_came_back_eight_months_after_we/",
+        "fetched_at": "2026-11-07T14:30:42.735150"
+      },
+      {
+        "id": "1xp8wi9",
+        "title": "Entrepreneurship is brutal. I've been working for free for a year. - i will not promote",
+        "selftext": "I think entrepreneurship is one of the hardest jobs in the world. I've been working day and night for 1 year and haven't made a single penny. I saw an opening in the vertical short drama market and decided to take fast action. But then the giants stepped in (TikTok, Instagram, YouTube), and my job got infinitely harder. On top of that, the pirates popped up.\n\nI guess I went down a very wrong path. I've lost so much in this process. Most importantly, my TikTok account, which was getting 30-40 million monthly views, got banned. And the engagement on my YouTube channels with millions of views flatlined to zero because I stopped uploading content to focus on this.\n\nIn short, I am at a 1000% loss.",
+        "subreddit": "startups",
+        "author": "FerhatCelen",
+        "score": 77,
+        "num_comments": 51,
+        "created_utc": 1793958472.0,
+        "permalink": "https://www.reddit.com/r/startups/comments/1xp8wi9/entrepreneurship_is_brutal_ive_been_working_for/",
+        "fetched_at": "2026-11-07T14:30:39.097811"
+      },
+      {
+        "id": "1xp90ev",
+        "title": "My friend refuses to advertise her salon to anyone more than 3 km away",
+        "selftext": "A friend of mine runs a hair salon and we've been arguing about her Instagram ads for the past two days.\n\nShe has her targeting radius set to 3 km. Her logic is that nobody is going to drive 20 minutes for a haircut when there are probably 15 other salons closer to their house.\n\nAnd for a basic haircut I agree. But she also does hair coloring, keratin treatments, bridal hair and a bunch of other services that people usually spend a decent amount of money on.\n\nI told her people will absolutely travel for a good colorist. I've personally gone across the city to get my hair done because I didn't want to risk it with someone new. She thinks increasing the radius means paying to show ads to people who will never book an appointment.\n\nNow we're trying to figure out whether it makes more sense to advertise different services to different areas. Keep haircuts local, but go wider for coloring and bridal appointments.\n\nThe other thing is we don't even know where most of her existing customers live. She's never really tracked that.\n\nAnyone running ads for salons, spas, gyms or other local businesses, how do you decide your radius? Do you go by distance, travel time, or just test different areas until something works?",
+        "subreddit": "smallbusiness",
+        "author": "vedantk21",
+        "score": 73,
+        "num_comments": 92,
+        "created_utc": 1793958893.0,
+        "permalink": "https://www.reddit.com/r/smallbusiness/comments/1xp90ev/my_friend_refuses_to_advertise_her_salon_to/",
+        "fetched_at": "2026-11-07T14:30:40.869195"
+      }
+    ]
+  }
+}
